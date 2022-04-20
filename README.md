@@ -19,6 +19,8 @@
 
   * 海外白皮书
     * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf)
+    * [2021-aws-《risk and compliance white_paper》](./files/whitepaper/2021_AWS_Risk_and_Compliance_Whitepaper.pdf)
+    * [2020-aws-《aws security white_paper》](./files/whitepaper/2020-AWS_Security_Whitepaper.pdf)
     * [2019-apple-《safari privacy white paper》](./files/whitepaper/2019-apple-Safari_White_Paper_Nov_2019.pdf)
 
 
@@ -26,8 +28,11 @@
  * 重要海外法规
    * [欧盟 GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf) 
    * [美国 HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) 
+   * [美国 CCPA官网 - 2018/06/28 ](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375) 
    * [巴西 LGPD官网 - 2020/08/15 ](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
    * [日本 LGPD官网 - 2020/06/05 ](https://www.ppc.go.jp/en/legal/) 
+   * [新加坡 PDPA官网 - 2021/02/01 ](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) 
+   * [南非 PoPIA - 2013/11/26 ](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf) 
   
  * 重要国内法规
    * [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
@@ -65,23 +70,45 @@
    * [数牍科技 - 隐私计算](https://www.sudoprivacy.com/) | 理念：安全高性能的隐私计算平台 
    * [星云clustar - 数据高效融合](https://www.sudoprivacy.com/) | 理念：数融有道 数智无界 
    * [富数科技 - 安全计算](https://www.fudata.cn/) | 理念：构建数据安全桥梁、保护隐私，释放价值 
-   * [翼方健数 - 安全计算](https://www.basebit.ai/) | 理念：隐私安全计算加速数据要素流动，激活数据共享价值(Establishing a new ecosystem of big data) 
+   * [翼方健数 - 安全计算](https://www.basebit.ai/) | 理念：隐私安全计算加速数据要素流动，激活数据共享价值 
    * [华控清交 - 安全计算](https://www.tsingj.com/) | 理念：让数据安全融合，使信任变得简单 
    
    
  * 海外大厂隐私
-   * [apple隐私 - 隐私是每个人的基本权利，同时也是 Apple 的一项核心价值观。](https://www.apple.com.cn/privacy/) | 理念：保护你的隐私，并让你全权管控自己的信息。 
-   * [google隐私 - We keep more people safe online than anyone else in the world.](https://policies.google.com/?hl=zh-CN) | 理念：[隐私七原则](https://safety.google/principles/?hl=zh_CN)。 
-   * [uber隐私 - Your trust is important to us.](https://privacy.uber.com/privacy/center) | 理念：[隐私六原则](https://www.uber.com/global/en/privacy/overview) 
-   * [facebook隐私 - TODO]() | 理念： 
-   * [amazon隐私 - TODO]() | 理念： 
-   * [tiktok隐私 - TODO]() | 理念： 
+   * [apple隐私中心](https://www.apple.com.cn/privacy/) 
+     * 口号：隐私是每个人的基本权利，同时也是 Apple 的一项核心价值观。
+     * 方式：保护你的隐私，并让你全权管控自己的信息
+   * [google隐私中心](https://policies.google.com/?hl=zh-CN) 
+     * 口号：We keep more people safe online than anyone else in the world
+     * 方式：[隐私七原则](https://safety.google/principles/?hl=zh_CN)。 
+   * [uber新隐私中心](https://privacy.uber.com/privacy/center) 
+     * 口号： Your trust is important to us
+     * 方式：[隐私六原则](https://www.uber.com/global/en/privacy/overview) 
+   * [facebook新隐私中心](https://www.facebook.com/privacy/center)  
+   * [aws隐私中心](https://aws.amazon.com/cn/compliance/data-privacy/)  
+     * 口号：通过透明度赢取信任
+   * [tiktok隐私中心](https://www.tiktok.com/safety/en/) 
+     * 口号：创造一个让每个人都感到安全和舒适的温馨环境是我们的首要任务
 
  * 国内大厂隐私
-    * [腾讯隐私 - TODO]() | 理念： 
-    * [阿里隐私 - TODO]() | 理念： 
-    * [小米隐私 - TODO]() | 理念： 
-
+    * [腾讯隐私中心](https://privacy.qq.com/policy/tencent-privacypolicy) 
+      * 口号：腾讯视用户信息安全与隐私保护为自己的生命线 
+      * 方式：PBD(person,button,data) 和五度
+    * [华为隐私中心](https://consumer.huawei.com/cn/privacy/) 
+      * 口号：华为 用创新科技保护你的隐私
+      * 方式：四大主张和三大承诺
+    * [小米隐私中心 ](https://privacy.miui.com/) 
+      * 口号：小米一直将用户的信息安全和隐私保护视为我们的生存之本。
+      * 原则：公开透明，企业责任，用户可控，安全保障
+    * [阿里隐私中心](https://privacy.alibabagroup.com/#/home) 
+      * 口号：安全有责 隐私有界 
+      * 方式：我们始终视用户数据安全为自身成长的生命线，科技护航隐私，合理有度使用数据，造福社会。
+    * [阿里云隐私中心](https://security.aliyun.com/trust) 
+      * 口号：云即信任 
+      * 方式：数据由你掌控等五个措施
+    * [百度隐私中心](http://privacy.baidu.com/) 
+      * 价值观：同意，透明，可控
+    
 
 ## 五、隐私相关公众号
 
