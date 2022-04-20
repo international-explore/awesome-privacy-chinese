@@ -57,9 +57,9 @@
 
 ## 四、隐私创业企业
  * 海外创业公司
-   * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE | 亮点：数据本地化刚需，最近市值上升非常快
-   * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email. | 亮点：20人小公司，融资2500万美元，产品不错
-   * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：AI-driven software platform: Discover and Classify Data, Model and Monitor Access to this Data | 亮点：2022刚融资，20人小团队做了三年
+   * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE 
+   * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email. 
+   * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：Discover and Classify Data, Model and Monitor Access to this Data 
      
  * 国内创业公司
    * [数牍科技 - 隐私计算](https://www.sudoprivacy.com/) | 理念：安全高性能的隐私计算平台 
