@@ -1,4 +1,4 @@
-# 隐私技术交流
+# 国内隐私技术交流
 旨在收集和分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，[相关单词](./dict.md)，[相关新闻](./news.md)等。
 
 # 内容目录
@@ -8,8 +8,8 @@
    * [四、大厂隐私中心](#四大厂隐私中心)
    * [五、隐私新技术](#五隐私新技术)
    * [六、隐私开源工具](#六隐私开源工具)
-   * [七、隐私相关公众号](#七隐私相关公众号)
-   * [八、隐私相关书籍](#八隐私相关书籍)
+   * [七、相关数据](#七相关数据)
+   * [八、相关外链](#八相关外链)
    
    
 ## 一、隐私相关白皮书
@@ -81,20 +81,21 @@
 
 ## 四、大厂隐私中心
  * 海外大厂隐私
-   * [apple隐私中心](https://www.apple.com.cn/privacy/) | 隐私是每个人的基本权利，同时也是 Apple 的一项核心价值观。
-   * [google隐私中心](https://policies.google.com/?hl=zh-CN) | We keep more people safe online than anyone else in the world |[隐私原则](https://safety.google/principles/?hl=zh_CN)。 
-   * [uber新隐私中心](https://privacy.uber.com/privacy/center) | Your trust is important to us|[隐私原则](https://www.uber.com/global/en/privacy/overview) 
-   * [facebook新隐私中心](https://www.facebook.com/privacy/center)  
-   * [aws隐私中心](https://aws.amazon.com/cn/compliance/data-privacy/) | 通过透明度赢取信任
-   * [tiktok隐私中心](https://www.tiktok.com/safety/en/) | 创造一个让每个人都感到安全和舒适的温馨环境是我们的首要任务
+   * [apple隐私中心](https://www.apple.com.cn/privacy/) |[![](https://shields.tosdr.org/en_158.svg)](https://tosdr.org/en/service/158) | 隐私是每个人的基本权利，同时也是 Apple 的一项核心价值观。
+   * [google隐私中心](https://policies.google.com/?hl=zh-CN) |[![](https://shields.tosdr.org/en_182.svg)](https://tosdr.org/en/service/182) | We keep more people safe online than anyone else in the world |[隐私原则](https://safety.google/principles/?hl=zh_CN)。 
+   * [uber新隐私中心](https://privacy.uber.com/privacy/center) |[![](https://shields.tosdr.org/en_182.svg)](https://tosdr.org/en/service/182) | Your trust is important to us|[隐私原则](https://www.uber.com/global/en/privacy/overview) 
+   * [facebook新隐私中心](https://www.facebook.com/privacy/center)  |[![](https://shields.tosdr.org/en_182.svg)](https://tosdr.org/en/service/182) 
+   * [aws隐私中心](https://aws.amazon.com/cn/compliance/data-privacy/) |[![](https://shields.tosdr.org/en_1339.svg)](https://tosdr.org/en/service/1339) | 通过透明度赢取信任
+   * [tiktok隐私中心](https://www.tiktok.com/safety/en/) | [![](https://shields.tosdr.org/en_1448.svg)](https://tosdr.org/en/service/1448) |创造一个让每个人都感到安全和舒适的温馨环境
+   * [twitter隐私中心](https://privacy.twitter.com/en) | [![](https://shields.tosdr.org/en_195.svg)](https://tosdr.org/en/service/195) |Control your Twitter experience
 
  * 国内大厂隐私
-    * [腾讯隐私中心](https://privacy.qq.com/policy/tencent-privacypolicy)|腾讯视用户信息安全与隐私保护为自己的生命线 
-    * [华为隐私中心](https://consumer.huawei.com/cn/privacy/)|华为用创新科技保护你的隐私
-    * [小米隐私中心 ](https://privacy.miui.com/)|小米一直将用户的信息安全和隐私保护视为我们的生存之本。
-    * [阿里隐私中心](https://privacy.alibabagroup.com/#/home)|安全有责 隐私有界 
-    * [阿里云隐私中心](https://security.aliyun.com/trust)|云即信任 
-    * [百度隐私中心](http://privacy.baidu.com/) | 同意，透明，可控
+    * [腾讯隐私中心](https://privacy.qq.com/policy/tencent-privacypolicy)|[![](https://shields.tosdr.org/en_2654.svg)](https://tosdr.org/en/service/2654) |腾讯视用户信息安全与隐私保护为自己的生命线 
+    * [华为隐私中心](https://consumer.huawei.com/cn/privacy/)|[![](https://shields.tosdr.org/en_182.svg)](https://tosdr.org/en/service/182) |华为用创新科技保护你的隐私
+    * [小米隐私中心 ](https://privacy.miui.com/)|[![](https://shields.tosdr.org/en_182.svg)](https://tosdr.org/en/service/182) |小米一直将用户的信息安全和隐私保护视为我们的生存之本。
+    * [阿里隐私中心](https://privacy.alibabagroup.com/#/home)|[![](https://shields.tosdr.org/en_182.svg)](https://tosdr.org/en/service/182) |安全有责 隐私有界 
+    * [阿里云隐私中心](https://security.aliyun.com/trust)|[![](https://shields.tosdr.org/en_182.svg)](https://tosdr.org/en/service/182) |云即信任 
+    * [百度隐私中心](http://privacy.baidu.com/) |[![](https://shields.tosdr.org/en_182.svg)](https://tosdr.org/en/service/182) | 同意，透明，可控
 
 ## 五、隐私新技术
  * 隐私保护
@@ -108,8 +109,13 @@
 
     
 
-## 七、隐私相关公众号
 
-## 八、隐私相关书籍
+## 七、相关书籍
+
+
+## 八、相关外链
+ * github
+   * [privacy tool](https://github.com/pluja/awesome-privacy)
+
 
    
