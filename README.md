@@ -1,7 +1,6 @@
 # 隐私技术交流
 旨在分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，[相关单词](./dict.md)，[相关新闻](./news.md)等。
 
-[toc]
 ## 一、隐私相关白皮书
   * 国内白皮书
     * [2021-腾讯-《腾讯隐私计算白皮书2021》](./files/whitepaper/2021-腾讯隐私计算白皮书2021.pdf)
@@ -28,7 +27,7 @@
    * [欧盟 GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf) 
    * [美国 HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) 
    * [巴西 LGPD官网 - 2020/08/15 ](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
-   * [日本 LGPD官网 - 2020/08/15 ](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
+   * [日本 LGPD官网 - 2020/06/05 ](https://www.ppc.go.jp/en/legal/) 
   
  * 重要国内法规
    * [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
@@ -50,16 +49,39 @@
    * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) | [soc 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) | [soc 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report)
   
 
-## 三、隐私计算技术
+## 三、隐私新技术
+ * 隐私保护
+   * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
+   
+ * 隐私计算
 
 ## 四、隐私创业企业
  * 海外创业公司
-   * [incountry]()
-   * [clacked]()
-   * []()
+   * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE | 亮点：数据本地化刚需，最近市值上升非常快
+   * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email. | 亮点：20人小公司，融资2500万美元，产品不错
+   * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：AI-driven software platform: Discover and Classify Data, Model and Monitor Access to this Data | 亮点：2022刚融资，20人小团队做了三年
      
  * 国内创业公司
-   * []()
+   * [数牍科技 - 隐私计算](https://www.sudoprivacy.com/) | 理念：安全高性能的隐私计算平台 
+   * [星云clustar - 数据高效融合](https://www.sudoprivacy.com/) | 理念：数融有道 数智无界 
+   * [富数科技 - 安全计算](https://www.fudata.cn/) | 理念：构建数据安全桥梁、保护隐私，释放价值 
+   * [翼方健数 - 安全计算](https://www.basebit.ai/) | 理念：隐私安全计算加速数据要素流动，激活数据共享价值(Establishing a new ecosystem of big data) 
+   * [华控清交 - 安全计算](https://www.tsingj.com/) | 理念：让数据安全融合，使信任变得简单 
+   
+   
+ * 海外大厂隐私
+   * [apple隐私 - 隐私是每个人的基本权利，同时也是 Apple 的一项核心价值观。](https://www.apple.com.cn/privacy/) | 理念：保护你的隐私，并让你全权管控自己的信息。 
+   * [google隐私 - We keep more people safe online than anyone else in the world.](https://policies.google.com/?hl=zh-CN) | 理念：[隐私七原则](https://safety.google/principles/?hl=zh_CN)。 
+   * [uber隐私 - Your trust is important to us.](https://privacy.uber.com/privacy/center) | 理念：[隐私六原则](https://www.uber.com/global/en/privacy/overview) 
+   * [facebook隐私 - TODO]() | 理念： 
+   * [amazon隐私 - TODO]() | 理念： 
+   * [tiktok隐私 - TODO]() | 理念： 
+
+ * 国内大厂隐私
+    * [腾讯隐私 - TODO]() | 理念： 
+    * [阿里隐私 - TODO]() | 理念： 
+    * [小米隐私 - TODO]() | 理念： 
+
 
 ## 五、隐私相关公众号
 
