@@ -1,6 +1,16 @@
 # 隐私技术交流
 旨在分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，[相关单词](./dict.md)，[相关新闻](./news.md)等。
 
+# 内容目录
+   * [一、隐私相关白皮书](#一隐私相关白皮书)
+   * [二、隐私相关法规](#二隐私相关法规)
+   * [三、隐私创业企业](#三隐私创业企业)
+   * [四、大厂隐私中心](#四大厂隐私中心)
+   * [五、隐私新技术](#五隐私新技术)
+   * [六、隐私相关公众号](#六隐私相关公众号)
+   * [七、隐私相关书籍](#七隐私相关书籍)
+   
+   
 ## 一、隐私相关白皮书
   * 国内白皮书
     * [2021-腾讯-《腾讯隐私计算白皮书2021》](./files/whitepaper/2021-腾讯隐私计算白皮书2021.pdf)
@@ -53,14 +63,7 @@
    * [ISO 27701:2019](https://www.iso.org/standard/71670.html)
    * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) | [soc 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) | [soc 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report)
   
-
-## 三、隐私新技术
- * 隐私保护
-   * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
-   
- * 隐私计算
-
-## 四、隐私创业企业
+## 三、隐私创业企业
  * 海外创业公司
    * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE 
    * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email. 
@@ -73,7 +76,9 @@
    * [翼方健数 - 安全计算](https://www.basebit.ai/) | 理念：隐私安全计算加速数据要素流动，激活数据共享价值 
    * [华控清交 - 安全计算](https://www.tsingj.com/) | 理念：让数据安全融合，使信任变得简单 
    
-   
+
+
+## 四、大厂隐私中心
  * 海外大厂隐私
    * [apple隐私中心](https://www.apple.com.cn/privacy/) 
      * 口号：隐私是每个人的基本权利，同时也是 Apple 的一项核心价值观。
@@ -108,10 +113,25 @@
       * 方式：数据由你掌控等五个措施
     * [百度隐私中心](http://privacy.baidu.com/) 
       * 价值观：同意，透明，可控
+
+## 五、隐私新技术
+ * 隐私保护
+   * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
+   
+ * 隐私计算
+
     
 
-## 五、隐私相关公众号
+## 六、隐私相关公众号
 
+   * [阿里云隐私中心](https://security.aliyun.com/trust) 
+      * 口号：云即信任 
+      * 方式：数据由你掌控等五个措施
+    
 
-## 六、隐私相关书籍
+## 七、隐私相关书籍
 
+   * [阿里云隐私中心](https://security.aliyun.com/trust) 
+      * 口号：云即信任 
+      * 方式：数据由你掌控等五个措施
+   
