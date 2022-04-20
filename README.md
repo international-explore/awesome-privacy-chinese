@@ -1,31 +1,34 @@
 # 隐私技术交流
 旨在分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，[相关单词](./dict.md)，[相关新闻](./news.md)等。
 
+[toc]
 ## 一、隐私相关白皮书
-  * 白皮书
-    * [2021-工行-《隐私计算推动金融业数据生态建设》白皮书](./files/whitepaper/2021-11《隐私计算推动金融业数据生态建设》白皮书.pdf)
+  * 国内白皮书
     * [2021-腾讯-《腾讯隐私计算白皮书2021》](./files/whitepaper/2021-腾讯隐私计算白皮书2021.pdf)
+    * [2021-信通院-《隐私保护计算技术研究报告》](./files/whitepaper/2020-信通院-隐私保护计算技术研究报告.pdf)
+    * [2021-安永-《全球数据合规与隐私科技发展报告》](./files/whitepaper/2021-安永-全球数据合规与隐私科技发展报告.pdf)
+    * [2021-阿里云-《数据安全隐私保护》白皮书](./files/whitepaper/2021-阿里云-数据安全隐私保护白皮书.pdf)
+    * [2021-工行-《隐私计算推动金融业数据生态建设》白皮书](./files/whitepaper/2021-11《隐私计算推动金融业数据生态建设》白皮书.pdf)
+    * [2021-微众&毕马威-《隐私计算行业研究报告》白皮书](./files/whitepaper/2021-微众&毕马威-隐私计算行业研究报告.pdf)
     * [2021-CB INSIGHT-《中国隐私计算技术与市场发展研究报告》](./files/whitepaper/2021-12中国隐私计算技术与市场发展研究报告.pdf)
     * [2021-移动-《隐私计算白皮书》](./files/whitepaper/2021-移动-隐私计算白皮书.pdf)
     * [2021-隐私计算联盟-《隐私计算法律与合规研究白皮书》](./files/whitepaper/2021-隐私计算联盟-隐私计算法律与合规研究白皮书.pdf)
-    * [2021-信通院-《隐私保护计算技术研究报告》](./files/whitepaper/2020-信通院-隐私保护计算技术研究报告.pdf)
+    * [2021-甲子光年-《隐私计算行业研究报告》](./files/whitepaper/2021-甲子光年-隐私计算行业研究报告.pdf)
+    * [2021-交通银行-《隐私计算金融应用蓝皮书》](./files/whitepaper/2021-交通银行-隐私计算金融应用蓝皮书.pdf)
+    * [2021-信通院-《中国算力发展指数白皮书》](./files/whitepaper/2021-信通院-中国算力发展指数白皮书.pdf)
+    * [2021-信通院-《数据安全风险分析及应对策略研究》](./files/whitepaper/2021-信通院-数据安全风险分析及应对策略研究.pdf)
 
-## 二、隐私计算技术
+  * 海外白皮书
+    * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf)
+    * [2019-apple-《safari privacy white paper》](./files/whitepaper/2019-apple-Safari_White_Paper_Nov_2019.pdf)
 
-## 三、隐私创业企业
- * 海外创业公司
-   * [incountry]()
-   * [clacked]()
-   * []()
-     
- * 国内创业公司
-   * []()
 
-## 四、隐私相关法规
+## 二、隐私相关法规
  * 重要海外法规
-   * [GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf) 
-   * [HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) 
-   * [LGPD官网 - 2020/08/15 ](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
+   * [欧盟 GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf) 
+   * [美国 HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) 
+   * [巴西 LGPD官网 - 2020/08/15 ](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
+   * [日本 LGPD官网 - 2020/08/15 ](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
   
  * 重要国内法规
    * [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
@@ -46,3 +49,20 @@
    * [ISO 27701:2019](https://www.iso.org/standard/71670.html)
    * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) | [soc 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) | [soc 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report)
   
+
+## 三、隐私计算技术
+
+## 四、隐私创业企业
+ * 海外创业公司
+   * [incountry]()
+   * [clacked]()
+   * []()
+     
+ * 国内创业公司
+   * []()
+
+## 五、隐私相关公众号
+
+
+## 六、隐私相关书籍
+
