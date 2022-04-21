@@ -1,42 +1,18 @@
 # 国内隐私技术交流
-旨在收集和分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，[英文词汇](./EnglishVocabulary.md)，[相关新闻](./news.md)等。
+旨在收集和分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，英文词汇，相关新闻等。
 
 # 内容目录
    * [英语词汇](./EnglishVocabulary.md) | [相关新闻](./news.md)
-   * [一、隐私相关白皮书](#一隐私相关白皮书)
-   * [二、隐私相关法规](#二隐私相关法规)
-   * [三、隐私创业企业](#三隐私创业企业)
-   * [四、大厂隐私中心](#四大厂隐私中心)
-   * [五、隐私新技术](#五隐私新技术)
-   * [六、隐私开源工具](#六隐私开源工具)
-   * [七、相关数据](#七相关数据)
-   * [八、相关外链](#八相关外链)
+   * [隐私相关法规](#隐私相关法规)
+   * [隐私相关白皮书](#隐私相关白皮书)
+   * [隐私创业企业](#隐私创业企业)
+   * [大厂隐私中心](#大厂隐私中心)
+   * [隐私新技术](#隐私新技术)
+   * [隐私开源工具](#隐私开源工具)
+   * [隐私相关书籍](#隐私相关书籍)
+   * [隐私相关外链](#隐私相关外链)
    
-   
-## 一、隐私相关白皮书
-  * 国内白皮书
-    * [2021-腾讯-《腾讯隐私计算白皮书2021》](./files/whitepaper/2021-腾讯隐私计算白皮书2021.pdf)
-    * [2021-信通院-《隐私保护计算技术研究报告》](./files/whitepaper/2020-信通院-隐私保护计算技术研究报告.pdf)
-    * [2021-安永-《全球数据合规与隐私科技发展报告》](./files/whitepaper/2021-安永-全球数据合规与隐私科技发展报告.pdf)
-    * [2021-阿里云-《数据安全隐私保护》白皮书](./files/whitepaper/2021-阿里云-数据安全隐私保护白皮书.pdf)
-    * [2021-工行-《隐私计算推动金融业数据生态建设》白皮书](./files/whitepaper/2021-11《隐私计算推动金融业数据生态建设》白皮书.pdf)
-    * [2021-微众&毕马威-《隐私计算行业研究报告》白皮书](./files/whitepaper/2021-微众&毕马威-隐私计算行业研究报告.pdf)
-    * [2021-CB INSIGHT-《中国隐私计算技术与市场发展研究报告》](./files/whitepaper/2021-12中国隐私计算技术与市场发展研究报告.pdf)
-    * [2021-移动-《隐私计算白皮书》](./files/whitepaper/2021-移动-隐私计算白皮书.pdf)
-    * [2021-隐私计算联盟-《隐私计算法律与合规研究白皮书》](./files/whitepaper/2021-隐私计算联盟-隐私计算法律与合规研究白皮书.pdf)
-    * [2021-甲子光年-《隐私计算行业研究报告》](./files/whitepaper/2021-甲子光年-隐私计算行业研究报告.pdf)
-    * [2021-交通银行-《隐私计算金融应用蓝皮书》](./files/whitepaper/2021-交通银行-隐私计算金融应用蓝皮书.pdf)
-    * [2021-信通院-《中国算力发展指数白皮书》](./files/whitepaper/2021-信通院-中国算力发展指数白皮书.pdf)
-    * [2021-信通院-《数据安全风险分析及应对策略研究》](./files/whitepaper/2021-信通院-数据安全风险分析及应对策略研究.pdf)
-
-  * 海外白皮书
-    * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf)
-    * [2021-aws-《risk and compliance white_paper》](./files/whitepaper/2021_AWS_Risk_and_Compliance_Whitepaper.pdf)
-    * [2020-aws-《aws security white_paper》](./files/whitepaper/2020-AWS_Security_Whitepaper.pdf)
-    * [2019-apple-《safari privacy white paper》](./files/whitepaper/2019-apple-Safari_White_Paper_Nov_2019.pdf)
-
-
-## 二、隐私相关法规
+## 隐私相关法规
  * 重要海外法规
    * [欧盟 GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf) 
    * [美国 HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) 
@@ -65,11 +41,36 @@
    * [ISO 27701:2019](https://www.iso.org/standard/71670.html)
    * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) | [soc 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) | [soc 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report)
   
-## 三、隐私创业企业
+   
+## 隐私相关白皮书
+  * 国内白皮书
+    * [2021-腾讯-《腾讯隐私计算白皮书2021》](./files/whitepaper/2021-腾讯隐私计算白皮书2021.pdf)
+    * [2021-信通院-《隐私保护计算技术研究报告》](./files/whitepaper/2020-信通院-隐私保护计算技术研究报告.pdf)
+    * [2021-安永-《全球数据合规与隐私科技发展报告》](./files/whitepaper/2021-安永-全球数据合规与隐私科技发展报告.pdf)
+    * [2021-阿里云-《数据安全隐私保护》白皮书](./files/whitepaper/2021-阿里云-数据安全隐私保护白皮书.pdf)
+    * [2021-工行-《隐私计算推动金融业数据生态建设》白皮书](./files/whitepaper/2021-11《隐私计算推动金融业数据生态建设》白皮书.pdf)
+    * [2021-微众&毕马威-《隐私计算行业研究报告》白皮书](./files/whitepaper/2021-微众&毕马威-隐私计算行业研究报告.pdf)
+    * [2021-CB INSIGHT-《中国隐私计算技术与市场发展研究报告》](./files/whitepaper/2021-12中国隐私计算技术与市场发展研究报告.pdf)
+    * [2021-移动-《隐私计算白皮书》](./files/whitepaper/2021-移动-隐私计算白皮书.pdf)
+    * [2021-隐私计算联盟-《隐私计算法律与合规研究白皮书》](./files/whitepaper/2021-隐私计算联盟-隐私计算法律与合规研究白皮书.pdf)
+    * [2021-甲子光年-《隐私计算行业研究报告》](./files/whitepaper/2021-甲子光年-隐私计算行业研究报告.pdf)
+    * [2021-交通银行-《隐私计算金融应用蓝皮书》](./files/whitepaper/2021-交通银行-隐私计算金融应用蓝皮书.pdf)
+    * [2021-信通院-《中国算力发展指数白皮书》](./files/whitepaper/2021-信通院-中国算力发展指数白皮书.pdf)
+    * [2021-信通院-《数据安全风险分析及应对策略研究》](./files/whitepaper/2021-信通院-数据安全风险分析及应对策略研究.pdf)
+
+  * 海外白皮书
+    * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf)
+    * [2021-aws-《risk and compliance white_paper》](./files/whitepaper/2021_AWS_Risk_and_Compliance_Whitepaper.pdf)
+    * [2020-aws-《aws security white_paper》](./files/whitepaper/2020-AWS_Security_Whitepaper.pdf)
+    * [2019-apple-《safari privacy white paper》](./files/whitepaper/2019-apple-Safari_White_Paper_Nov_2019.pdf)
+
+
+## 隐私创业企业
  * 海外创业公司
    * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE 
    * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email. 
    * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：Discover and Classify Data, Model and Monitor Access to this Data 
+   * [duckduckgo.com - 隐私搜索引擎](https://duckduckgo.com/) | 理念：我们从不存储你的个人信息 
      
  * 国内创业公司
    * [数牍科技 - 隐私计算](https://www.sudoprivacy.com/) | 理念：安全高性能的隐私计算平台 
@@ -80,7 +81,7 @@
    
 
 
-## 四、大厂隐私中心
+## 大厂隐私中心
  * 海外大厂隐私
    * [apple隐私中心](https://www.apple.com.cn/privacy/) [![](https://shields.tosdr.org/en_158.svg)](https://tosdr.org/en/service/158) | 隐私是每个人的基本权利，同时也是 Apple 的一项核心价值观。
    * [google隐私中心](https://policies.google.com/?hl=zh-CN)[![](https://shields.tosdr.org/en_217.svg)](https://tosdr.org/en/service/217) | We keep more people safe online than anyone else in the world |[隐私原则](https://safety.google/principles/?hl=zh_CN)。 
@@ -98,7 +99,7 @@
     * [阿里云隐私中心](https://security.aliyun.com/trust) |云即信任 
     * [百度隐私中心](http://privacy.baidu.com/) [![](https://shields.tosdr.org/en_870.svg)](https://tosdr.org/en/service/870git ) | 同意，透明，可控
 
-## 五、隐私新技术
+## 隐私新技术
  * 隐私保护
    * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
    
@@ -106,17 +107,41 @@
 
     
 
-## 六、隐私开源工具
-  * 
+## 隐私开源工具
+  * 脱敏
+     * [头条 godlp](https://github.com/bytedance/godlp)
+  * 检索
+     * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx)
     
 
 
-## 七、相关书籍
+## 隐私相关书籍
+   * 英文书籍
+     * [data-privacy](https://www.manning.com/books/data-privacy)
+   
+   * 中文书籍
+   
+   * 英文视频
+     * [TED - Why Privacy Matters](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters) - by Glenn Greenwald
+     * [TED - Online Privacy Doesn't Exist ](https://www.youtube.com/watch?v=LgWrD3EJ1Do) - 数据导致的意想不到的危险，作者：Denelle Dixon
+     * [TED - Data is the new gold, who are the new thieves? ](https://www.youtube.com/watch?v=XNF-rGiGb50) - 数据利用，作者：Tijmen Schep
+     
 
-
-## 八、相关外链
+## 隐私相关外链
  * github
-   * [privacy tool](https://github.com/pluja/awesome-privacy)
+   * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - 安全相关的讲座，组织和会议
+   * [awesome-privacy](https://github.com/pluja/awesome-privacy) - 英文隐私相关有意思内容
+   * [awesome-security](https://github.com/sbilly/awesome-security) - 英文安全相关有意思内容
+   * [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - 英文攻击检测相关
+   * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
+   * [awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking) - This list is for anyone wishing to learn about web application security but do not have a starting point.
+   * [mac os 安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)
+* 标准相关网站
+   * [W3C privacy](https://www.w3.org/Privacy/) - W3C隐私工作组
+   * [pixelprivacy](https://pixelprivacy.com/resources/) - 在线隐私指南
+   * [privacytools](https://www.privacytools.io/) - 隐私指南：使用加密和隐私工具对抗监视
 
+* 新闻相关网站
+   * [spreadprivacy](https://spreadprivacy.com/) -通过duckduckgo提升新人标准
 
    
