@@ -35,6 +35,7 @@
    * flexibility：灵活性
    * sophisticated：复杂的
    * surveillance：监测，监控
+   * Abuse ：滥用
  * 加密算法相关
    * encryption：加密
    * decryption：解密
@@ -62,5 +63,7 @@
    * quantum computing：量子计算
    * QKD：quantum key distribution
    * Cyber Security ：网络安全
+   * Phishing：钓鱼
+
 
     

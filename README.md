@@ -2,7 +2,7 @@
 旨在收集和分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，英文词汇，相关新闻等。
 
 # 内容目录
-   * [英语词汇](./EnglishVocabulary.md) | [相关新闻](./news.md)
+   * [📙 英语词汇](./EnglishVocabulary.md) | [🗞️ 相关新闻](./news.md)
    * [隐私相关法规](#隐私相关法规)
    * [隐私相关白皮书](#隐私相关白皮书)
    * [隐私创业企业](#隐私创业企业)
@@ -109,9 +109,13 @@
 
 ## 隐私开源工具
   * 脱敏
-     * [头条 godlp](https://github.com/bytedance/godlp)
+     * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp
   * 检索
-     * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx)
+     * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索迎请
+  * 网络
+     * [ipleak](https://ipleak.net/) - 检查IP泄露工具
+     * [Browser Leaks ](https://browserleaks.com/) - 检查浏览器泄露信息工具
+     * [DNS Leaks ](https://www.dnsleaktest.com/) - 检查DNS泄露信息工具
     
 
 
