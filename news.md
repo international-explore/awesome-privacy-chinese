@@ -2,22 +2,77 @@
  * @Author: Kyle Zhang
  * @Date: 2022-04-20 20:04:58
  * @LastEditors: Kyle Zhang
- * @LastEditTime: 2022-04-21 20:23:54
+ * @LastEditTime: 2022-04-22 16:40:18
  * @FilePath: /awesome-privacy-chinese/news.md
  * @Description: 
 -->
+
 # 隐私相关新闻
+
+1. [隐私相关新闻](#隐私相关新闻)
+    1. [国内隐私相关](#国内隐私相关)
+        1. [202204](#202204)
+            1. [工信部通报37款存在侵害用户权益行为APP](#工信部通报37款存在侵害用户权益行为app)
+            2. [网站“偷评论”引流被判赔105万](#网站偷评论引流被判赔105万)
+    2. [海外隐私相关](#海外隐私相关)
+        1. [202204](#202204-1)
+            1. [hiQ诉LinkedIn案重审 | 美国上诉法院：爬取公开数据的行为合法，不违反CFAA](#hiq诉linkedin案重审--美国上诉法院爬取公开数据的行为合法不违反cfaa)
+            2. [LV 因虚拟试穿软件被卷入数据隐私诉讼，涉及生物识别数据](#lv-因虚拟试穿软件被卷入数据隐私诉讼涉及生物识别数据)
 
 ## 国内隐私相关
 
 ### 202204
 
+#### 工信部通报37款存在侵害用户权益行为APP
+
+> #隐私保护
+
+- source: [工信部通报37款存在侵害用户权益行为APP](https://www.cnii.com.cn/gxdt/202204/t20220421_374546.html)
+- date: 2022-04-20
+
+存在问题的 APP 名单：
+
+![problem-app-list](./files/assets/problem-app-list.jpeg)
+#### 网站“偷评论”引流被判赔105万
+
+- source: [网站“偷评论”引流被判赔105万](http://www.ce.cn/culture/gd/202204/06/t20220406_37463685.shtml)
+- date: 2022-03-29
+- tags: #爬虫合规
+
+近日，北京市朝阳区法院公开审理并宣判了一起新型不正当竞争纠纷案。一汽车质量投诉网站因复制同类平台信息为自身引流，被判赔105万。
+
+原告北京某信息技术有限公司诉称，其运营的某网站主要受理汽车消费者投诉，消费者在网站提交针对汽车质量问题的投诉后，网站会与汽车厂商联系并督促解决。自2014年成立以来，该网站已累计处理了约39万条消费者投诉信息，建立起了包括消费者投诉处理、汽车产品缺陷问题检测等为一体的服务体系。
+
+2021年6月，原告发现，被告北京某公司运营的网站中有5.2万余条消费者投诉信息与原告网站展示的信息相同或近似，且投诉日期均晚于或等同于原告网站上的日期，部分投诉信息的附图中甚至还带有原告水印。此外，自2015年至今，被告网站中显示的投诉数量为11万+，但投诉进展绝大多数为“结果审核”或“企业处理”状态，无处于“完成”状态的投诉信息。原告认为，被告网站的投诉数量及处理进展都是虚构的。
+
+最终，法院判决被告停止涉案不正当竞争行为、消除影响，并赔偿原告105万元。
 
 ## 海外隐私相关
 
 ### 202204
+
+#### hiQ诉LinkedIn案重审 | 美国上诉法院：爬取公开数据的行为合法，不违反CFAA
+
+> #爬虫安全
+
+- source:
+    - [数据爬取之争风波再起：LinkedIn与HiQ案被美国最高法院发回重审](http://www.tylaw.com.cn/cn/news_content.aspx?contentID=00000000000000003025&Lan=CN&MenuID=00000000000000000006)
+    - [hiQ诉LinkedIn案重审 | 美国上诉法院：爬取公开数据的行为合法，不违反CFAA](https://posts.careerengine.us/p/626031b9d553240f9219d185?from=latest-posts-panel&type=title)
+- date: 2022-04-20
+
+HiQ则是一家数据分析公司，HiQ的商业模式依赖于其从LinkedIn爬取的公开数据，HiQ将其从LinkedIn爬取的数据进行整理分析后，将处理结果出售给相关企业。
+
+LinkedIn所拥有的数据存储于LinkedIn系统中，然而，数据本身是由其用户提供给的LinkedIn。在本案发生时，任何访问LinkedIn网站的人都可以访问这些数据。随着越来越多的公司在爬取LinkedIn的数据，LinkedIn采取了措施来禁止违规者的账户，但HiQ通过利用代理服务的方式来掩盖他们进行爬取行为的IP地址，从而规避了LinkedIn对于这些IP地址的阻止措施。
+
+在HiQ长期对LinkedIn的网站数据进行爬取行为后，LinkedIn向HiQ发送了禁止通知函，并在函中援引了《计算机欺诈与滥用法案》（Computer Fraud and Abuse Act, “CFAA”）。LinkedIn主张，其自身的服务条款已明确禁止使用自动化工具，因而他们有权通过禁止与数据爬取相关的IP地址来强制执行其服务条款，HiQ不仅违反了LinkedIn的服务条款，而且也违反了CFAA以及其他相关法律。
+
+但是，美国法院认为，CFAA并不禁止任何人爬取可公开访问的数据。因此 HiQ 也没有违反美国《计算机欺诈和滥用法》（Computer Fraud and Abuse Act，CFAA）。
+
 #### LV 因虚拟试穿软件被卷入数据隐私诉讼，涉及生物识别数据
 
-- 英文源：[LVMH Eyewear Virtual ‘Try-on’ Tool Draws Biometric Privacy Suit](https://www.bloomberg.com/news/articles/2022-04-09/lvmh-eyewear-virtual-try-on-tool-draws-biometric-privacy-suit)
+> #隐私保护
+
+- source: [LVMH Eyewear Virtual ‘Try-on’ Tool Draws Biometric Privacy Suit](https://www.bloomberg.com/news/articles/2022-04-09/lvmh-eyewear-virtual-try-on-tool-draws-biometric-privacy-suit)
+- date: 2022-04-09
 
 近日，时尚品牌路易威登（Louis Vuitton，LV）因涉嫌在其网站上的虚拟试穿工具中收集消费者的生物识别数据而受到了诉讼指控，主要指控内容为 LV 会收集用户的 「详细和敏感的生物识别和信息，包括完整的面部扫描」，但没有首先获得他们的同意，或告知他们这些数据正在被收集。LV 的行为涉嫌收集消费者的生物识别数据，违反了伊利诺伊州《生物识别信息隐私法》（BIPA）规定的 "明确授权"。
