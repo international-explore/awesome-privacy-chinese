@@ -4,6 +4,8 @@
  * GDPR：General Data Protection Regulation 欧盟数据通用保护法，参考（https://gdpr.eu/）
  * EDPB ：European Data Protection Board  欧洲数据保护委员会，参考（https://edpb.europa.eu/edpb_en）
  * LGPD ：Lei Geral de Proteção de Dados 巴西通用数据保护法，参考（https://gdpr.eu/gdpr-vs-lgpd/）
+ * SOX：Sarbanes-Oxley 萨班斯-奥克斯利法案 旨在改进企业审计
+ * Basel II：新巴塞尔协议 ，旨在改善信贷风险
  * PII：Personally identifiable information 可识别个人数据，参考（https://en.wikipedia.org/wiki/Personal_data）、
  * DPAs：data protection authority 数据保护机构 
  * DPA：Data Process Agreement 数据处理协议，参考（https://www.gdprregister.eu/gdpr/data-processing-agreement-dpa/）
@@ -17,14 +19,27 @@
  * ICO：Information Commissioners's Office 英国信息处理办公室（https://ico.org.uk/about-the-ico/）
  * DSR：Data Subject Request 资料主体要求
  * BDSG：Federal Data Protetion Act 联邦数据保护 德国的隐私保护法（https://www.gesetze-im-internet.de/englisch_bdsg/）
+ * IAPP：International Association of Privacy Professionals [国际隐私协会](https://iapp.org/)
+ * HIPAA：The Health Insurance Portability and Accountability Act 美国在1996年颁布的健康保险和隐私责任法案
+ * FIPs：Fair Information Practices FTC发布的公平咨询原则
+ * FIPS：Federal Information Processing Standards  NIST的[联邦信息处理标准](https://www.nist.gov/standardsgov/compliance-faqs-federal-information-processing-standards-fips)
+ * FIPPs：Fair Information Practice Practicals 隐私公平原则，比较经典的隐私相关[八大原则](https://iapp.org/resources/article/fair-information-practices/)
+ * NIST：National Institute of Standards and Technology 美国国家技术标准研究所
+  
 
-## 核心单词
+## 相关单词
  * 隐私权利相关
    * confidentiality：保密，机密性
    * availability：可用性
    * integrity：完整性
+   * interrogation：审讯 （taxonomy of privacy中两要素：interrogation and surveillance）
+   * surveillance：监测，监控（tracking and surveillance）
+   * dimensions：度量 - Ryan Calo's Harm dimensions（卡洛的伤害度量理论，分为Object Harms and Subject Harms）
    * trustworthy：值得信赖
    * disastrous：灾难性的
+   * openness：公开透明（openness principle FIPPs八原则之一）
+   * accountability：可审计性（FIPPs八原则之一，也是技术侧容易忽略的）
+   * malicious：恶意的 - malicious threat（恶意攻击）
    * collision：冲突，碰撞
    * adversary：对手，敌对的
    * illicit：非法的，违禁的
@@ -34,8 +49,26 @@
    * flaw：缺陷
    * flexibility：灵活性
    * sophisticated：复杂的
-   * surveillance：监测，监控
-   * Abuse ：滥用
+   * abuse ：滥用
+   * interference：干涉
+   * cloaking ：隐身
+   * consent：准许同意（用户同意分为：explicit consent-明确同意 & implied consent-答复统一）
+   * disclosure：信息披露
+   * retention：保存
+   * destruction：破坏，销毁（数据生命周期最后一个，包含上面四个）
+   * threat ：攻击
+   * violation ：违背，侵权
+   * instruction：入侵
+   * methodology：方法论 - privacy by design methodology
+   * acquisition：采购 - IT acquisition 
+   * pluralistic：多元 - privacy pluralistic world
+   * solitude(隔离性)&intimacy(亲密性)&anonymity(匿名)&reserve(保留)：Alan Westin's four states of privacy
+   * identity theft：身份盗取
+   * relevant：有关的(relevant to the purpose)
+   * kept up to date：保持最新，比如隐私声明的一些要求
+   * accurate：准确 (accurate complete:准确完成，data quality principle)
+   * overwrite：销毁的方式之一，重写抹掉，还需要incinerating the physical media-物理设备抹掉
+   * 
  * 加密算法相关
    * encryption：加密
    * decryption：解密

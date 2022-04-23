@@ -69,7 +69,7 @@
  * 海外创业公司
    * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE 
    * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email. 
-   * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：Discover and Classify Data, Model and Monitor Access to this Data 
+   * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：发现、分级、保护
    * [duckduckgo.com - 隐私搜索引擎](https://duckduckgo.com/) | 理念：我们从不存储你的个人信息 
      
  * 国内创业公司
@@ -108,15 +108,17 @@
     
 
 ## 隐私开源工具
-  * 脱敏
-     * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp
   * 检索
-     * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索迎请
+     * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索引擎
+     * [DuckDuckGo](https://duckduckgo.com/) - 非追踪检索
   * 网络
      * [ipleak](https://ipleak.net/) - 检查IP泄露工具
      * [Browser Leaks ](https://browserleaks.com/) - 检查浏览器泄露信息工具
      * [DNS Leaks ](https://www.dnsleaktest.com/) - 检查DNS泄露信息工具
-    
+   * 脱敏
+      * [google homomorphic](https://github.com/google/fully-homomorphic-encryption) - google 同态加密
+      * [google differential-privacy](https://github.com/google/differential-privacy) - google 差分隐私
+      * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp
 
 
 ## 隐私相关书籍
@@ -137,14 +139,14 @@
    * [awesome-privacy](https://github.com/pluja/awesome-privacy) - 英文隐私相关有意思内容
    * [awesome-security](https://github.com/sbilly/awesome-security) - 英文安全相关有意思内容
    * [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - 英文攻击检测相关
-   * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted)
-   * [mac os 安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md)
+   * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 引文自托管服务相关
+   * [mac os 安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md) - 
 * 标准相关网站
    * [W3C privacy](https://www.w3.org/Privacy/) - W3C隐私工作组
    * [pixelprivacy](https://pixelprivacy.com/resources/) - 在线隐私指南
    * [privacytools](https://www.privacytools.io/) - 隐私指南：使用加密和隐私工具对抗监视
 
 * 新闻相关网站
-   * [spreadprivacy](https://spreadprivacy.com/) -通过duckduckgo提升新人标准
+   * [spreadprivacy](https://spreadprivacy.com/) -duckduckgo官方blog
 
    
