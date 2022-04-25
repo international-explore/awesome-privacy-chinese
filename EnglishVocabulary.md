@@ -25,6 +25,8 @@
  * FIPS：Federal Information Processing Standards  NIST的[联邦信息处理标准](https://www.nist.gov/standardsgov/compliance-faqs-federal-information-processing-standards-fips)
  * FIPPs：Fair Information Practice Practicals 隐私公平原则，比较经典的隐私相关[八大原则](https://iapp.org/resources/article/fair-information-practices/)
  * NIST：National Institute of Standards and Technology 美国国家技术标准研究所
+ * ToU：terms of use 用户使用条款
+ * EULA：end-user license agreements 最终用户许可协议
   
 
 ## 相关单词
@@ -43,6 +45,8 @@
    * collision：冲突，碰撞
    * adversary：对手，敌对的
    * illicit：非法的，违禁的
+   * completeness：完整性
+   * consistency：一致性 （analyze privacy requirement 的两个要求）
    * exploitation：剥削，不公正的利用
    * deliberately：故意的
    * vulnerabilities：漏洞，脆弱
@@ -68,7 +72,14 @@
    * kept up to date：保持最新，比如隐私声明的一些要求
    * accurate：准确 (accurate complete:准确完成，data quality principle)
    * overwrite：销毁的方式之一，重写抹掉，还需要incinerating the physical media-物理设备抹掉
-   * 
+   * derive & operationalize：推导和实施，可以参考anti-goals的过程
+   * Misuse and Abuse：误用和滥用
+   * notations：符号
+   * predicatability：状态的可预测性
+   * manageability：可管理性
+   * disassociability：解耦和 - NIST privacy engineer object 的三个原则predicatability,manageability,disassociability
+   * Validation and Verification：确认和验证，test的两个因素
+   * reuse：重用
  * 加密算法相关
    * encryption：加密
    * decryption：解密
