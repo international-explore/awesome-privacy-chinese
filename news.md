@@ -1,10 +1,10 @@
 <!--
- * @Author: Kyle Zhang
- * @Date: 2022-04-20 20:04:58
- * @LastEditors: Kyle Zhang
- * @LastEditTime: 2022-04-22 16:58:33
- * @FilePath: /awesome-privacy-chinese/news.md
- * @Description: 
+ - @Author: Kyle Zhang
+ - @Date: 2022-04-20 20:04:58
+ - @LastEditors: Kyle Zhang
+ - @LastEditTime: 2022-04-27 19:21:08
+ - @FilePath: /awesome-privacy-chinese/news.md
+ - @Description:
 -->
 
 # 隐私相关新闻
@@ -12,23 +12,26 @@
 1. [隐私相关新闻](#隐私相关新闻)
     1. [国内隐私相关](#国内隐私相关)
         1. [202204](#202204)
-            1. [工信部通报37款存在侵害用户权益行为APP](#工信部通报37款存在侵害用户权益行为app)
-            2. [网站“偷评论”引流被判赔105万](#网站偷评论引流被判赔105万)
+            1. [工信部通报 37 款存在侵害用户权益行为 APP](#工信部通报-37-款存在侵害用户权益行为-app)
+            2. [网站“偷评论”引流被判赔 105 万](#网站偷评论引流被判赔-105-万)
     2. [海外隐私相关](#海外隐私相关)
         1. [202204](#202204-1)
-            1. [谷歌Play Store新政：5月11日起开始扼杀第三方通话录音应用](#谷歌play-store新政5月11日起开始扼杀第三方通话录音应用)
-            2. [hiQ诉LinkedIn案重审 | 美国上诉法院：爬取公开数据的行为合法，不违反CFAA](#hiq诉linkedin案重审--美国上诉法院爬取公开数据的行为合法不违反cfaa)
-            3. [LV 因虚拟试穿软件被卷入数据隐私诉讼，涉及生物识别数据](#lv-因虚拟试穿软件被卷入数据隐私诉讼涉及生物识别数据)
+            1. [苹果商店将下架长期不更新的应用程序](#苹果商店将下架长期不更新的应用程序)
+            2. [安卓应用程序商店正式增加隐私部分](#安卓应用程序商店正式增加隐私部分)
+            3. [欧盟将不允许限制 IOS 上的浏览器引擎](#欧盟将不允许限制-ios-上的浏览器引擎)
+            4. [谷歌 Play Store 新政：5 月 11 日起开始扼杀第三方通话录音应用](#谷歌-play-store-新政5-月-11-日起开始扼杀第三方通话录音应用)
+            5. [hiQ 诉 LinkedIn 案重审 | 美国上诉法院：爬取公开数据的行为合法，不违反 CFAA](#hiq-诉-linkedin-案重审--美国上诉法院爬取公开数据的行为合法不违反-cfaa)
+            6. [LV 因虚拟试穿软件被卷入数据隐私诉讼，涉及生物识别数据](#lv-因虚拟试穿软件被卷入数据隐私诉讼涉及生物识别数据)
 
 ## 国内隐私相关
 
 ### 202204
 
-#### 工信部通报37款存在侵害用户权益行为APP
+#### 工信部通报 37 款存在侵害用户权益行为 APP
 
 > #隐私保护
 
-- source: [工信部通报37款存在侵害用户权益行为APP](https://www.cnii.com.cn/gxdt/202204/t20220421_374546.html)
+- source: [工信部通报 37 款存在侵害用户权益行为 APP](https://www.cnii.com.cn/gxdt/202204/t20220421_374546.html)
 - date: 2022-04-20
 
 大部分 APP 存在的问题主要存在于「超范围收集个人信息」和「违规收集个人信息」两方面。
@@ -36,51 +39,88 @@
 存在问题的 APP 名单：
 
 ![problem-app-list](./files/assets/problem-app-list.jpeg)
-#### 网站“偷评论”引流被判赔105万
 
-- source: [网站“偷评论”引流被判赔105万](http://www.ce.cn/culture/gd/202204/06/t20220406_37463685.shtml)
+#### 网站“偷评论”引流被判赔 105 万
+
+> #爬虫合规
+
+- source: [网站“偷评论”引流被判赔 105 万](http://www.ce.cn/culture/gd/202204/06/t20220406_37463685.shtml)
 - date: 2022-03-29
-- tags: #爬虫合规
 
-近日，北京市朝阳区法院公开审理并宣判了一起新型不正当竞争纠纷案。一汽车质量投诉网站因复制同类平台信息为自身引流，被判赔105万。
+近日，北京市朝阳区法院公开审理并宣判了一起新型不正当竞争纠纷案。一汽车质量投诉网站因复制同类平台信息为自身引流，被判赔 105 万。
 
-原告北京某信息技术有限公司诉称，其运营的某网站主要受理汽车消费者投诉，消费者在网站提交针对汽车质量问题的投诉后，网站会与汽车厂商联系并督促解决。自2014年成立以来，该网站已累计处理了约39万条消费者投诉信息，建立起了包括消费者投诉处理、汽车产品缺陷问题检测等为一体的服务体系。
+原告北京某信息技术有限公司诉称，其运营的某网站主要受理汽车消费者投诉，消费者在网站提交针对汽车质量问题的投诉后，网站会与汽车厂商联系并督促解决。自 2014 年成立以来，该网站已累计处理了约 39 万条消费者投诉信息，建立起了包括消费者投诉处理、汽车产品缺陷问题检测等为一体的服务体系。
 
-2021年6月，原告发现，被告北京某公司运营的网站中有5.2万余条消费者投诉信息与原告网站展示的信息相同或近似，且投诉日期均晚于或等同于原告网站上的日期，部分投诉信息的附图中甚至还带有原告水印。此外，自2015年至今，被告网站中显示的投诉数量为11万+，但投诉进展绝大多数为“结果审核”或“企业处理”状态，无处于“完成”状态的投诉信息。原告认为，被告网站的投诉数量及处理进展都是虚构的。
+2021 年 6 月，原告发现，被告北京某公司运营的网站中有 5.2 万余条消费者投诉信息与原告网站展示的信息相同或近似，且投诉日期均晚于或等同于原告网站上的日期，部分投诉信息的附图中甚至还带有原告水印。此外，自 2015 年至今，被告网站中显示的投诉数量为 11 万+，但投诉进展绝大多数为“结果审核”或“企业处理”状态，无处于“完成”状态的投诉信息。原告认为，被告网站的投诉数量及处理进展都是虚构的。
 
-最终，法院判决被告停止涉案不正当竞争行为、消除影响，并赔偿原告105万元。
+最终，法院判决被告停止涉案不正当竞争行为、消除影响，并赔偿原告 105 万元。
 
 ## 海外隐私相关
 
 ### 202204
 
-#### 谷歌Play Store新政：5月11日起开始扼杀第三方通话录音应用
+#### 苹果商店将下架长期不更新的应用程序
+
+> #隐私保护
+
+- source: [PSA | Apple’s Giving Developers 30 Days to Update Aging Apps Before Deletion](https://www.idropnews.com/news/purging-the-app-store-apple-is-cracking-down-on-outdated-apps/185521/)
+- date: 2022-04-26
+
+苹果发送给受影响开发者的一封名为“应用商店改进通知”的电子邮件，原文如下：
+
+此应用程序在很长一段时间内没有更新，并计划在 30 天内下架。 对于已经下载了应用的用户来说，不需要任何操作就可以继续使用该应用。 您可以通过在 30 天内提交更新以供审核，让新用户可以从 App Store 发现和下载此应用。如果在 30 天内未提交更新，该应用程序将从商店内被删除。
+
+苹果给出的解释是，此举一方面是保护用户的数据隐私安全性，另一方面也是刺激开发者能更积极地进行软件升级，以适配系统的新特性。
+
+此举对隐私保护的原因主要在于：
+
+> Since they haven’t been updated in such a long time, these apps also lack the new [App Store Privacy Labels](https://developer.apple.com/app-store/app-privacy-details/) . Apple is very firm on its policy about developers adding these labels — except that they’re only required when an app update is submitted. Hence, any apps that haven’t been updated in over a year can get away with skirting these rules.
+
+#### 安卓应用程序商店正式增加隐私部分
+
+> #隐私合规
+
+- source: [Android’s app store privacy section starts rolling out today](https://arstechnica.com/gadgets/2022/04/androids-app-store-privacy-section-starts-rolling-out-today/)
+- date: 2022-04-27
+
+在谷歌的安卓应用商店上的应用程序页，除了“关于这个应用程序”和“评级和评论”等部分外，还将有一个名为“数据隐私和安全”的新部分，开发人员可以解释他们收集了哪些数据。谷歌要求开发者提供隐私信息的最后期限是 7 月 20 日，因此目前应用的这个部分可能还是空的。不过，这些信息都是开发者自主申明的，谷歌并不能代表开发者对他们如何处理用户数据做出判断，只是当谷歌发现申明不实时可能会采取各种措施。
+
+#### 欧盟将不允许限制 IOS 上的浏览器引擎
+
+> #竞争合规
+
+- source: [Apple's grip on iOS browser engines disallowed under latest draft EU rules](https://www.theregister.com/2022/04/26/apple_ios_browser/)
+- date: 2022-04-26
+
+欧盟即将发布的《数字市场法》（DMA）明确承认“网页浏览器引擎”是一种服务，应受到保护。苹果公司要求通过 iOS 应用商店分发的移动浏览器必须使用苹果的 WebKit 渲染引擎，结果是，iOS 上的 Chrome、Edge 和 Firefox 几乎都是 Safari 换皮。而当 DMA 在 2024 年生效时，苹果可能会被要求在 iOS 设备上允许其它浏览器竞争。
+
+#### 谷歌 Play Store 新政：5 月 11 日起开始扼杀第三方通话录音应用
 
 > #信息安全
 
-- source: [谷歌Play Store新政：5月11日起开始扼杀第三方通话录音应用](https://baijiahao.baidu.com/s?id=1730703496271389788&wfr=spider&for=pc)
+- source: [谷歌 Play Store 新政：5 月 11 日起开始扼杀第三方通话录音应用](https://baijiahao.baidu.com/s?id=1730703496271389788&wfr=spider&for=pc)
 - date: 2022-04-21
 
 很多品牌的安卓手机都支持通话录音功能，该功能也集成在谷歌 Pixel 手机的电话应用中。但由于部分地区法律的原因，并不是所有手机都支持这个功能，不过即使手机没有这个功能，用户也可以从谷歌 Play Store 等应用商店安装一个第三方应用来实现这个功能。不过，即将到来的 Google Play 政策变化将一劳永逸地杀死所有第三方通话录音应用。
 
 不过不用担心，如果你的手机预装了通话录音功能，该功能将继续正常工作。这一即将到来的变化将只适用于 Play Store 上专门使用 Accessibility API 来启用通话录音的第三方应用，提供内置通话录音的谷歌电话应用不受这一变化影响。
 
-#### hiQ诉LinkedIn案重审 | 美国上诉法院：爬取公开数据的行为合法，不违反CFAA
+#### hiQ 诉 LinkedIn 案重审 | 美国上诉法院：爬取公开数据的行为合法，不违反 CFAA
 
 > #爬虫安全
 
 - source:
-    - [数据爬取之争风波再起：LinkedIn与HiQ案被美国最高法院发回重审](http://www.tylaw.com.cn/cn/news_content.aspx?contentID=00000000000000003025&Lan=CN&MenuID=00000000000000000006)
-    - [hiQ诉LinkedIn案重审 | 美国上诉法院：爬取公开数据的行为合法，不违反CFAA](https://posts.careerengine.us/p/626031b9d553240f9219d185?from=latest-posts-panel&type=title)
+    - [数据爬取之争风波再起：LinkedIn 与 HiQ 案被美国最高法院发回重审](http://www.tylaw.com.cn/cn/news_content.aspx?contentID=00000000000000003025&Lan=CN&MenuID=00000000000000000006)
+    - [hiQ 诉 LinkedIn 案重审 | 美国上诉法院：爬取公开数据的行为合法，不违反 CFAA](https://posts.careerengine.us/p/626031b9d553240f9219d185?from=latest-posts-panel&type=title)
 - date: 2022-04-20
 
-HiQ则是一家数据分析公司，HiQ的商业模式依赖于其从LinkedIn爬取的公开数据，HiQ将其从LinkedIn爬取的数据进行整理分析后，将处理结果出售给相关企业。
+HiQ 则是一家数据分析公司，HiQ 的商业模式依赖于其从 LinkedIn 爬取的公开数据，HiQ 将其从 LinkedIn 爬取的数据进行整理分析后，将处理结果出售给相关企业。
 
-LinkedIn所拥有的数据存储于LinkedIn系统中，然而，数据本身是由其用户提供给的LinkedIn。在本案发生时，任何访问LinkedIn网站的人都可以访问这些数据。随着越来越多的公司在爬取LinkedIn的数据，LinkedIn采取了措施来禁止违规者的账户，但HiQ通过利用代理服务的方式来掩盖他们进行爬取行为的IP地址，从而规避了LinkedIn对于这些IP地址的阻止措施。
+LinkedIn 所拥有的数据存储于 LinkedIn 系统中，然而，数据本身是由其用户提供给的 LinkedIn。在本案发生时，任何访问 LinkedIn 网站的人都可以访问这些数据。随着越来越多的公司在爬取 LinkedIn 的数据，LinkedIn 采取了措施来禁止违规者的账户，但 HiQ 通过利用代理服务的方式来掩盖他们进行爬取行为的 IP 地址，从而规避了 LinkedIn 对于这些 IP 地址的阻止措施。
 
-在HiQ长期对LinkedIn的网站数据进行爬取行为后，LinkedIn向HiQ发送了禁止通知函，并在函中援引了《计算机欺诈与滥用法案》（Computer Fraud and Abuse Act, “CFAA”）。LinkedIn主张，其自身的服务条款已明确禁止使用自动化工具，因而他们有权通过禁止与数据爬取相关的IP地址来强制执行其服务条款，HiQ不仅违反了LinkedIn的服务条款，而且也违反了CFAA以及其他相关法律。
+在 HiQ 长期对 LinkedIn 的网站数据进行爬取行为后，LinkedIn 向 HiQ 发送了禁止通知函，并在函中援引了《计算机欺诈与滥用法案》（Computer Fraud and Abuse Act, “CFAA”）。LinkedIn 主张，其自身的服务条款已明确禁止使用自动化工具，因而他们有权通过禁止与数据爬取相关的 IP 地址来强制执行其服务条款，HiQ 不仅违反了 LinkedIn 的服务条款，而且也违反了 CFAA 以及其他相关法律。
 
-但是，美国法院认为，CFAA并不禁止任何人爬取可公开访问的数据。因此 HiQ 也没有违反美国《计算机欺诈和滥用法》（Computer Fraud and Abuse Act，CFAA）。
+但是，美国法院认为，CFAA 并不禁止任何人爬取可公开访问的数据。因此 HiQ 也没有违反美国《计算机欺诈和滥用法》（Computer Fraud and Abuse Act，CFAA）。
 
 #### LV 因虚拟试穿软件被卷入数据隐私诉讼，涉及生物识别数据
 
