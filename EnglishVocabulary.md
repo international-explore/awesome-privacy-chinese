@@ -80,10 +80,16 @@
    * disassociability：解耦和 - NIST privacy engineer object 的三个原则predicatability,manageability,disassociability
    * Validation and Verification：确认和验证，test的两个因素
    * reuse：重用
+   * harmful：伤害
+   * Dark patterns：黑暗模式（让用户的权利很难清洗，明确的实现，比如option buttons 非常深）
+   * obscure：晦涩难懂
+   * Coupling：耦合
  * 加密算法相关
    * encryption：加密
    * decryption：解密
    * decipher：破译
+   * scrambles：打散
+   * unusable：不可用
    * unauthorized：未授权 
    * intercepted：拦截
    * certify：证明，证实
@@ -108,6 +114,8 @@
    * QKD：quantum key distribution
    * Cyber Security ：网络安全
    * Phishing：钓鱼
+   * reveal：泄露（reveal information 泄露隐私）
+   * centricity：中心性（Network centricity 中心化网络，对应分布式或者所谓的联邦系统Federated systems）
 
 
     

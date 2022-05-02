@@ -63,7 +63,7 @@
     * [2021-aws-《risk and compliance white_paper》](./files/whitepaper/2021_AWS_Risk_and_Compliance_Whitepaper.pdf)
     * [2020-aws-《aws security white_paper》](./files/whitepaper/2020-AWS_Security_Whitepaper.pdf)
     * [2019-apple-《safari privacy white paper》](./files/whitepaper/2019-apple-Safari_White_Paper_Nov_2019.pdf)
-
+ 
 
 ## 隐私创业企业
  * 海外创业公司
@@ -105,6 +105,11 @@
    
  * 隐私计算
 
+ * 隐私体系学习
+   * CIPT认证脑图
+     * [chapter1-privacy 脑图](./files/CIPT/chapter1-privacy.png)
+     * [chapter2-1 Engineer&Privacy 脑图](./files/CIPT/chapter2-1%20Engineer&%20Privacy.png)
+     * [chapter2-2 Engineer&Privacy 脑图](./files/CIPT/chapter2-2%20Engineer%20&%20Privacy.png)
     
 
 ## 隐私开源工具
