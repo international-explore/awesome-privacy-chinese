@@ -33,7 +33,7 @@
  * 隐私权利相关
    * confidentiality：保密，机密性
    * availability：可用性
-   * integrity：完整性
+   * integrity：完整性 （encryption三要素：机密，完整，可用）
    * interrogation：审讯 （taxonomy of privacy中两要素：interrogation and surveillance）
    * surveillance：监测，监控（tracking and surveillance）
    * dimensions：度量 - Ryan Calo's Harm dimensions（卡洛的伤害度量理论，分为Object Harms and Subject Harms）
@@ -84,6 +84,8 @@
    * Dark patterns：黑暗模式（让用户的权利很难清洗，明确的实现，比如option buttons 非常深）
    * obscure：晦涩难懂
    * Coupling：耦合
+   * hypothesized：假设
+   * miscellaneous：杂项
  * 加密算法相关
    * encryption：加密
    * decryption：解密
@@ -94,7 +96,7 @@
    * intercepted：拦截
    * certify：证明，证实
    * digital signatures：数字签名
-   * pseudonym：假名化
+   * pseudonym：假名化 (pseudonymisation)
    * cryptograph: 密文 （crypto-加密）
    * plaintext：明文 ->ciphertext：密文 
    * symmetric encryption ：对称加密
@@ -112,9 +114,21 @@
    * secure enclaves：可信环境
    * quantum computing：量子计算
    * QKD：quantum key distribution
+   * entanglement：QKD中的量子纠缠
    * Cyber Security ：网络安全
    * Phishing：钓鱼
+   * substitutes and transposition：AES中往往指替代和换位
+   * low-power environments：低功耗环境
+   * SM4：可以理解为中国的算法，等价aes256
+   * SIMON and SPECK：NSA提供的轻量的针对轻量和低功耗环境的算法
+   * ECB - Electronic codebook same key to encrypt each block of data AES的最低级别，固定秘钥
+   * CBC - Cipher block chaining：use the previous cipher text to encrypt the current plaintext 利用文本的一部分作为秘钥进行加密，安全性好于ECB,适合传输长度长的报文,是SSL、IPSec的标准。缺点是需要初始化IV
+   * vetted/evaluated：审核和评估
+   * Entropy：熵 
+   * Nonrepudiation：不可抵赖性（digital signature）
    * reveal：泄露（reveal information 泄露隐私）
+   * revocation：撤销（公钥存储设施PKI的基本功能）
+   * Network Time Protocol：NTP 时间同步协议
    * centricity：中心性（Network centricity 中心化网络，对应分布式或者所谓的联邦系统Federated systems）
 
 
