@@ -31,9 +31,6 @@
 
 ## 相关单词
  * 隐私权利相关
-   * confidentiality：保密，机密性
-   * availability：可用性
-   * integrity：完整性 （encryption三要素：机密，完整，可用）
    * interrogation：审讯 （taxonomy of privacy中两要素：interrogation and surveillance）
    * surveillance：监测，监控（tracking and surveillance）
    * dimensions：度量 - Ryan Calo's Harm dimensions（卡洛的伤害度量理论，分为Object Harms and Subject Harms）
@@ -56,7 +53,7 @@
    * abuse ：滥用
    * interference：干涉
    * cloaking ：隐身
-   * consent：准许同意（用户同意分为：explicit consent-明确同意 & implied consent-答复统一）
+   * consent：准许同意（用户同意分为：explicit consent-明确同意/显示同意 & implied consent-默许同意）
    * disclosure：信息披露
    * retention：保存
    * destruction：破坏，销毁（数据生命周期最后一个，包含上面四个）
@@ -84,11 +81,22 @@
    * Dark patterns：黑暗模式（让用户的权利很难清洗，明确的实现，比如option buttons 非常深）
    * obscure：晦涩难懂
    * Coupling：耦合
+   * identify：可识别的（identify information，可识别信息）
    * hypothesized：假设
    * miscellaneous：杂项
+   * retagging：重新标记
+   * aggregation：聚合
+   * valid：有效的
+   * adverse：不良的（adverse effect，不良影响）
+   * commitments：承诺（三方发送时最重要的一点：ensuring the commitments made to the data owner are followed）
+   * adopt：采用，采用某种措施
+   * derivatives：衍生物（data derivatives：数据的衍生物，需要被删除）
  * 加密算法相关
    * encryption：加密
    * decryption：解密
+   * confidentiality：保密，机密性
+   * availability：可用性
+   * integrity：完整性 （encryption三要素：机密，完整，可用）
    * decipher：破译
    * scrambles：打散
    * unusable：不可用
@@ -129,7 +137,11 @@
    * reveal：泄露（reveal information 泄露隐私）
    * revocation：撤销（公钥存储设施PKI的基本功能）
    * Network Time Protocol：NTP 时间同步协议
+   * asymmetric encryption：非对称加密
+   * Symmetric encryption：对称加密
+   * expose：暴露
    * centricity：中心性（Network centricity 中心化网络，对应分布式或者所谓的联邦系统Federated systems）
+   * sufficient：足够的（adding sufficient noise，加入足够多的干扰因素）
 
 
     
