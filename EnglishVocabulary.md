@@ -90,7 +90,10 @@
    * adverse：不良的（adverse effect，不良影响）
    * commitments：承诺（三方发送时最重要的一点：ensuring the commitments made to the data owner are followed）
    * adopt：采用，采用某种措施
+   * typifies：典型的
    * derivatives：衍生物（data derivatives：数据的衍生物，需要被删除）
+   * just in time：及时的（just in time notice）
+   * revoke：撤销（revokcation）
  * 加密算法相关
    * encryption：加密
    * decryption：解密
@@ -118,6 +121,7 @@
    * subverted：颠覆
    * CBC：cypher block chaining
    * pluggable：可插入的
+   * traffic：流量，交通（traffic analysis：流量分析）
    * tor：onion router
    * secure enclaves：可信环境
    * quantum computing：量子计算
@@ -125,7 +129,7 @@
    * entanglement：QKD中的量子纠缠
    * Cyber Security ：网络安全
    * Phishing：钓鱼
-   * substitutes and transposition：AES中往往指替代和换位
+   * substitution and transposition：AES中往往指替代和换位
    * low-power environments：低功耗环境
    * SM4：可以理解为中国的算法，等价aes256
    * SIMON and SPECK：NSA提供的轻量的针对轻量和低功耗环境的算法
@@ -140,8 +144,13 @@
    * asymmetric encryption：非对称加密
    * Symmetric encryption：对称加密
    * expose：暴露
+   * duplication：重复的
+   * flawed：有缺陷的（比如：DES属于缺陷算法）
    * centricity：中心性（Network centricity 中心化网络，对应分布式或者所谓的联邦系统Federated systems）
    * sufficient：足够的（adding sufficient noise，加入足够多的干扰因素）
+   * stealth：隐形（anonymity类似）
+   * virtual private network：VPN
+   * stream ciphers：流密码（对应block ciphers，针对aes的秘钥处理）
 
 
     
