@@ -81,7 +81,7 @@
    * Dark patterns：黑暗模式（让用户的权利很难清洗，明确的实现，比如option buttons 非常深）
    * obscure：晦涩难懂
    * Coupling：耦合
-   * identify：可识别的（identify information，可识别信息）
+   * identify：可识别的（identify information，可识别信息）-identifiability 可辨识性
    * hypothesized：假设
    * miscellaneous：杂项
    * retagging：重新标记
@@ -97,6 +97,18 @@
    * intrusion：入侵 intrusion:disturbing an individual's tranquility(安宁 ) or solitude）- invasions
    * decisional interference：决策干预 （intruding into an individual's decision making regarding their private affairs）
    * moral：道德(moral grounds-基于道德层面)
+   * breach：违反，违背（breach of confidentiality:违背保密性原则）
+   * privacy zuckering: 隐私糖
+   * hidden stipulations: 隐藏的规定
+   * immortal accounts: 永久账户，不进行删除清理
+   * address book leeching：诱导用户上传通讯录等
+   * information milking：需要多余应该获取的信息（requesting more information than necessary）
+   * fake: 假的
+   * demonstrate：演示，可展示(比如：privacy center)
+   * nudging：轻推，比如推荐的反复弹窗等，影响决策（nudging is an attempt to get therm to reconsider the decision to an alternative that may be less privacy friendly）
+   * persuade：说服
+   * countermeasure：对策（a countermeasure to minimize privacy violation risks）
+   * enforce:实施
  * 加密算法相关
    * encryption：加密
    * decryption：解密
@@ -154,6 +166,8 @@
    * stealth：隐形（anonymity类似）
    * virtual private network：VPN
    * stream ciphers：流密码（对应block ciphers，针对aes的秘钥处理）
+   * obfuscate：混淆（hash or encryption）
+   * perturb：扰乱（加密和混淆的一种方式，类似group）
 
 
     
