@@ -94,6 +94,9 @@
    * derivatives：衍生物（data derivatives：数据的衍生物，需要被删除）
    * just in time：及时的（just in time notice）
    * revoke：撤销（revokcation）
+   * intrusion：入侵 intrusion:disturbing an individual's tranquility(安宁 ) or solitude）- invasions
+   * decisional interference：决策干预 （intruding into an individual's decision making regarding their private affairs）
+   * moral：道德(moral grounds-基于道德层面)
  * 加密算法相关
    * encryption：加密
    * decryption：解密
