@@ -27,6 +27,11 @@
  * NIST：National Institute of Standards and Technology 美国国家技术标准研究所
  * ToU：terms of use 用户使用条款
  * EULA：end-user license agreements 最终用户许可协议
+ * WEC：Website Evidence Collector 网站证据收集器
+ * EDPS：[European Data Protection Supervisor](https://edps.europa.eu/_en) 欧洲数据资料保护机构-TODO 确认侧重点和区别
+ * EDPD：[European Data Protection Board](https://edpb.europa.eu/edpb_en)
+ * ENISA：[European Union Agency for Network and Information Security ](https://www.enisa.europa.eu/topics/data-protection)
+ * IAPP：International Association of Privacy Professionals 国际隐私专业人员协会
   
 
 ## 相关单词
@@ -168,6 +173,15 @@
    * stream ciphers：流密码（对应block ciphers，针对aes的秘钥处理）
    * obfuscate：混淆（hash or encryption）
    * perturb：扰乱（加密和混淆的一种方式，类似group）
+   * Aggregation-Based approaches:基于聚合的防范
+   * Biometrics：生物信息，比如人脸等
+   * Incidental：偶然的（Incidental or unplanned sources of identity 偶然和计划外的识别标识-ip address or browse cookies）
+   * quasi-identifiers：准标识符，相较于strong identifier(ID等)
+   * Suppression：隐私中指去标识化removing identifying values from a record（）
+   * Generalization：泛化，通常de-ID的三种方式（Suppression，Generalization and noise addition）
+   * imputation：污名化处理（Data imputation can be used to replace the suppressed values with plausible data without risking privacy）
+   * plausible：是是而非
+   * local differential privacy：本地化查分隐私
 
 
     

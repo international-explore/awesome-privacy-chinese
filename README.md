@@ -13,8 +13,9 @@
    * [隐私相关外链](#隐私相关外链)
    
 ## 隐私相关法规
+ * 所有法规查询：[Compare data protection laws around the world](https://www.dlapiperdataprotection.com/) |[Map of the level of data protection in each country](https://www.cnil.fr/en/data-protection-around-the-world)
  * 重要海外法规
-   * [欧盟 GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf) 
+   * [欧盟 GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
    * [美国 HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) 
    * [美国 CCPA官网 - 2018/06/28 ](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375) 
    * [巴西 LGPD官网 - 2020/08/15 ](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
@@ -41,6 +42,20 @@
    * [ISO 27701:2019](https://www.iso.org/standard/71670.html)
    * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) | [soc 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) | [soc 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report)
   
+
+## 隐私相关机构
+ * 监管机构查询：[List of DPAs](https://pdpecho.com/the-list/) 
+ * 欧洲重要机构 
+   * [EDPB- European Data Protection Board](https://edpb.europa.eu/edpb_en)
+   * [EDPS- European Data Protection Supervisor](https://edps.europa.eu/_en)
+   * [ENISA - European Union Agency for Network and Information Security ](https://www.enisa.europa.eu/topics/data-protection)
+   
+ * 其他重要机构
+   * [IAPP - International Association of Privacy Professionals ](https://iapp.org/) -国际隐私专业人员协会
+   * [W3C Privacy Interest Group ](https://www.w3.org/Privacy/) - 主要针对web 隐私
+   * [CUPS - CyLab Usable Privacy and Security Laboratory ](https://cups.cs.cmu.edu/) - 隐私和安全一些可用性的前沿研究
+   * [EPIC - Electronic Privacy Information Center](https://epic.org/) - 美国提倡隐私保护组织
+   * [FPF - Future of Privacy Forum](https://fpf.org/) - 未来隐私技术交流研究
    
 ## 隐私相关白皮书
   * 国内白皮书
