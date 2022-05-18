@@ -16,7 +16,7 @@
  * 所有法规查询：[Compare data protection laws around the world](https://www.dlapiperdataprotection.com/) |[Map of the level of data protection in each country](https://www.cnil.fr/en/data-protection-around-the-world)
  * 重要海外法规
    * [欧盟 GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
-   * [美国 HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) 
+   * [美国 HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
    * [美国 CCPA官网 - 2018/06/28 ](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375) 
    * [巴西 LGPD官网 - 2020/08/15 ](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
    * [日本 LGPD官网 - 2020/06/05 ](https://www.ppc.go.jp/en/legal/) 
@@ -128,6 +128,10 @@
     
 
 ## 隐私开源工具
+  * 隐私工具
+    * [website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - EDPS的网页收集和隐私分析服务
+    * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services) - 隐私一个网页分析服务
+    * [privacy tools](https://www.privacytools.io/) - 隐私相关工具合集
   * 检索
      * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索引擎
      * [DuckDuckGo](https://duckduckgo.com/) - 非追踪检索
@@ -161,12 +165,14 @@
    * [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - 英文攻击检测相关
    * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 引文自托管服务相关
    * [mac os 安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md) - 
-* 标准相关网站
+ * 标准相关网站
    * [W3C privacy](https://www.w3.org/Privacy/) - W3C隐私工作组
    * [pixelprivacy](https://pixelprivacy.com/resources/) - 在线隐私指南
    * [privacytools](https://www.privacytools.io/) - 隐私指南：使用加密和隐私工具对抗监视
 
-* 新闻相关网站
+ * 新闻相关网站
    * [spreadprivacy](https://spreadprivacy.com/) -duckduckgo官方blog
+   * [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - top 10 web security risk
+
 
    
