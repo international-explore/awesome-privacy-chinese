@@ -15,7 +15,7 @@
    * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
    
 ## 隐私相关法规
- * 所有法规查询：[Compare data protection laws around the world](https://www.dlapiperdataprotection.com/) |[Map of the level of data protection in each country](https://www.cnil.fr/en/data-protection-around-the-world)
+ * 所有法规查询：[data protection laws around the world](https://www.dlapiperdataprotection.com/) | [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world)
  * 重要海外法规
    * [欧盟 GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
    * [美国 HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
