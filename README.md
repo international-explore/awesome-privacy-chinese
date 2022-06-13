@@ -92,10 +92,12 @@
      
  * 国内创业公司
    * [数牍科技 - 隐私计算](https://www.sudoprivacy.com/) | 理念：安全高性能的隐私计算平台 
+   * [洞见科技 - 隐私计算](https://www.insightone.cn/) | 理念：让数据价值安全释放 - 网信国家队"中电科"投资。
    * [星云clustar - 数据高效融合](https://www.sudoprivacy.com/) | 理念：数融有道 数智无界 
    * [富数科技 - 安全计算](https://www.fudata.cn/) | 理念：构建数据安全桥梁、保护隐私，释放价值 
    * [翼方健数 - 安全计算](https://www.basebit.ai/) | 理念：隐私安全计算加速数据要素流动，激活数据共享价值 
    * [华控清交 - 安全计算](https://www.tsingj.com/) | 理念：让数据安全融合，使信任变得简单 
+   * [原语科技 - 隐私计算](https://www.primihub.com/) | 目前平台已经在github开源：[primihub](https://github.com/primihub/primihub)
    
 
 
