@@ -61,9 +61,16 @@
    
 ## 隐私相关白皮书
   * 国内白皮书（评分纯属个人意见，5分推荐，4分值得一读，3分有时间就看看，2分不值得，1分垃圾）
-    * [2022-腾讯-《数据安全产业大数据白皮书》](./files/whitepaper/2022-腾讯-数字安全产业大数据白皮书.pdf) | 介绍全球安全产业的发展和现状，以及主要上市公司 | 3分
-    * [2021-腾讯-《腾讯隐私计算白皮书2021》](./files/whitepaper/2021-腾讯隐私计算白皮书2021.pdf) | 介绍隐私计算的概念、现状以及主要算法 | 4分
-    * [2021-德勤-《移动应用个人信息保护白皮书》](./files/whitepaper/2021-10德勤移动应用个人信息保护白皮书.pdf) | 结合oppo现状介绍移动端信息保护的整体框架 | 4分
+    * [2022-ECC-《边缘学习：隐私计算白皮书》](./files/whitepaper/2022-ECC-边缘学习：隐私计算白皮书.pdf) | 4分
+      * 对边缘计算、隐私计算的基础概念介绍比较清晰，可以做为比较好的入门
+    * [2022-腾讯-《数据安全产业大数据白皮书》](./files/whitepaper/2022-腾讯-数字安全产业大数据白皮书.pdf) | 3分
+      * 涉猎阅读型，简介了全球安全产业的发展和现状，以及主要上市公司
+    * [2022-工业协会-《广东省新型数据中心发展白皮书》](./files/whitepaper/2022-工业协会-广东省新型数据中心发展白皮书.pdf) | 3分
+      * 数据中心核心点集约、高效、绿色、安全，重点第六章介绍趋势中提到安全可信和隐私性，。
+    * [2021-腾讯-《腾讯隐私计算白皮书2021》](./files/whitepaper/2021-腾讯隐私计算白皮书2021.pdf) | 4分
+      * 介绍隐私计算的概念、现状以及主要算法，可以作为不错的入门学习
+    * [2021-德勤-《移动应用个人信息保护白皮书》](./files/whitepaper/2021-10德勤移动应用个人信息保护白皮书.pdf) | 4分
+      * 结合oppo现状介绍移动端信息保护的整体框架，可以作为体系化设计的参考
     * [2021-信通院-《隐私保护计算技术研究报告》](./files/whitepaper/2020-信通院-隐私保护计算技术研究报告.pdf) 
     * [2021-安永-《全球数据合规与隐私科技发展报告》](./files/whitepaper/2021-安永-全球数据合规与隐私科技发展报告.pdf)
     * [2021-阿里云-《数据安全隐私保护》白皮书](./files/whitepaper/2021-阿里云-数据安全隐私保护白皮书.pdf)
@@ -78,10 +85,12 @@
     * [2021-信通院-《数据安全风险分析及应对策略研究》](./files/whitepaper/2021-信通院-数据安全风险分析及应对策略研究.pdf)
 
   * 海外白皮书
-    * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf) | uber esg的主要进展 | 4分
-    * [2021-aws-《risk and compliance white_paper》](./files/whitepaper/2021_AWS_Risk_and_Compliance_Whitepaper.pdf) | aws合规的一些简介，偏产品 | 3分
-    * [2020-aws-《aws security white_paper》](./files/whitepaper/2020-AWS_Security_Whitepaper.pdf) | aws 安全的一些介绍，偏产品 | 3分
-    * [2019-apple-《safari privacy white paper》](./files/whitepaper/2019-apple-Safari_White_Paper_Nov_2019.pdf) | safari隐私安全的一些介绍 | 3分 
+    * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf) | 4分
+      * uber esg的进展和报告，涉及整体隐私的设计和理念
+    * [2021-aws-《risk and compliance white_paper》](./files/whitepaper/2021_AWS_Risk_and_Compliance_Whitepaper.pdf) | 3分
+      * aws合规的一些简介，偏产品和功能介绍，干货较少，下同
+    * [2020-aws-《aws security white_paper》](./files/whitepaper/2020-AWS_Security_Whitepaper.pdf) | 3分
+    * [2019-apple-《safari privacy white paper》](./files/whitepaper/2019-apple-Safari_White_Paper_Nov_2019.pdf)  | 3分 
  
 
 ## 隐私创业企业
