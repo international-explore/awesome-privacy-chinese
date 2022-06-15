@@ -32,6 +32,7 @@
  * EDPD：[European Data Protection Board](https://edpb.europa.eu/edpb_en)
  * ENISA：[European Union Agency for Network and Information Security ](https://www.enisa.europa.eu/topics/data-protection)
  * IAPP：International Association of Privacy Professionals 国际隐私专业人员协会
+ * SOC：System and Organization Controls 第三方会计师事务所依据美国注册会计师协会（AICPA）的相关准则出具的服务机构内部控制相关的系列报告
   
 
 ## 相关单词

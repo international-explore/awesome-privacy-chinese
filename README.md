@@ -2,30 +2,32 @@
 旨在收集和分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，英文词汇，相关新闻等。
 
 # 内容目录
-   * [隐私相关法规](#隐私相关法规) - 全球主要隐私法规收集
-   * [隐私相关机构](#隐私相关机构) - 全球主要隐私管理和认证机构
-   * [隐私相关白皮书](#隐私相关白皮书) - 隐私和隐私计算相关白皮书
+   * [隐私法规](#隐私法规) - 全球主要隐私法规收集
+   * [隐私组织](#隐私组织) - 全球主要隐私管理和认证机构
+   * [相关白皮书](#相关白皮书) - 隐私和隐私计算相关白皮书
    * [隐私创业企业](#隐私创业企业) - 基于隐私创业的相关企业
    * [大厂隐私中心](#大厂隐私中心) - 各大厂的隐私中心，设计理念和宗旨
    * [隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
-   * [隐私开源工具](#隐私开源工具) - 隐私开源的识别、检测工具等
-   * [隐私相关书籍](#隐私相关书籍) - 隐私相关数据推荐
-   * [隐私相关外链](#隐私相关外链) - 隐私相关重要新闻、资源外链
+   * [开源工具](#开源工具) - 隐私开源的识别、检测工具等
+   * [书籍](#书籍) - 隐私相关数据推荐
+   * [网站外链](#网站外链) - 隐私相关重要新闻、资源外链
    * [📙 英语词汇](./PrivacyGlossary.md) - 隐私相关的基础英语词汇
    * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
    
-## 隐私相关法规
- * 所有法规查询：[data protection laws around the world](https://www.dlapiperdataprotection.com/) | [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world)
+## 隐私法规
+ * 全球法规查询：
+   * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询
+   * [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) 全球隐私保护严重程度查询
  * 重要海外法规
-   * [欧盟 GDPR官网 - 2016/05/24](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
-   * [美国 HIPAA官网 - 2020/08/15 ](https://www.hhs.gov/hipaa/index.html) | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
-   * [美国 CCPA官网 - 2018/06/28 ](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375) 
-   * [巴西 LGPD官网 - 2020/08/15 ](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
-   * [日本 LGPD官网 - 2020/06/05 ](https://www.ppc.go.jp/en/legal/) 
-   * [新加坡 PDPA官网 - 2021/02/01 ](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) 
-   * [南非 PoPIA官网 - 2013/11/26 ](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf) 
-  
- * 重要国内法规
+   * GDPR - [官网](https://gdpr-info.eu/) 2016/05/24 欧盟隐私法规，也是全球隐私的标杆法规 | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
+   * CCPA - [官网](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375)  2018/06/28 加州消费者隐私保护法规，是美国隐私保护的代表法规
+   * LGPD - [官网](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) 2020/08/15 巴西隐私保护法，整体效仿GDPR| [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
+   * PPC  - [官网](https://www.ppc.go.jp/en/legal/) 2020/06/05 日本的隐私保护法
+   * PDPA - [官网](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act)  2021/02/01 新加坡的个人隐私保护法
+   * PoPIA- [官网](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf) 2013/11/26 南非的隐私保护法
+   * HIPAA- [官网](https://www.hhs.gov/hipaa/index.html) 2020/08/15 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
+
+ * 国内三大法规
    * [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
    * [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | [网络安全法解读](http://www.mca.gov.cn/article/zt_gjaqr2021/zjjd/202104/20210400033201.shtml) | [网信办解读网络安全法](http://www.cac.gov.cn/2020-05/03/c_1590051734208776.htm)
    * [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | [数据安全法解读](http://www.cac.gov.cn/2021-06/15/c_1625341228851523.htm)
@@ -39,13 +41,16 @@
    * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
 
  * 重要认证指南
-   * [PCI-DSS](https://www.pcisecuritystandards.org/pdfs/chinese_simplified_pci_dss_audit_procedures_v1-1.pdf)
-   * [ISO 27001:2013](https://www.iso.org/standard/54534.html)
-   * [ISO 27701:2019](https://www.iso.org/standard/71670.html)
-   * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) | [soc 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) | [soc 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report)
+   * [PCI-DSS](https://www.pcisecuritystandards.org/pdfs/chinese_simplified_pci_dss_audit_procedures_v1-1.pdf) 支付卡服务的全球认证
+   * [ISO 27001:2013](https://www.iso.org/standard/54534.html) 侧重信息安全，针对信息安全的管理体系、要求和风险处置等
+   * [ISO 27701:2019](https://www.iso.org/standard/71670.html) 侧重隐私安全，在可识别信息控制者和个人可识别信息处理者进行规范和指导，一般和27001一起过
+   * SOC审计：系统和组织控制(System and Organization Controls，SOC)报告是由AICPA发布的标准管理的报告，与提供服务的服务组织相关
+     * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) 概述于认证协议标准声明(SSAE) 18，SOC 1关注的是服务组织的内部控制
+     * [SOC 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) SOC 2是一个受限使用报告，关注的是与AICPA的信任服务标准(TSCs)概述的`合规和运营`相关
+     * [SOC 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report) SOC 3是一个通用使用报告，细节不多，可以由服务组织自由分发，是个较好的营销工具。
   
 
-## 隐私相关机构
+## 隐私组织
  * 监管机构查询：[List of DPAs](https://pdpecho.com/the-list/) 
  * 欧洲重要机构 
    * [EDPB- European Data Protection Board](https://edpb.europa.eu/edpb_en)
@@ -59,7 +64,7 @@
    * [EPIC - Electronic Privacy Information Center](https://epic.org/) - 美国提倡隐私保护组织
    * [FPF - Future of Privacy Forum](https://fpf.org/) - 未来隐私技术交流研究
    
-## 隐私相关白皮书
+## 相关白皮书
   * 国内白皮书（评分纯属个人意见，5分推荐，4分值得一读，3分有时间就看看，2分不值得，1分垃圾）
     * [2022-德勤-《2022技术趋势（中文版）》](./files/whitepaper/2022技术趋势（中文版）-德勤-2022.pdf) | **3分**
       * 第一章重点介绍了了数据跨界和共享，三个关键词：机遇、易用性和隐私，落脚点还是隐私计算
@@ -144,7 +149,7 @@
      * [chapter2-2 Engineer&Privacy 脑图](./files/CIPT/chapter2-2%20Engineer%20&%20Privacy.png)
     
 
-## 隐私开源工具
+## 开源工具
   * 隐私工具
     * [website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - EDPS的网页收集和隐私分析服务
     * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services) - 隐私一个网页分析服务
@@ -162,7 +167,7 @@
       * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp
 
 
-## 隐私相关书籍
+## 书籍
    * 英文书籍
      * [data-privacy](https://www.manning.com/books/data-privacy)
    
@@ -174,7 +179,7 @@
      * [TED - Data is the new gold, who are the new thieves? ](https://www.youtube.com/watch?v=XNF-rGiGb50) - 数据利用，作者：Tijmen Schep
      
 
-## 隐私相关外链
+## 网站外链
  * github
    * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - 安全相关的讲座，组织和会议
    * [awesome-privacy](https://github.com/pluja/awesome-privacy) - 英文隐私相关有意思内容
