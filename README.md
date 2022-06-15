@@ -19,14 +19,16 @@
    * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询
    * [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) 全球隐私保护严重程度查询
  * 重要海外法规
-   * GDPR - [官网](https://gdpr-info.eu/) 2016/05/24 欧盟隐私法规，也是全球隐私的标杆法规 | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
-   * CCPA - [官网](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375)  2018/06/28 加州消费者隐私保护法规，是美国隐私保护的代表法规
-   * LGPD - [官网](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) 2020/08/15 巴西隐私保护法，整体效仿GDPR| [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
-   * PPC  - [官网](https://www.ppc.go.jp/en/legal/) 2020/06/05 日本的隐私保护法
-   * PDPA - [官网](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act)  2021/02/01 新加坡的个人隐私保护法
-   * PoPIA- [官网](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf) 2013/11/26 南非的隐私保护法
-   * HIPAA- [官网](https://www.hhs.gov/hipaa/index.html) 2020/08/15 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
-
+   * GDPR - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [官网](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
+   * CCPA - 加州消费者隐私保护法规，是美国隐私保护的代表法规，颁布于2018年 | [官网](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375)  2018/06/28 
+   * LGPD - 巴西隐私保护法，整体效仿GDPR，生效与2020年 | [官网](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
+   * PPC  - 日本的隐私保护法，2020年更新 | [官网](https://www.ppc.go.jp/en/legal/)  
+   * PDPA - 新加坡的个人隐私保护法 | [官网](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act)   
+   * PoPIA- 南非的隐私保护法，颁布于2013年 | [官网](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf) 
+   * HIPAA- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [官网](https://www.hhs.gov/hipaa/index.html) | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
+   * ADPPA- 美国数据隐私和保护法案，20220606发布草案 | [相关网站](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)
+   * PDPA - 泰国个人数据保护法，20220607生效 | [官网-pdf](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf)
+  
  * 国内三大法规
    * [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
    * [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | [网络安全法解读](http://www.mca.gov.cn/article/zt_gjaqr2021/zjjd/202104/20210400033201.shtml) | [网信办解读网络安全法](http://www.cac.gov.cn/2020-05/03/c_1590051734208776.htm)
