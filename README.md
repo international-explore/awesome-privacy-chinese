@@ -42,6 +42,9 @@
    * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
    * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
 
+ * 重要业内标准
+   * [IEEE SA P3117 首个隐私计算互联互通标准](https://sagroups.ieee.org/3117/) 主要由信通院等牵头，旨在打破计算孤岛，实现互联互通
+   * []
  * 重要认证指南
    * [PCI-DSS](https://www.pcisecuritystandards.org/pdfs/chinese_simplified_pci_dss_audit_procedures_v1-1.pdf) 支付卡服务的全球认证
    * [ISO 27001:2013](https://www.iso.org/standard/54534.html) 侧重信息安全，针对信息安全的管理体系、要求和风险处置等
@@ -68,6 +71,8 @@
    
 ## 相关白皮书
   * 国内白皮书（评分纯属个人意见，5分推荐，4分值得一读，3分有时间就看看，2分不值得，1分垃圾）
+    * [2022-财经&社科院-《个性化搞搞合规发展研究报告》](./files/whitepaper/2022-财经-个性化广告合规发展研究报告.pdf)
+      * **3分** | 产品三个关键点：告知和用户同意,opt-out,避免直接定位人；使用还是隐私计算
     * [2022-德勤-《2022技术趋势（中文版）》](./files/whitepaper/2022技术趋势（中文版）-德勤-2022.pdf)
       * **3分** | 第一章重点介绍了了数据跨界和共享，三个关键词：机遇、易用性和隐私，落脚点还是隐私计算
     * [2022-ECC-《边缘学习：隐私计算白皮书》](./files/whitepaper/2022-ECC-边缘学习：隐私计算白皮书.pdf) 
