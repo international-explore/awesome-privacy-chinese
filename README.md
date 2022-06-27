@@ -36,15 +36,16 @@
   
  * 隐私相关条例
    * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
+   * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
    * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA)
    * [《关键信息基础设施安全管理条例》- 2021/09/01](http://www.gov.cn/zhengce/content/2021-08/17/content_5631671.htm) | [官方答记者问](https://mp.weixin.qq.com/s/7epChMnwiZU3mUV_dGawqA)
    * [《网络安全审查办法》- 2022/02/15](http://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm) | [官方答记者问](https://mp.weixin.qq.com/s/Avfc4EbEAEKkuo0CTDH7sQ)
    * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
    * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
-
+  
  * 重要业内标准
-   * [IEEE SA P3117 首个隐私计算互联互通标准](https://sagroups.ieee.org/3117/) 主要由信通院等牵头，旨在打破计算孤岛，实现互联互通
-   * []
+   * [IEEE SA P3117 首个隐私计算互联互通标准 - 2022-06](https://sagroups.ieee.org/3117/) 主要由信通院等牵头，旨在打破计算孤岛，实现互联互通
+   * [个人信息跨境处理活动安全认证规范 - 2022-06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
  * 重要认证指南
    * [PCI-DSS](https://www.pcisecuritystandards.org/pdfs/chinese_simplified_pci_dss_audit_procedures_v1-1.pdf) 支付卡服务的全球认证
    * [ISO 27001:2013](https://www.iso.org/standard/54534.html) 侧重信息安全，针对信息安全的管理体系、要求和风险处置等
