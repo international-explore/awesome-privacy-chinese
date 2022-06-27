@@ -8,7 +8,7 @@
    * [隐私创业企业](#隐私创业企业) - 基于隐私创业的相关企业
    * [大厂隐私中心](#大厂隐私中心) - 各大厂的隐私中心，设计理念和宗旨
    * [隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
-   * [开源工具](#开源工具) - 隐私开源的识别、检测工具等
+   * [相关工具](#相关工具) - 隐私相关的一些工具
    * [书籍](#书籍) - 隐私相关数据推荐
    * [网站外链](#网站外链) - 隐私相关重要新闻、资源外链
    * [📙 英语词汇](./PrivacyGlossary.md) - 隐私相关的基础英语词汇
@@ -34,7 +34,7 @@
    * [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | [网络安全法解读](http://www.mca.gov.cn/article/zt_gjaqr2021/zjjd/202104/20210400033201.shtml) | [网信办解读网络安全法](http://www.cac.gov.cn/2020-05/03/c_1590051734208776.htm)
    * [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | [数据安全法解读](http://www.cac.gov.cn/2021-06/15/c_1625341228851523.htm)
   
- * 重要国内条例
+ * 隐私相关条例
    * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
    * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA)
    * [《关键信息基础设施安全管理条例》- 2021/09/01](http://www.gov.cn/zhengce/content/2021-08/17/content_5631671.htm) | [官方答记者问](https://mp.weixin.qq.com/s/7epChMnwiZU3mUV_dGawqA)
@@ -71,7 +71,7 @@
    
 ## 相关白皮书
   * 国内白皮书（评分纯属个人意见，5分推荐，4分值得一读，3分有时间就看看，2分不值得，1分垃圾）
-    * [2022-财经&社科院-《个性化搞搞合规发展研究报告》](./files/whitepaper/2022-财经-个性化广告合规发展研究报告.pdf)
+    * [2022-财经&社科院-《个性化广告合规发展研究报告》](./files/whitepaper/2022-财经-个性化广告合规发展研究报告.pdf)
       * **3分** | 产品三个关键点：告知和用户同意,opt-out,避免直接定位人；使用还是隐私计算
     * [2022-德勤-《2022技术趋势（中文版）》](./files/whitepaper/2022技术趋势（中文版）-德勤-2022.pdf)
       * **3分** | 第一章重点介绍了了数据跨界和共享，三个关键词：机遇、易用性和隐私，落脚点还是隐私计算
@@ -157,7 +157,8 @@
      * [chapter2-2 Engineer&Privacy 脑图](./files/CIPT/chapter2-2%20Engineer%20&%20Privacy.png)
     
 
-## 开源工具
+## 相关工具
+  * 政府工具
   * 隐私工具
     * [website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - EDPS的网页收集和隐私分析服务
     * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services) - 隐私一个网页分析服务
@@ -169,7 +170,7 @@
      * [ipleak](https://ipleak.net/) - 检查IP泄露工具
      * [Browser Leaks ](https://browserleaks.com/) - 检查浏览器泄露信息工具
      * [DNS Leaks ](https://www.dnsleaktest.com/) - 检查DNS泄露信息工具
-   * 脱敏
+  * 脱敏
       * [google homomorphic](https://github.com/google/fully-homomorphic-encryption) - google 同态加密
       * [google differential-privacy](https://github.com/google/differential-privacy) - google 差分隐私
       * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp
@@ -195,11 +196,13 @@
    * [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - 英文攻击检测相关
    * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 引文自托管服务相关
    * [mac os 安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md) - mac os的隐私安全指南 
+ * 政府相关
+    * [人民数保](https://pdc.peopleyun.cn/home) - 人民网提供的二次数据上链和确权、共享的平台，目前非常初期。 | [PDC白皮书](https://pdc.peopleyun.cn/dataSourceCentre?tabIndex=1)
+    * [singpass](https://www.singpass.gov.sg/main) - 新加坡的政府个人数据存储网站，做的相对比较完整，类似于国内人民数保和韩国Mydata
  * 标准相关网站
    * [W3C privacy](https://www.w3.org/Privacy/) - W3C隐私工作组
    * [pixelprivacy](https://pixelprivacy.com/resources/) - 在线隐私指南
    * [privacytools](https://www.privacytools.io/) - 隐私指南：使用加密和隐私工具对抗监视
-
  * 新闻相关网站
    * [spreadprivacy](https://spreadprivacy.com/) -duckduckgo官方blog
    * [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - top 10 web security risk
