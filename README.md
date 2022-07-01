@@ -35,6 +35,7 @@
    * [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | [数据安全法解读](http://www.cac.gov.cn/2021-06/15/c_1625341228851523.htm)
   
  * 隐私相关条例
+   * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，需要注意第四条排除项，大厂基本都不满足
    * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
    * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
    * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA)
@@ -146,11 +147,16 @@
     * [百度隐私中心](http://privacy.baidu.com/)  | 同意，透明，可控
 
 ## 隐私新技术
- * 隐私保护
-   * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
    
  * 隐私计算
+   * [primihub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
+ 
+ * 隐私存储
+   * [immudb](https://github.com/codenotary/immudb)  零信任数据库，初步看自带留痕和加密
 
+ * 端隐私技术  
+   * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
+ 
  * 隐私体系学习
    * CIPT认证脑图
      * [chapter1-privacy 脑图](./files/CIPT/chapter1-privacy.png)
@@ -160,8 +166,9 @@
 
 ## 相关工具
   * 政府工具
-  * 政府工具
+  
   * 隐私工具
+    * [GDPR-checklist](https://github.com/privacyradius/gdpr-checklist) - GDPR的一个检查工具，目前看相对简单
     * [website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - EDPS的网页收集和隐私分析服务
     * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services) - 隐私一个网页分析服务
     * [privacy tools](https://www.privacytools.io/) - 隐私相关工具合集
