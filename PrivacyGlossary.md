@@ -183,6 +183,6 @@
    * imputation：污名化处理（Data imputation can be used to replace the suppressed values with plausible data without risking privacy）
    * plausible：是是而非
    * local differential privacy：本地化查分隐私
-
+   * tamperproof：防篡改
 
     
