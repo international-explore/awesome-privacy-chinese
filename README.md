@@ -9,7 +9,7 @@
    * [大厂隐私中心](#大厂隐私中心) - 各大厂的隐私中心，设计理念和宗旨
    * [隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
    * [相关工具](#相关工具) - 隐私相关的一些工具
-   * [书籍](#书籍) - 隐私相关数据推荐
+   * [书籍视频](#书籍) - 隐私相关数据推荐
    * [网站外链](#网站外链) - 隐私相关重要新闻、资源外链
    * [📙 英语词汇](./PrivacyGlossary.md) - 隐私相关的基础英语词汇
    * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
@@ -113,9 +113,11 @@
 ## 隐私创业企业
  * 海外创业公司
    * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE 
+   * [adzapier - CMP同意管理](https://adzapier.com/) |理念：have access to meaningful data, while still respecting each individual consumer's right to privacy 
    * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email. 
    * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：发现、分级、保护
    * [duckduckgo.com - 隐私搜索引擎](https://duckduckgo.com/) | 理念：我们从不存储你的个人信息 
+   * [consentmanager - CMP](https://www.consentmanager.net/) | 重心： Higher Acceptance-Rates & Lower Bounce-Rate
      
  * 国内创业公司
    * [数牍科技 - 隐私计算](https://www.sudoprivacy.com/) | 理念：安全高性能的隐私计算平台 
@@ -165,29 +167,30 @@
     
 
 ## 相关工具
-  * 政府工具
   
-  * 隐私工具
+  * 隐私
+    * [Android 隐私沙盒](https://developer.android.google.cn/design-for-safety/privacy-sandbox) - 保护隐私同时为移动应用打造高效的个性化广告体验，[当前进度](https://developer.android.google.cn/design-for-safety/privacy-sandbox/progress-updates/latest)
     * [GDPR-checklist](https://github.com/privacyradius/gdpr-checklist) - GDPR的一个检查工具，目前看相对简单
     * [website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - EDPS的网页收集和隐私分析服务
     * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services) - 隐私一个网页分析服务
     * [privacy tools](https://www.privacytools.io/) - 隐私相关工具合集
   * 检索
-    * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索引擎
-    * [DuckDuckGo](https://duckduckgo.com/) - 非追踪检索
+     * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索引擎
+     * [DuckDuckGo](https://duckduckgo.com/) - 非追踪检索
+  * 扫描
+    * [dataDog- sensitive data scanner](https://www.datadoghq.com/product/sensitive-data-scanner/) - datadog敏感数据扫描，敏感数据包含token等
   * 网络
-    * [ipleak](https://ipleak.net/) - 检查IP泄露工具
-    * [Browser Leaks ](https://browserleaks.com/) - 检查浏览器泄露信息工具
-    * [DNS Leaks ](https://www.dnsleaktest.com/) - 检查DNS泄露信息工具
+     * [ipleak](https://ipleak.net/) - 检查IP泄露工具
+     * [Browser Leaks ](https://browserleaks.com/) - 检查浏览器泄露信息工具
+     * [DNS Leaks ](https://www.dnsleaktest.com/) - 检查DNS泄露信息工具
   * 脱敏
-    * [google homomorphic](https://github.com/google/fully-homomorphic-encryption) - google 同态加密
-    * [google differential-privacy](https://github.com/google/differential-privacy) - google 差分隐私
-    * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp
-  * 政策
+      * [google homomorphic](https://github.com/google/fully-homomorphic-encryption) - google 同态加密
+      * [google differential-privacy](https://github.com/google/differential-privacy) - google 差分隐私
+      * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp
+* 政策
     * [gihub policy](https://github.com/github/site-policy)  - github开源了所有的政策包
     * [Medium's Policies and Guidelines](https://github.com/Medium/medium-policy)  - 中小型的隐私政策包
     * [Employee IP](https://github.com/github/balanced-employee-ip-agreement/blob/main/Employee_IP_Laws.md)  - 员工IP和知识产权相关的法规
-        
 
 ## 书籍
    * 英文书籍
