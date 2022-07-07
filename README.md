@@ -13,7 +13,11 @@
    * [网站外链](#网站外链) - 隐私相关重要新闻、资源外链
    * [📙 英语词汇](./PrivacyGlossary.md) - 隐私相关的基础英语词汇
    * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
-   
+    * [2022 年 4 月隐私新闻](./news/202204.md)
+    * [2022 年 5 月隐私新闻](./news/202205.md)
+    * [2022 年 6 月隐私新闻](./news/202206.md)
+    * [2022 年 7 月隐私新闻](./news/202207.md)
+
 ## 隐私法规
  * 全球法规查询：
    * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询
