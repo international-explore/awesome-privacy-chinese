@@ -92,17 +92,29 @@
     * [2021-德勤-《移动应用个人信息保护白皮书》](./files/whitepaper/2021-10德勤移动应用个人信息保护白皮书.pdf) 
       * **3分** | 结合oppo现状介绍移动端信息保护的整体框架，可以作为体系化设计的参考
     * [2021-信通院-《隐私保护计算技术研究报告》](./files/whitepaper/2020-信通院-隐私保护计算技术研究报告.pdf) 
+      * **3分** | 隐私计算概念、关键技术和应用案例
     * [2021-安永-《全球数据合规与隐私科技发展报告》](./files/whitepaper/2021-安永-全球数据合规与隐私科技发展报告.pdf)
+      * **3分** | 挑战、监管现状、发展趋势等介绍的比较多，真正贴近的治理的干货较少
     * [2021-阿里云-《数据安全隐私保护》白皮书](./files/whitepaper/2021-阿里云-数据安全隐私保护白皮书.pdf)
+      * **3分** | 阿里云功能介绍，涵盖基础设施风险、云上数据保护工具、数据管理工具等
     * [2021-工行-《隐私计算推动金融业数据生态建设》白皮书](./files/whitepaper/2021-11《隐私计算推动金融业数据生态建设》白皮书.pdf)
+      * **3分** | 工行和华控清交在金融数据流通方向的一些思考
     * [2021-微众&毕马威-《隐私计算行业研究报告》白皮书](./files/whitepaper/2021-微众&毕马威-隐私计算行业研究报告.pdf)
+      * **3分** | 隐私计算的一些数据和建议，整体看觉的目前尚未形成标准
     * [2021-CB INSIGHT-《中国隐私计算技术与市场发展研究报告》](./files/whitepaper/2021-12中国隐私计算技术与市场发展研究报告.pdf)
+       * **3分** | 市场、技术路线和形式的一些分析，技术赋能市场要素流通将迎来风口
     * [2021-移动-《隐私计算白皮书》](./files/whitepaper/2021-移动-隐私计算白皮书.pdf)
+       * **3分** | 涉及一些通信行业和海外，关注该行业的可以看下
     * [2021-隐私计算联盟-《隐私计算法律与合规研究白皮书》](./files/whitepaper/2021-隐私计算联盟-隐私计算法律与合规研究白皮书.pdf)
+       * **3分** | 对法规和合规要点牵涉的多一些。 
     * [2021-甲子光年-《隐私计算行业研究报告》](./files/whitepaper/2021-甲子光年-隐私计算行业研究报告.pdf)
+       * **3分** | 数据孤岛问题和数据互通价值浅析
     * [2021-交通银行-《隐私计算金融应用蓝皮书》](./files/whitepaper/2021-交通银行-隐私计算金融应用蓝皮书.pdf)
+       * **3分** | 金融行业和交行的实际应用case还是比较多的
     * [2021-信通院-《中国算力发展指数白皮书》](./files/whitepaper/2021-信通院-中国算力发展指数白皮书.pdf)
+       * **3分** | 结合“东数西算”，可以简单看下算力分布
     * [2021-信通院-《数据安全风险分析及应对策略研究》](./files/whitepaper/2021-信通院-数据安全风险分析及应对策略研究.pdf)
+       * **3分** | 重点在过度采集、弱口令、权限分配、api攻击等方面。
 
   * 海外白皮书
     * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf) 
@@ -154,17 +166,21 @@
 
 ## 隐私新技术
    
- * 隐私计算 
-   * [primihub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
+ * 隐私计算 （pricacy-preserving computation）
+   * 多方安全计算（MPC-Secure multi-party Computation）
+     * [primihub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
+   * 联邦学习（FL-Federated Learning）
+   * 可信执行环境（FEE-Trusted Execution Environment）
+   * 同态加密（HE-Homomorphic Encryption）
+   * 零知识证明（ZKP-zero knowledge proof）
+   * 差分隐私（DP-Differential Privacy）
+   
  
- * [零知识证明](https://zh.wikipedia.org/zh-hans/%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E)
-   * 
- 
- * 隐私区块链
+ * 隐私应用
    * 
 
  * 隐私存储
-   * [immudb](https://github.com/codenotary/immudb)  零信任数据库，初步看自带留痕和加密
+   * [immudb](https://github.com/codenotary/immudb)  零信任数据库，基于Merkle Tree来存储数据并保持其完整性
 
  * 识别技术
    * [simhash](https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/CharikarEstim.pdf) 正则匹配外高效数据识别的方式，[中文介绍](https://zhuanlan.zhihu.com/p/81026564)
