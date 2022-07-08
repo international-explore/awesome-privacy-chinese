@@ -194,6 +194,7 @@
     * [gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - python版本的gitlab敏感信息识别
     * [SecretFinder](https://github.com/m4ll0k/SecretFinder) - python版本的敏感信息识别，侧重key、token等，正则可以直接借鉴
     * [sensitivity-detecto](https://github.com/DhilipSanjay/Detection-of-Sensitive-Data-Exposure-in-Images) - 图片敏感信息识别
+    * [net-creds](https://github.com/DanMcInerney/net-creds) - 网络数据识别
  
   * 脱敏
     * [microsoft presidio](https://microsoft.github.io/presidio/) - 微软presidio（python），提供识别和脱敏能力
