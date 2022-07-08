@@ -13,10 +13,10 @@
    * [网站外链](#网站外链) - 隐私相关重要新闻、资源外链
    * [📙 英语词汇](./PrivacyGlossary.md) - 隐私相关的基础英语词汇
    * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
-    * [2022 年 4 月隐私新闻](./news/202204.md)
-    * [2022 年 5 月隐私新闻](./news/202205.md)
-    * [2022 年 6 月隐私新闻](./news/202206.md)
-    * [2022 年 7 月隐私新闻](./news/202207.md)
+     * [2022 年 7 月隐私新闻](./news/202207.md)   
+     * [2022 年 6 月隐私新闻](./news/202206.md)
+     * [2022 年 5 月隐私新闻](./news/202205.md)
+     * [2022 年 4 月隐私新闻](./news/202204.md)
 
 ## 隐私法规
  * 全球法规查询：
@@ -154,11 +154,20 @@
 
 ## 隐私新技术
    
- * 隐私计算
+ * 隐私计算 
    * [primihub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
  
+ * [零知识证明](https://zh.wikipedia.org/zh-hans/%E9%9B%B6%E7%9F%A5%E8%AF%86%E8%AF%81%E6%98%8E)
+   * 
+ 
+ * 隐私区块链
+   * 
+
  * 隐私存储
    * [immudb](https://github.com/codenotary/immudb)  零信任数据库，初步看自带留痕和加密
+
+ * 识别技术
+   * [simhash](https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/CharikarEstim.pdf) 正则匹配外高效数据识别的方式，[中文介绍](https://zhuanlan.zhihu.com/p/81026564)
 
  * 端隐私技术  
    * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
@@ -178,20 +187,31 @@
     * [website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - EDPS的网页收集和隐私分析服务
     * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services) - 隐私一个网页分析服务
     * [privacy tools](https://www.privacytools.io/) - 隐私相关工具合集
-  * 检索
-     * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索引擎
-     * [DuckDuckGo](https://duckduckgo.com/) - 非追踪检索
-  * 扫描
-    * [dataDog- sensitive data scanner](https://www.datadoghq.com/product/sensitive-data-scanner/) - datadog敏感数据扫描，敏感数据包含token等
+  
+  * 识别
+    * [dataDog](https://www.datadoghq.com/product/sensitive-data-scanner/) - datadog敏感数据扫描，敏感数据包含token等
+    * [gitGraber](https://github.com/hisxo/gitGraber) - git敏感信息内容扫描
+    * [gitlab-watchman](https://github.com/PaperMtn/gitlab-watchman) - python版本的gitlab敏感信息识别
+    * [SecretFinder](https://github.com/m4ll0k/SecretFinder) - python版本的敏感信息识别，侧重key、token等，正则可以直接借鉴
+    * [sensitivity-detecto](https://github.com/DhilipSanjay/Detection-of-Sensitive-Data-Exposure-in-Images) - 图片敏感信息识别
+ 
+  * 脱敏
+    * [microsoft presidio](https://microsoft.github.io/presidio/) - 微软presidio（python），提供识别和脱敏能力
+    * [google homomorphic](https://github.com/google/fully-homomorphic-encryption) - google 同态加密
+    * [google differential-privacy](https://github.com/google/differential-privacy) - google 差分隐私
+    * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp，目前能力比较初级
+    * [DataDefender](https://github.com/armenak/DataDefender) - java版本的识别，脱敏工具
+  
   * 网络
      * [ipleak](https://ipleak.net/) - 检查IP泄露工具
      * [Browser Leaks ](https://browserleaks.com/) - 检查浏览器泄露信息工具
      * [DNS Leaks ](https://www.dnsleaktest.com/) - 检查DNS泄露信息工具
-  * 脱敏
-      * [google homomorphic](https://github.com/google/fully-homomorphic-encryption) - google 同态加密
-      * [google differential-privacy](https://github.com/google/differential-privacy) - google 差分隐私
-      * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp
-* 政策
+  
+  * 检索
+     * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索引擎
+     * [DuckDuckGo](https://duckduckgo.com/) - 非追踪检索
+ 
+  * 政策
     * [gihub policy](https://github.com/github/site-policy)  - github开源了所有的政策包
     * [Medium's Policies and Guidelines](https://github.com/Medium/medium-policy)  - 中小型的隐私政策包
     * [Employee IP](https://github.com/github/balanced-employee-ip-agreement/blob/main/Employee_IP_Laws.md)  - 员工IP和知识产权相关的法规
@@ -210,6 +230,7 @@
 
 ## 网站外链
  * github
+   * [zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - 零知识证明相关内容
    * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - 安全相关的讲座，组织和会议
    * [awesome-privacy](https://github.com/pluja/awesome-privacy) - 英文隐私相关有意思内容
    * [awesome-security](https://github.com/sbilly/awesome-security) - 英文安全相关有意思内容
