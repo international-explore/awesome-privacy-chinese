@@ -39,7 +39,7 @@
    * [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | [数据安全法解读](http://www.cac.gov.cn/2021-06/15/c_1625341228851523.htm)
   
  * 隐私相关条例
-   * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，需要注意第四条排除项，大厂基本都不满足
+   * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，适合小厂，[参考](https://github.com/international-explore/awesome-privacy-chinese/blob/main/news/202206.md#%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%87%BA%E5%A2%83%E6%A0%87%E5%87%86%E5%90%88%E5%90%8C%E8%A7%84%E5%AE%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF) 和 [官方答疑](https://mp.weixin.qq.com/s/I_8CoXlwvIAv4vdWQLANZw)
    * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
    * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
    * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA)
@@ -167,8 +167,11 @@
 ## 隐私新技术
    
  * 隐私计算 （pricacy-preserving computation）
-   * 多方安全计算（MPC-Secure multi-party Computation）
+   * 综合
+     * [隐语- secret flow](https://github.com/secretflow) 蚂蚁开源的隐私计算平台，[文档地址](https://secretflow.readthedocs.io/en/latest/)
      * [primihub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
+    
+   * 多方安全计算（MPC-Secure multi-party Computation）
    * 联邦学习（FL-Federated Learning）
    * 可信执行环境（FEE-Trusted Execution Environment）
    * 同态加密（HE-Homomorphic Encryption）
