@@ -75,7 +75,7 @@
    * [ISO 27701:2019](https://www.iso.org/standard/71670.html) 侧重隐私安全，在可识别信息控制者和个人可识别信息处理者进行规范和指导，一般和27001一起过
    * SOC审计：系统和组织控制(System and Organization Controls，SOC)报告是由AICPA发布的标准管理的报告，与提供服务的服务组织相关
      * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) 概述于认证协议标准声明(SSAE) 18，SOC 1关注的是服务组织的内部控制
-     * [SOC 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) SOC 2是一个受限使用报告，关注的是与AICPA的信任服务标准(TSCs)概述的`合规和运营`相关
+     * [SOC 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) SOC 2是一个受限使用报告，关注的是与AICPA的信任服务标准(TSCs)概述的`合规和运营`相关 | [soc 2工具](https://github.com/strongdm/comply)
      * [SOC 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report) SOC 3是一个通用使用报告，细节不多，可以由服务组织自由分发，是个较好的营销工具。
   
 
@@ -147,11 +147,12 @@
 ## 隐私创业企业
  * 海外创业公司
    * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE 
-   * [adzapier - CMP同意管理](https://adzapier.com/) |理念：have access to meaningful data, while still respecting each individual consumer's right to privacy 
+   * [adzapier - CMP同意管理](https://adzapier.com/) |理念：have access to meaningful data 
    * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email. 
    * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：发现、分级、保护
    * [duckduckgo.com - 隐私搜索引擎](https://duckduckgo.com/) | 理念：我们从不存储你的个人信息 
    * [consentmanager - CMP](https://www.consentmanager.net/) | 重心： Higher Acceptance-Rates & Lower Bounce-Rate
+   * [clear - GDPR solution](https://www.cleargdpr.com/) | 特点： with Blockchain anchored chain-of-custody records [git工具](https://github.com/ClearGDPR/ClearGDPR)
      
  * 国内创业公司
    * [数牍科技 - 隐私计算](https://www.sudoprivacy.com/) | 理念：安全高性能的隐私计算平台 
@@ -162,7 +163,6 @@
    * [华控清交 - 安全计算](https://www.tsingj.com/) | 理念：让数据安全融合，使信任变得简单 
    * [原语科技 - 隐私计算](https://www.primihub.com/) | 目前平台已经在github开源：[primihub](https://github.com/primihub/primihub)
    
-
 
 ## 大厂隐私中心
  * 海外大厂隐私
@@ -192,8 +192,11 @@
    * 多方安全计算（MPC-Secure multi-party Computation）
    * 联邦学习（FL-Federated Learning）
    * 可信执行环境（FEE-Trusted Execution Environment）
+     * [] 
    * 同态加密（HE-Homomorphic Encryption）
    * 零知识证明（ZKP-zero knowledge proof）
+    * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
+    * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
    * 差分隐私（DP-Differential Privacy）
    
  
@@ -206,9 +209,13 @@
  * 识别技术
    * [simhash](https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/CharikarEstim.pdf) 正则匹配外高效数据识别的方式，[中文介绍](https://zhuanlan.zhihu.com/p/81026564)
 
+ * 加密货币
+   * [oasis](https://oasisprotocol.org/)  
+
  * 端隐私技术  
    * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
  
+
  * 隐私体系学习
    * CIPT认证脑图
      * [chapter1-privacy 脑图](./files/CIPT/chapter1-privacy.png)
@@ -249,6 +256,9 @@
      * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索引擎
      * [DuckDuckGo](https://duckduckgo.com/) - 非追踪检索
  
+  * 审计
+     * [lynis](https://github.com/CISOfy/lynis) - 自动化安全审计工具，支持PCI，ISO等
+ 
   * 政策
     * [gihub policy](https://github.com/github/site-policy)  - github开源了所有的政策包
     * [Medium's Policies and Guidelines](https://github.com/Medium/medium-policy)  - 中小型的隐私政策包
@@ -257,7 +267,8 @@
 ## 书籍
    * 英文书籍
      * [data-privacy](https://www.manning.com/books/data-privacy)
-   
+     * [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) - 2022 justin thaler 
+     * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/book.pdf) - 2020 cryptography 相关的都有介绍 
    * 中文书籍
    
    * 英文视频
@@ -268,13 +279,14 @@
 
 ## 网站外链
  * github
+   * [awesome-privacy](https://github.com/pluja/awesome-privacy) - 隐私相关软件
+   * [awesome-privacy-on-blockchains](https://github.com/Mikerah/awesome-privacy-on-blockchains) - blockchain隐私相关内容
+   * [awesome-security](https://github.com/sbilly/awesome-security) - 英文安全相关
    * [zero-knowledge-proofs](https://github.com/matter-labs/awesome-zero-knowledge-proofs) - 零知识证明相关内容
    * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - 安全相关的讲座，组织和会议
-   * [awesome-privacy](https://github.com/pluja/awesome-privacy) - 英文隐私相关有意思内容
-   * [awesome-security](https://github.com/sbilly/awesome-security) - 英文安全相关有意思内容
    * [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - 英文攻击检测相关
    * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 引文自托管服务相关
-   * [mac os 安全和隐私指南](https://github.com/drduh/macOS-Security-and-Privacy-Guide/blob/master/README-cn.md) - mac os的隐私安全指南 
+   * [awesome-zk](https://github.com/ventali/awesome-zk) - 零知识证明英文资料
  * 政府相关
     * [人民数保](https://pdc.peopleyun.cn/home) - 人民网提供的二次数据上链和确权、共享的平台，目前非常初期。 | [PDC白皮书](https://pdc.peopleyun.cn/dataSourceCentre?tabIndex=1)
     * [singpass](https://www.singpass.gov.sg/main) - 新加坡的政府个人数据存储网站，做的相对比较完整，类似于国内人民数保和韩国Mydata
