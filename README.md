@@ -182,47 +182,6 @@
     * [阿里云隐私中心](https://security.aliyun.com/trust) |云即信任 
     * [百度隐私中心](http://privacy.baidu.com/)  | 同意，透明，可控
 
-## 隐私新技术
-   
- * 隐私计算 （pricacy-preserving computation）
-   * 综合
-     * [隐语- secret flow](https://github.com/secretflow) 蚂蚁开源的隐私计算平台，[文档地址](https://secretflow.readthedocs.io/en/latest/)
-     * [primihub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
-    
-   * 多方安全计算（MPC-Secure multi-party Computation）
-   * 联邦学习（FL-Federated Learning）
-   * 可信执行环境（FEE-Trusted Execution Environment）
-     * [] 
-   * 同态加密（HE-Homomorphic Encryption）
-   * 零知识证明（ZKP-zero knowledge proof）
-    * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
-    * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
-   * 差分隐私（DP-Differential Privacy）
-   
- 
- * 隐私应用
-   * 
-
- * 隐私存储
-   * [immudb](https://github.com/codenotary/immudb)  零信任数据库，基于Merkle Tree来存储数据并保持其完整性
-
- * 识别技术
-   * [simhash](https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/CharikarEstim.pdf) 正则匹配外高效数据识别的方式，[中文介绍](https://zhuanlan.zhihu.com/p/81026564)
-
- * 加密货币
-   * [oasis](https://oasisprotocol.org/)  
-
- * 端隐私技术  
-   * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
- 
-
- * 隐私体系学习
-   * CIPT认证脑图
-     * [chapter1-privacy 脑图](./files/CIPT/chapter1-privacy.png)
-     * [chapter2-1 Engineer&Privacy 脑图](./files/CIPT/chapter2-1%20Engineer&%20Privacy.png)
-     * [chapter2-2 Engineer&Privacy 脑图](./files/CIPT/chapter2-2%20Engineer%20&%20Privacy.png)
-    
-
 ## 相关工具
   
   * 隐私
@@ -244,8 +203,11 @@
     * [microsoft presidio](https://microsoft.github.io/presidio/) - 微软presidio（python），提供识别和脱敏能力
     * [google homomorphic](https://github.com/google/fully-homomorphic-encryption) - google 同态加密
     * [google differential-privacy](https://github.com/google/differential-privacy) - google 差分隐私
+    * [amnesia](https://amnesia.openaire.eu/) - 欧洲本地化的脱敏工具
     * [bytedance godlp](https://github.com/bytedance/godlp) - 头条go dlp，目前能力比较初级
+    * [ARX](https://github.com/arx-deidentifier/arx) - java开源的匿名化工具（[官网](https://arx.deidentifier.org/)）
     * [DataDefender](https://github.com/armenak/DataDefender) - java版本的识别，脱敏工具
+    * [新加坡 pdpc](https://www.pdpc.gov.sg/news-and-events/announcements/2022/05/data-anonymisation-tool-now-available) - 新加坡官方的数据脱敏工具 | [详细说明](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Advisory-Guidelines/Guide-to-Basic-Anonymisation-31-March-2022.ashx)
   
   * 网络
      * [ipleak](https://ipleak.net/) - 检查IP泄露工具
@@ -264,11 +226,54 @@
     * [Medium's Policies and Guidelines](https://github.com/Medium/medium-policy)  - 中小型的隐私政策包
     * [Employee IP](https://github.com/github/balanced-employee-ip-agreement/blob/main/Employee_IP_Laws.md)  - 员工IP和知识产权相关的法规
 
+## 隐私新技术
+   
+ * 隐私计算 （pricacy-preserving computation）
+   * 综合
+     * [隐语- secret flow](https://github.com/secretflow) 蚂蚁开源的隐私计算平台，[文档地址](https://secretflow.readthedocs.io/en/latest/)
+     * [primihub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
+    
+   * 多方安全计算（MPC-Secure multi-party Computation）
+   * 联邦学习（FL-Federated Learning）
+   * 可信执行环境（FEE-Trusted Execution Environment）
+     * [] 
+   * 同态加密（HE-Homomorphic Encryption）
+   * 零知识证明（ZKP-zero knowledge proof）
+    * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
+    * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
+   * 差分隐私（DP-Differential Privacy）
+   
+ 
+ * 隐私应用
+ 
+
+ * 隐私存储
+   * [immudb](https://github.com/codenotary/immudb)  零信任数据库，基于Merkle Tree来存储数据并保持其完整性
+
+ * 识别技术
+   * [simhash](https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/CharikarEstim.pdf) 正则匹配外高效数据识别的方式，[中文介绍](https://zhuanlan.zhihu.com/p/81026564)
+
+ * 加密货币
+   * [oasis](https://oasisprotocol.org/)  
+
+ * 端隐私技术  
+   * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)   
+ 
+ 
+ * 隐私体系学习
+   * CIPT认证脑图
+     * [chapter1-privacy 脑图](./files/CIPT/chapter1-privacy.png)
+     * [chapter2-1 Engineer&Privacy 脑图](./files/CIPT/chapter2-1%20Engineer&%20Privacy.png)
+     * [chapter2-2 Engineer&Privacy 脑图](./files/CIPT/chapter2-2%20Engineer%20&%20Privacy.png)
+    
+
+
 ## 书籍
    * 英文书籍
      * [data-privacy](https://www.manning.com/books/data-privacy)
      * [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) - 2022 justin thaler 
      * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/book.pdf) - 2020 cryptography 相关的都有介绍 
+     * [guide to basic anonymisation](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Advisory-Guidelines/Guide-to-Basic-Anonymisation-31-March-2022.ashx) - 2022 新加坡官方的脱敏指南 
    * 中文书籍
    
    * 英文视频
@@ -288,6 +293,7 @@
    * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 引文自托管服务相关
    * [awesome-zk](https://github.com/ventali/awesome-zk) - 零知识证明英文资料
  * 政府相关
+    * [新加坡 pdpc](https://www.pdpc.gov.sg/) - 新加坡个人数据保护组织
     * [人民数保](https://pdc.peopleyun.cn/home) - 人民网提供的二次数据上链和确权、共享的平台，目前非常初期。 | [PDC白皮书](https://pdc.peopleyun.cn/dataSourceCentre?tabIndex=1)
     * [singpass](https://www.singpass.gov.sg/main) - 新加坡的政府个人数据存储网站，做的相对比较完整，类似于国内人民数保和韩国Mydata
  * 标准相关网站
