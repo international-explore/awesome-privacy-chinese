@@ -49,22 +49,26 @@
    * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
  
  * 各地数字经济  
-   * **整体纲要**：[国务院-“十四五”数字经济发展规划](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)
-   * [《广东省数字经济发展指引1.0》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 数字产业化和产业数字化
-   * [《苏州市数字经济“十四五”发展规划的通知》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 很不错，强调治理 
-   * [《沈阳关于促进数字经济产业发展若干政策》-202207](http://www.shenyang.gov.cn/zwgk/zcwj/zfwj/szfbgtwj1/202207/t20220701_3387567.html) | 21条，主要是补贴和奖励 
-   * [《深圳数字政府和智慧城市“十四五”发展规划》-202206](http://www.sz.gov.cn/cn/xxgk/zfxxgj/zwdt/content/post_9901514.html) | 2025智慧城市典范，2035数字驱动生产 
-   * [《江西“十四五”数字经济发展规划》-202206](http://www.gov.cn/xinwen/2022-06/24/content_5697653.htm) | 加“数”前行，抢占“智”高点 
+   * **整体纲要**：[国务院-“十四五”数字经济发展规划](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)，列举了涉及数据要素，隐私相关的省份。
+   * [《广东省数字经济发展指引1.0》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 数据作为关键生产要素的保护
+   * [《苏州市数字经济“十四五”发展规划的通知》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 强调数据治理治理  
+   * [《江西“十四五”数字经济发展规划》-202206](http://www.gov.cn/xinwen/2022-06/24/content_5697653.htm) | 加“数”前行，抢占“智”高点，数据治理水平提升 
    * [《黑龙江-促进大数据发展应用条例》-202205](http://www.hljrd.gov.cn/web/datainfo/local-law-detail.html?nid=7329&cn=local-law&li=y) | 数据保护为主
-   * [《河南-"十四五"数字经济和信息化发展规划》-202202](https://dsj.henan.gov.cn/2022/02-17/2400150.html) | 郑洛数字经济创新发展试验区
-   * [《河南-数字经济促进条例》-202203](https://hca.miit.gov.cn/zwgk/zcwj/flfg/art/2022/art_597b92efb8454379b714c3ce7a8127b0.html) | 保障数字经济从业者
+   * [《北京市数字经济全产业链开放发展行动方案》-202205](http://www.beijing.gov.cn/zhengce/zhengcefagui/202205/t20220531_2724836.html) | 加强数字经济治理，充分释放数据要素价值
+   * [《河南-"十四五"数字经济和信息化发展规划》-202202](https://dsj.henan.gov.cn/2022/02-17/2400150.html) | 郑洛数字经济创新发展试验区，数据治理和安全保障
+   * [《广西数字经济发展三年行动计划（2021—2023年）》-202201](http://gxxxzx.gxzf.gov.cn/dsjjsfw/zzqdsjzcjbzgf/t11379096.shtml) | 加快培育数据要素市场
    * [《杭州-数字经济发展“十四五”规划》-202112](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 做领头羊，各个指标非常具体 
-   * [《重庆-数字经济发展“十四五”规划》-202112](http://fzggw.cq.gov.cn/zwgk/zfxxgkml/zcjd/202112/t20211209_10117075.html) | 创建十个国家级数字经济应用示范高地 
+   * [《重庆-数字经济发展“十四五”规划》-202112](http://fzggw.cq.gov.cn/zwgk/zfxxgkml/zcjd/202112/t20211209_10117075.html) | 数据治理和数据要素的价值
+   * [《四川省“十四五”数字经济发展规划》-202111](https://www.sc.gov.cn/10462/10464/10797/2021/11/24/56633b06026d4d4fba328fc70a1bebd4.shtml) | 发挥数据要素的基础性作用 
+   * [《青海省“十四五”工业和信息化发展规划》-202111](http://www.qinghai.gov.cn/xxgk/xxgk/fd/ghxx/202112/t20211207_187863.html) | 加快关键数字技术攻关
+   * [《内蒙古自治区“十四五”数字经济发展规划》-202110](https://www.nmg.gov.cn/zwgk/zfxxgk/zfxxgkml/202111/t20211103_1922188.html) | 加强数据流通交易、数字丝绸之路的战略枢纽 
    * [《湖北-数字经济发展“十四五”规划》-202110](http://www.hubei.gov.cn/zfwj/ezf/202111/t20211119_3870661.shtml) | 十大先导工程-光谷、5G等 
-   * [《贵州-数字经济发展“十四五”规划》-202110](https://dsj.guizhou.gov.cn/zwgk/xxgkml/ghjh/202112/P020211230614025691442.pdf) | 云上贵州、大数据交易所等 
+   * [《贵州-数字经济发展“十四五”规划》-202110](https://dsj.guizhou.gov.cn/zwgk/xxgkml/ghjh/202112/P020211230614025691442.pdf) | 数据治理和数据价值，涉及云上贵州、大数据交易所等 
+   * [《上海市数字经济发展“十四五”规划》-202110](https://aqwg.shio.gov.cn/TrueCMS//shxwbgs/2021n_10y/content/6adbdefc-29cd-49f5-b797-852272f84f83.html) | 涉及数据安全和隐私计算
    * [《广东-数字经济促进条例》-202108](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 各行业数字化 
-   * [北京市，建好大数据交易所，打造全球数字经济标杆城市-202112](https://www.bcciia.com/article/f1982f0b10f140f4bdecde9b136b1f00) | 比较群面的数字经济指南
-  
+   * [《江苏省“十四五”数字经济发展规划》-202108](http://www.jiangsu.gov.cn/art/2021/8/26/art_46144_9989328.html) | 加快数据要素市场化 
+   * [《浙江省数字经济发展“十四五”规划》-202106](https://www.zj.gov.cn/art/2021/6/29/art_1229019365_2306544.html）| 数据治理和数据共享
+   
  * 重要业内标准
    * [IEEE SA P3117 首个隐私计算互联互通标准 - 2022-06](https://sagroups.ieee.org/3117/) 主要由信通院等牵头，旨在打破计算孤岛，实现互联互通
    * [个人信息跨境处理活动安全认证规范 - 2022-06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
