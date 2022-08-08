@@ -164,6 +164,7 @@
 
 * 海外创业公司
     * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE
+    * [flow security - 数据安全平台](https://www.flowsecurity.com/) |理念：Securing Data Wherever it Flows
     * [adzapier - CMP同意管理](https://adzapier.com/) |理念：have access to meaningful data
     * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email.
     * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：发现、分级、保护
