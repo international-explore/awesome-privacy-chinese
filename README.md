@@ -167,6 +167,8 @@
     * [flow security - 数据安全平台](https://www.flowsecurity.com/) |理念：Securing Data Wherever it Flows
     * [adzapier - CMP同意管理](https://adzapier.com/) |理念：have access to meaningful data
     * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email.
+    * [safebase - 安全管理中心](https://safebase.io/) |理念：Showcase your security program and streamline workflows.
+    * [shardsecure - 数据合规安全](https://shardsecure.com/overview) |理念：Data resilience, security, and privacy for hybrid- and multi-cloud environments.
     * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：发现、分级、保护
     * [duckduckgo.com - 隐私搜索引擎](https://duckduckgo.com/) | 理念：我们从不存储你的个人信息
     * [consentmanager - CMP](https://www.consentmanager.net/) | 重心： Higher Acceptance-Rates & Lower Bounce-Rate
