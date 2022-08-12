@@ -152,6 +152,8 @@
         * **3分** | 重点在过度采集、弱口令、权限分配、api攻击等方面。
 
 * 海外白皮书
+    * [2022-思科-《privacy becomes mission critical》](./files/whitepaper/2022-思科-2021年数据隐私基准研究报告.pdf)
+        * **4分** | 隐私和相关问题的分析，[参考分析](./news/202208.md)
     * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf)
         * **4分** | uber esg的进展和报告，涉及整体隐私的设计和理念
     * [2021-aws-《risk and compliance white_paper》](./files/whitepaper/2021_AWS_Risk_and_Compliance_Whitepaper.pdf)
