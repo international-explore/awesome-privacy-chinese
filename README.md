@@ -323,3 +323,5 @@
 * 新闻相关网站
     * [spreadprivacy](https://spreadprivacy.com/) -duckduckgo官方blog
     * [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - top 10 web security risk
+    * [网安](https://www.wangan.com/)
+    * [FreeBuf](https://www.freebuf.com/) - 网络安全行业门户
