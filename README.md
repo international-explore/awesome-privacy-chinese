@@ -178,6 +178,7 @@
 
 * 国内创业公司
     * [数牍科技 - 隐私计算](https://www.sudoprivacy.com/) | 理念：安全高性能的隐私计算平台
+    * [红途科技 - 数据隐私治理](http://www.htcctech.com/) | 理念：打造全链路数据隐私合规管理平台
     * [洞见科技 - 隐私计算](https://www.insightone.cn/) | 理念：让数据价值安全释放 - 网信国家队"中电科"投资。
     * [安恒信息 - 数字安全](https://www.dbappsecurity.com.cn/) | 理念：数字经济的安全基石 - 几个数据安全产品理念不错
     * [星云clustar - 数据高效融合](https://www.sudoprivacy.com/) | 理念：数融有道 数智无界
