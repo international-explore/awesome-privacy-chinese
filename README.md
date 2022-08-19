@@ -30,18 +30,18 @@
     * GDPR - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [官网](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
     * CCPA - 加州消费者隐私保护法规，是美国隐私保护的代表法规，颁布于2018年 | [官网](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375)
     * LGPD - 巴西隐私保护法，整体效仿GDPR，生效与2020年 | [官网](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
-    * PPC  - 日本的隐私保护法，2020年更新 | [官网](https://www.ppc.go.jp/en/legal/)  
+    * PPC  - 日本的隐私保护法，2020年更新 | [官网](https://www.ppc.go.jp/en/legal/)
     * PDPA - 新加坡的个人隐私保护法 | [官网](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act)
     * PoPIA- 南非的隐私保护法，颁布于2013年 | [官网](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf)
     * HIPAA- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [官网](https://www.hhs.gov/hipaa/index.html) | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
     * ADPPA- 美国数据隐私和保护法案，20220606发布草案 | [相关网站](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)
     * PDPA - 泰国个人数据保护法，20220607生效 | [官网-pdf](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf)
-  
+
 * 国内三大法规
     * [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
     * [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | [网络安全法解读](http://www.mca.gov.cn/article/zt_gjaqr2021/zjjd/202104/20210400033201.shtml) | [网信办解读网络安全法](http://www.cac.gov.cn/2020-05/03/c_1590051734208776.htm)
     * [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | [数据安全法解读](http://www.cac.gov.cn/2021-06/15/c_1625341228851523.htm)
-  
+
 * 隐私相关条例
     * [《数据出境安全评估办法》- 2022/07/07](http://www.gov.cn/zhengce/zhengceku/2022-07/08/content_5699851.htm) 数据出境必看，大厂数据出境申报指南
     * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，适合小厂，[参考](https://github.com/international-explore/awesome-privacy-chinese/blob/main/news/202206.md#%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%87%BA%E5%A2%83%E6%A0%87%E5%87%86%E5%90%88%E5%90%8C%E8%A7%84%E5%AE%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF) 和 [官方答疑](https://mp.weixin.qq.com/s/I_8CoXlwvIAv4vdWQLANZw)
@@ -52,10 +52,10 @@
     * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
     * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
 
-* 各地数字经济  
+* 各地数字经济
     * **整体纲要**：[国务院-“十四五”数字经济发展规划](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)，列举了涉及数据要素，隐私相关的省份。
     * [《广东省数字经济发展指引1.0》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 数据作为关键生产要素的保护
-    * [《苏州市数字经济“十四五”发展规划的通知》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 强调数据治理治理  
+    * [《苏州市数字经济“十四五”发展规划的通知》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 强调数据治理治理
     * [《江西“十四五”数字经济发展规划》-202206](http://www.gov.cn/xinwen/2022-06/24/content_5697653.htm) | 加“数”前行，抢占“智”高点，数据治理水平提升
     * [《黑龙江-促进大数据发展应用条例》-202205](http://www.hljrd.gov.cn/web/datainfo/local-law-detail.html?nid=7329&cn=local-law&li=y) | 数据保护为主
     * [《北京市数字经济全产业链开放发展行动方案》-202205](http://www.beijing.gov.cn/zhengce/zhengcefagui/202205/t20220531_2724836.html) | 加强数字经济治理，充分释放数据要素价值
@@ -85,7 +85,7 @@
         * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) 概述于认证协议标准声明(SSAE) 18，SOC 1关注的是服务组织的内部控制
         * [SOC 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) SOC 2是一个受限使用报告，关注的是与AICPA的信任服务标准(TSCs)概述的`合规和运营`相关 | [soc 2工具](https://github.com/strongdm/comply)
         * [SOC 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report) SOC 3是一个通用使用报告，细节不多，可以由服务组织自由分发，是个较好的营销工具。
-  
+
 ## 隐私组织
 
 * 监管机构查询：[List of DPAs](https://pdpecho.com/the-list/)
@@ -207,14 +207,14 @@
     * [百度隐私中心](http://privacy.baidu.com/)  | 同意，透明，可控
 
 ## 相关工具
-  
+
 * 隐私
     * [Android 隐私沙盒](https://developer.android.google.cn/design-for-safety/privacy-sandbox) - 保护隐私同时为移动应用打造高效的个性化广告体验，[当前进度](https://developer.android.google.cn/design-for-safety/privacy-sandbox/progress-updates/latest)
     * [GDPR-checklist](https://github.com/privacyradius/gdpr-checklist) - GDPR的一个检查工具，目前看相对简单
     * [website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - EDPS的网页收集和隐私分析服务
     * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services) - 隐私一个网页分析服务
     * [privacy tools](https://www.privacytools.io/) - 隐私相关工具合集
-  
+
 * 识别
     * [dataDog](https://www.datadoghq.com/product/sensitive-data-scanner/) - datadog敏感数据扫描，敏感数据包含token等
     * [gitGraber](https://github.com/hisxo/gitGraber) - git敏感信息内容扫描
@@ -232,12 +232,12 @@
     * [ARX](https://github.com/arx-deidentifier/arx) - java开源的匿名化工具（[官网](https://arx.deidentifier.org/)）
     * [DataDefender](https://github.com/armenak/DataDefender) - java版本的识别，脱敏工具
     * [新加坡 pdpc](https://www.pdpc.gov.sg/news-and-events/announcements/2022/05/data-anonymisation-tool-now-available) - 新加坡官方的数据脱敏工具 | [详细说明](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Advisory-Guidelines/Guide-to-Basic-Anonymisation-31-March-2022.ashx)
-  
+
 * 网络
     * [ipleak](https://ipleak.net/) - 检查IP泄露工具
     * [Browser Leaks](https://browserleaks.com/) - 检查浏览器泄露信息工具
     * [DNS Leaks](https://www.dnsleaktest.com/) - 检查DNS泄露信息工具
-  
+
 * 检索
     * [searx: Privacy-respecting metasearch engine](https://github.com/searx/searx) - 隐私防追踪检索引擎
     * [DuckDuckGo](https://duckduckgo.com/) - 非追踪检索
@@ -276,9 +276,9 @@
     * [simhash](https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/CharikarEstim.pdf) 正则匹配外高效数据识别的方式，[中文介绍](https://zhuanlan.zhihu.com/p/81026564)
 
 * 加密货币
-    * [oasis](https://oasisprotocol.org/)  
+    * [oasis](https://oasisprotocol.org/)
 
-* 端隐私技术  
+* 端隐私技术
     * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)
 
 * 隐私体系学习
