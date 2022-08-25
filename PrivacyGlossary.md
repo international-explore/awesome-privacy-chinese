@@ -34,7 +34,10 @@
  * IAPP：International Association of Privacy Professionals 国际隐私专业人员协会
  * SOC：System and Organization Controls 第三方会计师事务所依据美国注册会计师协会（AICPA）的相关准则出具的服务机构内部控制相关的系列报告
  * CSMS： Cyber Security Management System 网络安全管理系统
- * UN R155：[汽车安全法规](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security)
+ * SEC：United States Securities and Exchange Commission 美国证券交易委员会
+ * regTech： regulation technology 监管科技
+ * UN/WP.29：[The UNECE World Forum for Harmonization of Vehicle Regulations](https://unece.org/wp29-introduction) 联合国世界车辆法规协调论坛，最近发布3项关于智能网联汽车的重要法规R155/R156/R157，即信息安全（Cybersecurity）/软件升级（Software updates）/自动车道保持系统（ALKS）
+ * R155：[汽车安全法规](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security)
   
 
 ## 相关单词

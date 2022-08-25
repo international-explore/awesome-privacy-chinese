@@ -101,12 +101,15 @@
     * [CUPS - CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) - 隐私和安全一些可用性的前沿研究
     * [EPIC - Electronic Privacy Information Center](https://epic.org/) - 美国提倡隐私保护组织
     * [FPF - Future of Privacy Forum](https://fpf.org/) - 未来隐私技术交流研究
+    * [UN/WP.29：The UNECE World Forum for Harmonization of Vehicle Regulations](https://unece.org/wp29-introduction) 联合国世界车辆法规协调论坛
 
 ## 相关白皮书
 
 * 国内白皮书（评分纯属个人意见，5分推荐，4分值得一读，3分有时间就看看，2分不值得，1分垃圾）
     * [2022-网信办-《2021数字中国发展报告》](./files/whitepaper/2022-数字中国发展报告-网信办.pdf)
         * **4分** | 权威报告，涵盖大量权威、准确数据，[参考分析](./news/202208.md)
+    * [2022-腾讯-《监管科技白皮书》](./files/whitepaper/2022-腾讯-科技向善%20数实共创%20监管科技白皮书.pdf)
+        * **3分** | 介绍了全球监管科技（RegTech）和核心问题，策略以及目前解法，重点还是数据处理和共享
     * [2022-工信部-《数据传输安全白皮书》](./files/whitepaper/2022-工业部-《数据传输白皮书》.pdf)
         * **3分** | 权威报告，可落地的内容不太多，第四章聚焦合规
     * [2022-财经&社科院-《个性化广告合规发展研究报告》](./files/whitepaper/2022-财经-个性化广告合规发展研究报告.pdf)
