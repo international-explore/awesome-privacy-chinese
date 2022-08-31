@@ -24,7 +24,7 @@
 ## 隐私法规
 
 * 全球法规查询：
-    * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询
+    * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询 | [hand book pdf](./files/whitepaper/2022-Data-Protection-United-States%20.pdf)
     * [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) 全球隐私保护严重程度查询
 * 重要海外法规
     * GDPR - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [官网](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
@@ -262,11 +262,9 @@
     * 综合
         * [隐语- secret flow](https://github.com/secretflow) 蚂蚁开源的隐私计算平台，[文档地址](https://secretflow.readthedocs.io/en/latest/)
         * [primihub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
-
     * 多方安全计算（MPC-Secure multi-party Computation）
     * 联邦学习（FL-Federated Learning）
     * 可信执行环境（FEE-Trusted Execution Environment）
-        * []
     * 同态加密（HE-Homomorphic Encryption）
     * 零知识证明（ZKP-zero knowledge proof）
     * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
@@ -296,7 +294,8 @@
 ## 书籍
 
 * 英文书籍
-    * [data-privacy](https://www.manning.com/books/data-privacy)
+    * [data privacy and gdpr handbook](https://www.wiley.com/en-us/Data+Privacy+and+GDPR+Handbook-p-9781119594192)  - 数据隐私的历史介绍和隐私实践的一些看法
+    * [data-privacy](https://www.manning.com/books/data-privacy) - 数据隐私介绍
     * [Proofs, Arguments, and Zero-Knowledge](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf) - 2022 justin thaler
     * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/book.pdf) - 2020 cryptography 相关的都有介绍
     * [guide to basic anonymisation](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Advisory-Guidelines/Guide-to-Basic-Anonymisation-31-March-2022.ashx) - 2022 新加坡官方的脱敏指南
