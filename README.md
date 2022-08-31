@@ -24,7 +24,7 @@
 ## 隐私法规
 
 * 全球法规查询：
-    * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询 | [hand book pdf](./files/whitepaper/2022-Data-Protection-United-States%20.pdf)
+    * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询 - [handbook pdf 下载](./files/whitepaper/2022-Data-Protection-United-States%20.pdf)
     * [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) 全球隐私保护严重程度查询
 * 重要海外法规
     * GDPR - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [官网](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
