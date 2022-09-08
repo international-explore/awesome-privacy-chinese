@@ -15,6 +15,7 @@
 * [网站外链](#网站外链) - 隐私相关重要新闻、资源外链
 * [📙 英语词汇](./PrivacyGlossary.md) - 隐私相关的基础英语词汇
 * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
+    * [2022 年 9 月隐私新闻](./news/202209.md)
     * [2022 年 8 月隐私新闻](./news/202208.md)
     * [2022 年 7 月隐私新闻](./news/202207.md)
     * [2022 年 6 月隐私新闻](./news/202206.md)
@@ -267,11 +268,9 @@
     * 可信执行环境（FEE-Trusted Execution Environment）
     * 同态加密（HE-Homomorphic Encryption）
     * 零知识证明（ZKP-zero knowledge proof）
-    * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
-    * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
+       * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
+       * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
     * 差分隐私（DP-Differential Privacy）
-
-* 隐私应用
 
 * 隐私存储
     * [immudb](https://github.com/codenotary/immudb)  零信任数据库，基于Merkle Tree来存储数据并保持其完整性
