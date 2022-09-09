@@ -52,7 +52,8 @@
     * [《网络安全审查办法》- 2022/02/15](http://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm) | [官方答记者问](https://mp.weixin.qq.com/s/Avfc4EbEAEKkuo0CTDH7sQ)
     * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
     * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
-    * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security)R155是全球第一个汽车信息安全强制法规，这意味着车辆的信息安全已经从符合标准进入到遵从法规的时代
+    * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
+
 
 * 各地数字经济
     * **整体纲要**：[国务院-“十四五”数字经济发展规划](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)，列举了涉及数据要素，隐私相关的省份。
