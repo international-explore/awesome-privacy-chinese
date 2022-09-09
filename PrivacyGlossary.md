@@ -1,5 +1,13 @@
 # 隐私相关英文词汇
 
+1. [隐私相关英文词汇](#隐私相关英文词汇)
+  1. [相关缩写](#相关缩写)
+  2. [相关单词](#相关单词)
+    1. [隐私权利相关](#隐私权利相关)
+    2. [加密算法相关](#加密算法相关)
+    3. [隐私阅读涉及](#隐私阅读涉及)
+
+
 ## 相关缩写
  * GDPR：General Data Protection Regulation 欧盟数据通用保护法，参考（https://gdpr.eu/）
  * EDPB ：European Data Protection Board  欧洲数据保护委员会，参考（https://edpb.europa.eu/edpb_en）
@@ -41,7 +49,7 @@
  * OTT：over the top 一般指越过运营商，通过互联网向用户提供服务，比如互联网电视等
 
 ## 相关单词
- * 隐私权利相关
+### 隐私权利相关
    * interrogation：审讯 （taxonomy of privacy中两要素：interrogation and surveillance）
    * surveillance：监测，监控（tracking and surveillance）
    * dimensions：度量 - Ryan Calo's Harm dimensions（卡洛的伤害度量理论，分为Object Harms and Subject Harms）
@@ -59,6 +67,8 @@
    * deliberately：故意的
    * vulnerabilities：漏洞，脆弱
    * flaw：缺陷
+   * cancellation：取消
+   * rectification：整改
    * flexibility：灵活性
    * sophisticated：复杂的
    * abuse ：滥用
@@ -67,6 +77,9 @@
    * consent：准许同意（用户同意分为：explicit consent-明确同意/显示同意 & implied consent-默许同意）
    * disclosure：信息披露
    * retention：保存
+   * opposition：反对
+   * obtain: 获得（obtain consent：获得同意）
+   * revocation：撤销（Revocation of consent 撤销同意）
    * destruction：破坏，销毁（数据生命周期最后一个，包含上面四个）
    * threat ：攻击
    * violation ：违背，侵权
@@ -120,7 +133,8 @@
    * persuade：说服
    * countermeasure：对策（a countermeasure to minimize privacy violation risks）
    * enforce:实施
- * 加密算法相关
+
+### 加密算法相关
    * encryption：加密
    * decryption：解密
    * confidentiality：保密，机密性
@@ -190,4 +204,7 @@
    * local differential privacy：本地化查分隐私
    * tamperproof：防篡改
 
+### 隐私阅读涉及
+   * activity: RoPA中的A，一般指涉及隐私相关的活动
+   * acquirer: 收购者
     
