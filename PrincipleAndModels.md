@@ -3,6 +3,7 @@
 1. [隐私相关原则和模型](#隐私相关原则和模型)
    1. [隐私处理模型](#隐私处理模型)
       1. [FIPP (Fair Information Practice Principles)](#fipp-fair-information-practice-principles)
+      2. [NCASE rules](#ncase-rules)
 
 
 ## 隐私处理模型
@@ -29,3 +30,13 @@
   - c) to be given reasons if a request made under subparagraphs (a) and (b) is denied and to be able to challenge such denial; and
   - d) to challenge data relating to him and, if the challenge is successful, to have the data erased, rectified, completed or amended;
 - (8) The Accountability Principle（可审计原则-也叫问责原则）. A data controller should be accountable for complying with measures which give effect to the principles stated above.
+
+### NCASE rules
+NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英文单词的缩写
+- **Notice**: 关键信息和个数数据使用需要明确告知用户，比如隐私声明，显著披露等。
+- **Choice**: 需要给到用户尽可能多的选择权和关闭权，比如个性化广告推送关闭等等。
+- **Access**: 可访问或者可携带，也就是用户需要能够访问相关数据，比如数据下载工鞥呢
+- **Security**: 保证数据安全，比如传输安全（https），存储安全（数据脱敏）等等
+- **Enforcement**: 强制执行，保证可落地、可审计性和强监控
+
+
