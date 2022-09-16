@@ -2,14 +2,17 @@
 
 1. [隐私相关原则和模型](#隐私相关原则和模型)
    1. [隐私处理模型](#隐私处理模型)
-      1. [FIPP (Fair Information Practice Principles)](#fipp-fair-information-practice-principles)
-      2. [NCASE rules](#ncase-rules)
+      1. [FIPPs (Fair Information Practice Principles)](#fipps-fair-information-practice-principles)
+      2. [CIA三原则](#cia三原则)
+      3. [Privacy Engineering Objectives (NIST 8062)](#privacy-engineering-objectives-nist-8062)
+      4. [NCASE rules](#ncase-rules)
 
 
 ## 隐私处理模型
 
+### [FIPPs](https://iapp.org/resources/article/fair-information-practices/) (Fair Information Practice Principles)
+被称为隐私保护的黄金的原则。 "Fair Information Practice Principles: The Gold Standard for Protecting Personal Information"
 
-### FIPP (Fair Information Practice Principles)
 目前呈现的FIPP基于 1973 年美国卫生、教育和福利部的一个咨询委员会提出的建议。该委员会的报告指出，“基于保存记录的相互性概念来保障个人隐私，要求保存记录的组织遵守公平信息惯例的某些基本原则”。随后，然该报告描述了几条数据保护原则。
 
 1980 年，OECD 扩展了这些建议，并将其分为上述八条 FIPP。此后，FIPP 被多次引用，特别是在美国。它们继续作为一个重要部分出现在数据隐私和数据保护准则中。
@@ -30,6 +33,20 @@
   - c) to be given reasons if a request made under subparagraphs (a) and (b) is denied and to be able to challenge such denial; and
   - d) to challenge data relating to him and, if the challenge is successful, to have the data erased, rectified, completed or amended;
 - (8) The Accountability Principle（可审计原则-也叫问责原则）. A data controller should be accountable for complying with measures which give effect to the principles stated above.
+
+
+### [CIA三原则](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)
+数据安全方面涉及比较重要的三个原则。
+- **confidentiality**: 机密性，只有授权用户可以获取信息。
+- **Integrity**: 完整性，信息在输入和传输的过程中，不被非法授权修改和破坏，保证数据的一致性。
+- **Availability**: 可用性，保证合法用户对信息和资源的使用不会被不正当地拒绝。
+
+### [Privacy Engineering Objectives (NIST 8062)](https://ethics.berkeley.edu/privacy/resources/privacy-engineering-and-risk-management-nist-8062)
+类似与CIA三原则，NIST提出的关于隐私工程师需要关注的三个核心目标，简而言之，要做到可审计、可管控、脱关联。
+- **Predicatability**: 可预测，行为在可控范围内。(Enabling of reliable assumptions by individuals, owners, and operators about personal information and its processing by an information system)
+- **Manageability**: 可管控，个人信息精细化管理的能力。(Providing the capability for granular administration of personal information including alteration, deletion, and selective disclosure)
+- **disassociability**: 可分离，脱关联匿名化。(Enabling the processing of personal information or events without association to individuals or devices beyond the operational requirements of the system)
+
 
 ### NCASE rules
 NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英文单词的缩写

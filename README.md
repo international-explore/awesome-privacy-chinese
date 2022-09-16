@@ -327,6 +327,7 @@
     * [singpass](https://www.singpass.gov.sg/main) - 新加坡的政府个人数据存储网站，做的相对比较完整，类似于国内人民数保和韩国Mydata
 * 标准相关网站
     * [W3C privacy](https://www.w3.org/Privacy/) - W3C隐私工作组
+    * [berkeley privacy](https://ethics.berkeley.edu/privacy) - 伯克利关于隐私的一些指南
     * [pixelprivacy](https://pixelprivacy.com/resources/) - 在线隐私指南
     * [privacytools](https://www.privacytools.io/) - 隐私指南：使用加密和隐私工具对抗监视
 * 新闻相关网站
