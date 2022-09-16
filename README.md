@@ -163,6 +163,8 @@
         * **3分** | 重点在过度采集、弱口令、权限分配、api攻击等方面。
 
 * 海外白皮书
+    * [2022-TrustArc-《Global Privacy Benchmarks Report》](./files/whitepaper/2022-TrustArc-global_privacy_benchmarks_report.pdf)
+        * **3分** | 全球隐私趋势、挑战和提升隐私的关键因素[参考分析](./news/202209.md)
     * [2022-思科-《privacy becomes mission critical》](./files/whitepaper/2022-思科-2021年数据隐私基准研究报告.pdf)
         * **4分** | 隐私和相关问题的分析，[参考分析](./news/202208.md)
     * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf)
