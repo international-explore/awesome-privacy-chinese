@@ -1,20 +1,23 @@
 # 隐私相关原则和模型
 
 1. [隐私相关原则和模型](#隐私相关原则和模型)
-    1. [隐私处理模型](#隐私处理模型)
+    1. [隐私最佳实践](#隐私最佳实践)
         1. [FIPP (Fair Information Practice Principles)](#fipp-fair-information-practice-principles)
         2. [OECD privacy principle](#oecd-privacy-principle)
         3. [Generally Accepted Privacy Principles (GAPP)](#generally-accepted-privacy-principles-gapp)
-        4. [CIA三原则](#cia三原则)
-        5. [Privacy Engineering Objectives (NIST 8062)](#privacy-engineering-objectives-nist-8062)
-        6. [NCASE rules](#ncase-rules)
+        4. [PbD Principles](#pbd-principles)
+        5. [NCASE privacy princepels](#ncase-privacy-princepels)
+    2. [隐私经典概念](#隐私经典概念)
+        1. [Dark pattern](#dark-pattern)
+        2. [CIA三原则](#cia三原则)
+        3. [Privacy Engineering Objectives (NIST 8062)](#privacy-engineering-objectives-nist-8062)
 
-## 隐私处理模型
+## 隐私最佳实践
 
 ### [FIPP (Fair Information Practice Principles)](https://iapp.org/resources/article/fair-information-practices/)
-目前呈现的FIPP基于 1973 年美国卫生、教育和福利部的一个咨询委员会提出的建议。该委员会的报告指出，“基于保存记录的相互性概念来保障个人隐私，要求保存记录的组织遵守公平信息惯例的某些基本原则”。随后，然该报告描述了几条数据保护原则。
+目前呈现的FIPP基于1973年美国卫生、教育和福利部的一个咨询委员会提出的建议。该委员会的报告指出，“基于保存记录的相互性概念来保障个人隐私，要求保存记录的组织遵守公平信息惯例的某些基本原则”。随后，然该报告描述了几条数据保护原则。
 
-1980 年，OECD 扩展了这些建议，并将其分为上述八条 FIPP。此后，FIPP 被多次引用，特别是在美国。它们继续作为一个重要部分出现在数据隐私和数据保护准则中。
+1980 年，OECD 扩展了这些建议，总结为FIPP。此后，FIPP 被多次引用，特别是在美国，它是数据隐私和数据保护准则中。
 
 > FIPP目前基本成为隐私立法的一部分，可以理解为整体框架了。例如，个人参与原则（第 7 条）列出了人们应该拥有的一些权利。 CCPA 将其中一些内容编入法律，例如“知情权”，很像个人参与原则的 a) 和 b) 条款中描述的内容。GDPR 还包括“删除权”，类似于个人参与原则 d) 条款所述的“删除数据”的权力
 
@@ -60,6 +63,38 @@ OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括
 - 9. **Quality.数据质量原则** The entity maintains accurate, complete, and relevant personal information for the purposes identified in the notice.
 - 10. **Monitoring and enforcement.监控和强制执行原则** The entity monitors compliance with its privacy policies and procedures and has procedures to address privacy related complaints and disputes.
 
+### [PbD Principles](https://www.ipc.on.ca/wp-content/uploads/resources/7foundationalprinciples.pdf)
+7 Foundational Principles of privacy by design
+- 1. **Proactive not Reactive**:  主动而不是被动，尽可能在问题发生之前处理
+- 2. **Privacy as the Default Setting**: 隐私作为默认设置和考虑项
+- 3. **Privacy Embedded into Design**: 隐私嵌入设计中，满足usable and usability
+- 4. **Full Functionality — Positive-Sum, not Zero-Sum**: 隐私全功能落地，追求正向收益
+- 5. **End-to-End Security — Full Lifecycle Protection**: 端对端安全，全生命周期保护
+- 6. **Visibility and Transparency — Keep it Open**: 保证足够的可见性和透明性
+- 7. **Respect for User Privacy — Keep it User-Centric**：尊重用户隐私，保持用户为中心
+
+### [NCASE privacy princepels](https://www.ftc.gov/sites/default/files/documents/reports/privacy-online-report-congress/priv-23a.pdf)
+NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英文单词的缩写
+
+- **Notice**: 关键信息和个数数据使用需要明确告知用户，比如隐私声明，显著披露等。
+- **Choice**: 需要给到用户尽可能多的选择权和关闭权，比如个性化广告推送关闭等等。
+- **Access**: 可访问或者可携带，也就是用户需要能够访问相关数据，比如数据下载工鞥呢
+- **Security**: 保证数据安全，比如传输安全（https），存储安全（数据脱敏）等等
+- **Enforcement**: 强制执行，保证可落地、可审计性和强监控
+
+## 隐私经典概念
+
+### [Dark pattern](https://www.reuters.com/legal/legalindustry/dark-patterns-new-frontier-privacy-regulation-2021-07-29/)
+隐私设计中在满足可用和有用过程中，相反的理念，主要包括以下方式
+
+- Default settings：默认设置，比如很多选项默认打开
+- Cumbersome privacy choices：复杂隐私选择，比如隐私条款完全看不懂，与之相反的是苹果的折叠式条款
+- Framing：多谈好处，少谈坏处
+- Rewards and punishment： 利用奖励和惩罚来获取隐私
+- Forced action：强制行为
+- Norm shaping：诱导
+- Distractions and delays：敷衍或者可以延迟
+
 ### [CIA三原则](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)
 
 数据安全方面涉及比较重要的三个原则。
@@ -75,14 +110,3 @@ OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括
 - **Predicatability**: 可预测，行为在可控范围内。(Enabling of reliable assumptions by individuals, owners, and operators about personal information and its processing by an information system)
 - **Manageability**: 可管控，个人信息精细化管理的能力。(Providing the capability for granular administration of personal information including alteration, deletion, and selective disclosure)
 - **disassociability**: 可分离，脱关联匿名化。(Enabling the processing of personal information or events without association to individuals or devices beyond the operational requirements of the system)
-
-### NCASE rules
-NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英文单词的缩写
-
-- **Notice**: 关键信息和个数数据使用需要明确告知用户，比如隐私声明，显著披露等。
-- **Choice**: 需要给到用户尽可能多的选择权和关闭权，比如个性化广告推送关闭等等。
-- **Access**: 可访问或者可携带，也就是用户需要能够访问相关数据，比如数据下载工鞥呢
-- **Security**: 保证数据安全，比如传输安全（https），存储安全（数据脱敏）等等
-- **Enforcement**: 强制执行，保证可落地、可审计性和强监控
-
-

@@ -47,7 +47,7 @@
 * UN/WP.29：[The UNECE World Forum for Harmonization of Vehicle Regulations](https://unece.org/wp29-introduction) 联合国世界车辆法规协调论坛，最近发布3项关于智能网联汽车的重要法规R155/R156/R157，即信息安全（Cybersecurity）/软件升级（Software updates）/自动车道保持系统（ALKS）
 * R155：[汽车安全法规](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security)
 * OTT：over the top 一般指越过运营商，通过互联网向用户提供服务，比如互联网电视等
-* MLS：multilevel security 多级安全
+* PETs: Privacy-Enhancing Technologies 隐私加强技术
 
 ## 相关单词
 
@@ -142,7 +142,14 @@
 * obligation；责任 (right and obligation)
 * mitigate: 减轻（mitigate privacy risksy）
 * mechanism: 机制 （encryption mechanism）
-* facilitate discorvery：功能不和谐 (facilitate：促进、方便、使容易)
+* facilitate: 促进、方便、使容易 Facilitating trust - 促进信任， Facilitate discorvery：协助发现
+* agreement: 协议（区别于contract双向合同）
+* intersect: 正交 （Privacy engineering andUX design frequently intersect）
+* paradox: 悖论 （privacy paradox: it is contradiction of people being concerned and complaining about data practices while freely providing and sharing personal information ）
+* Manipulation: 操纵（Manipulation of privacy behavior）
+* dark pattern: 黑暗模式（cumbersome笨重 privacy choice等）
+* Leverage: 利用（Leverage the available design space）
+
 
 ### 安全相关
 
@@ -216,7 +223,8 @@
 * tamperproof：防篡改
 * thumb driver: U盘
 * mandatory access control: 强制访问控制，注意区分（dictionary access control或者RAC）
-  
+* MLS：multilevel security 多级安全
+* SDLC：Software Development Life Cycle 软件开发生命整齐
 
 ### 隐私阅读涉及
 
