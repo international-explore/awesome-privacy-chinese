@@ -13,6 +13,7 @@
         3. [Privacy Engineering Objectives (NIST 8062)](#privacy-engineering-objectives-nist-8062)
         4. [Taxonomy of Privacy](#taxonomy-of-privacy)
         5. [FAIR：Factor Analysis of Information Risk](#fairfactor-analysis-of-information-risk)
+        6. [Alan Westin- Four states of privacy](#alan-westin--four-states-of-privacy)
 
 ## 隐私最佳实践
 
@@ -145,3 +146,11 @@ Recurring solution that is used to trick individuals into giving up their privac
 
 详细可以了解：https://www.fairinstitute.org/
 ![FAIR Models](./files/assets/The_FAIR_Model_FINAL.png)
+
+
+### [Alan Westin- Four states of privacy](https://iapp.org/news/a/alan-westins-legacy-of-privacy-and-freedom/)
+Alan定义了隐私的四种状态
+- solitude: 独处
+- intimacy: 亲密
+- anonymity: 匿名
+- reserve: 保留
