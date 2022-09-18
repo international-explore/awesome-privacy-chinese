@@ -1,12 +1,15 @@
 # 隐私安全英文词汇
 
 1. [隐私安全英文词汇](#隐私安全英文词汇)
-    1. [相关缩写](#相关缩写)
-    2. [相关单词](#相关单词)
+    1. [权威网站](#权威网站)
+    2. [相关缩写](#相关缩写)
+    3. [相关单词](#相关单词)
         1. [隐私相关](#隐私相关)
         2. [安全相关](#安全相关)
         3. [隐私阅读涉及](#隐私阅读涉及)
 
+## 权威网站
+* [IAPP glossary](https://iapp.org/resources/glossary/) - IAPP的词汇库
 ## 相关缩写
 
 * GDPR：General Data Protection Regulation 欧盟数据通用保护法，参考（<https://gdpr.eu/>）
@@ -150,6 +153,10 @@
 * Manipulation: 操纵（Manipulation of privacy behavior）
 * dark pattern: 黑暗模式（cumbersome笨重 privacy choice等）
 * Leverage: 利用（Leverage the available design space）
+* Dissemination: 传播（Information Dissemination 信息传播）
+* distortion: 失真 (Disseminating-传播 false or misleading information about an individual)
+* Exposure：曝光（Revealing an individual’s nudity, grief or bodily functions）
+* 
 
 
 ### 安全相关

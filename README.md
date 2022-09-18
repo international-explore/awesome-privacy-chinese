@@ -181,6 +181,7 @@
     * [onetrust - 隐私管理](https://www.onetrust.com/) | 理念：Make Trust Your Competitive Advantage
     * [disconnect - 网络追踪和安全](https://disconnect.me/) | 理念：Powerful privacy protection with one tap
     * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE
+    * [cookiepro - cookie解决方案](https://www.cookiepro.com/) | 理念：get cookie complaince
     * [flow security - 数据安全平台](https://www.flowsecurity.com/) |理念：Securing Data Wherever it Flows
     * [adzapier - CMP同意管理](https://adzapier.com/) |理念：have access to meaningful data
     * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email.
@@ -339,5 +340,5 @@
 * 新闻相关网站
     * [spreadprivacy](https://spreadprivacy.com/) -duckduckgo官方blog
     * [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - top 10 web security risk
-    * [网安](https://www.wangan.com/)
+    * [网安](https://www.wangan.com/) - 网络安全相关资讯
     * [FreeBuf](https://www.freebuf.com/) - 网络安全行业门户

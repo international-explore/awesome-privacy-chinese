@@ -8,9 +8,10 @@
         4. [PbD Principles](#pbd-principles)
         5. [NCASE privacy princepels](#ncase-privacy-princepels)
     2. [隐私经典概念](#隐私经典概念)
-        1. [Dark pattern](#dark-pattern)
+        1. [Privacy Dark pattern](#privacy-dark-pattern)
         2. [CIA三原则](#cia三原则)
         3. [Privacy Engineering Objectives (NIST 8062)](#privacy-engineering-objectives-nist-8062)
+        4. [Taxonomy of Privacy](#taxonomy-of-privacy)
 
 ## 隐私最佳实践
 
@@ -84,8 +85,8 @@ NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英�
 
 ## 隐私经典概念
 
-### [Dark pattern](https://www.reuters.com/legal/legalindustry/dark-patterns-new-frontier-privacy-regulation-2021-07-29/)
-隐私设计中在满足可用和有用过程中，相反的理念，主要包括以下方式
+### [Privacy Dark pattern](https://www.deceptive.design/types)
+Recurring solution that is used to trick individuals into giving up their privacy
 
 - Default settings：默认设置，比如很多选项默认打开
 - Cumbersome privacy choices：复杂隐私选择，比如隐私条款完全看不懂，与之相反的是苹果的折叠式条款
@@ -110,3 +111,29 @@ NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英�
 - **Predicatability**: 可预测，行为在可控范围内。(Enabling of reliable assumptions by individuals, owners, and operators about personal information and its processing by an information system)
 - **Manageability**: 可管控，个人信息精细化管理的能力。(Providing the capability for granular administration of personal information including alteration, deletion, and selective disclosure)
 - **disassociability**: 可分离，脱关联匿名化。(Enabling the processing of personal information or events without association to individuals or devices beyond the operational requirements of the system)
+
+### [Taxonomy of Privacy](./files/assets/A-Taxonomy-of-Privacy.pdf)
+隐私的分类，主要基于 Dan Solove’s 的论文 A Taxonomy of Privacy，[跳转论文](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=667622)
+
+概括提纲如下，细节可以参考标题原图
+- 1. INFORMATION PROCESSING
+    - 1. Aggregation
+    - 2. Insecurity
+    - 3. Identification
+    - 4. Secondary Use
+    - 5. Exclusion
+- 2. INFORMATION COLLECTION
+    - 1. Surveillance
+    - 2. Interrogation
+- 3. INVASION
+    - 1. Intrusion
+    - 2. Decisional Interference
+- 4. INFORMATION DISSEMINATION
+    - 1. Breach of Confidentiality
+    - 2. Disclosure
+    - 3. Exposure
+    - 4. Increased Accessibility
+    - 5. Blackmail
+    - 6. Appropriation
+    - 7. Distortion
+
