@@ -3,14 +3,15 @@
 1. [隐私相关原则和模型](#隐私相关原则和模型)
     1. [隐私处理模型](#隐私处理模型)
         1. [FIPP (Fair Information Practice Principles)](#fipp-fair-information-practice-principles)
-        2. [CIA三原则](#cia三原则)
-        3. [Privacy Engineering Objectives (NIST 8062)](#privacy-engineering-objectives-nist-8062)
-        4. [NCASE rules](#ncase-rules)
+        2. [OECD privacy principle](#oecd-privacy-principle)
+        3. [Generally Accepted Privacy Principles (GAPP)](#generally-accepted-privacy-principles-gapp)
+        4. [CIA三原则](#cia三原则)
+        5. [Privacy Engineering Objectives (NIST 8062)](#privacy-engineering-objectives-nist-8062)
+        6. [NCASE rules](#ncase-rules)
 
 ## 隐私处理模型
 
 ### FIPP (Fair Information Practice Principles)
-
 目前呈现的FIPP基于 1973 年美国卫生、教育和福利部的一个咨询委员会提出的建议。该委员会的报告指出，“基于保存记录的相互性概念来保障个人隐私，要求保存记录的组织遵守公平信息惯例的某些基本原则”。随后，然该报告描述了几条数据保护原则。
 
 1980 年，OECD 扩展了这些建议，并将其分为上述八条 FIPP。此后，FIPP 被多次引用，特别是在美国。它们继续作为一个重要部分出现在数据隐私和数据保护准则中。
@@ -32,6 +33,33 @@
     - d) to challenge data relating to him and, if the challenge is successful, to have the data erased, rectified, completed or amended;
 - (8) The Accountability Principle（可审计原则-也叫问责原则）. A data controller should be accountable for complying with measures which give effect to the principles stated above.
 
+
+### [OECD privacy principle](http://oecdprivacy.org/)
+OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括如下八大部分
+
+- 1. Collection Limitation Principle: 最小化收集原则
+- 2. Data Quality Principle: 数据质量保证原则
+- 3. Purpose Specification Principle: 目的明确原则
+- 4. Use Limitation Principle: 使用限制原则
+- 5. Security Safeguards Principle: 安全保障原则
+- 6. Openness Principle: 开放原则
+- 7. Individual Participation Principle: 用户参与原则
+- 8. Accountability Principle: 可审计原则
+
+
+### [Generally Accepted Privacy Principles (GAPP)](https://linfordco.com/blog/the-10-generally-accepted-privacy-principles/)
+类似OECD，是美国和加拿大提出的十条隐私原则
+- **1、Management：可管控可审计原则**. The entity defines, documents, communicates, and assigns accountability for its privacy policies and procedures.
+- **2、Notice. **The entity provides notice about its privacy policies and procedures and identifies the purposes for which personal information is collected, used, retained, and disclosed.
+- **3、Choice and consent：选择和同意原则**. The entity describes the choices available to the individual and obtains implicit or explicit consent with respect to the collection, use, and disclosure of personal information.
+- **4、Collection.收集目的原则** The entity collects personal information only for the purposes identified in the notice.
+- **5、Use, retention, and disposal.限制使用原则**The entity limits the use of personal information to the purposes identified in the notice and for which the individual has provided implicit or explicit consent. The entity retains personal information for only as long as necessary to fulfill the stated purposes or as required by law or regulations and thereafter appropriately disposes of such information.
+- **6、Access. **The entity provides individuals with access to their personal information for review and update.
+- **7、Disclosure to third parties.三方披露原则** The entity discloses personal information to third parties only for the purposes identified in the notice and with the implicit or explicit consent of the individual.
+- **8、Security for privacy.隐私安全** The entity protects personal information against unauthorized access (both physical and logical).
+- **9、Quality.数据质量原则** The entity maintains accurate, complete, and relevant personal information for the purposes identified in the notice.
+- **10、Monitoring and enforcement.监控和强制执行原则** The entity monitors compliance with its privacy policies and procedures and has procedures to address privacy related complaints and disputes.
+
 ### [CIA三原则](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)
 
 数据安全方面涉及比较重要的三个原则。
@@ -49,7 +77,6 @@
 - **disassociability**: 可分离，脱关联匿名化。(Enabling the processing of personal information or events without association to individuals or devices beyond the operational requirements of the system)
 
 ### NCASE rules
-
 NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英文单词的缩写
 
 - **Notice**: 关键信息和个数数据使用需要明确告知用户，比如隐私声明，显著披露等。
@@ -57,3 +84,5 @@ NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英�
 - **Access**: 可访问或者可携带，也就是用户需要能够访问相关数据，比如数据下载工鞥呢
 - **Security**: 保证数据安全，比如传输安全（https），存储安全（数据脱敏）等等
 - **Enforcement**: 强制执行，保证可落地、可审计性和强监控
+
+

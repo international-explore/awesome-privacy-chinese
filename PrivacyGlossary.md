@@ -47,6 +47,7 @@
 * UN/WP.29：[The UNECE World Forum for Harmonization of Vehicle Regulations](https://unece.org/wp29-introduction) 联合国世界车辆法规协调论坛，最近发布3项关于智能网联汽车的重要法规R155/R156/R157，即信息安全（Cybersecurity）/软件升级（Software updates）/自动车道保持系统（ALKS）
 * R155：[汽车安全法规](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security)
 * OTT：over the top 一般指越过运营商，通过互联网向用户提供服务，比如互联网电视等
+* MLS：multilevel security 多级安全
 
 ## 相关单词
 
@@ -135,6 +136,7 @@
 * persuade：说服
 * countermeasure：对策（a countermeasure to minimize privacy violation risks）
 * enforce:实施
+* disposal:处理（GAPP原则5：Use, retention, and disposal.）
 
 ### 加密算法相关
 

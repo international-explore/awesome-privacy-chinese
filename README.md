@@ -178,6 +178,9 @@
 ## 隐私创业企业
 
 * 海外创业公司
+    * [trustArc - 隐私管理](https://trustarc.com/) | 理念：Streamline Privacy Management & Reduce costs.
+    * [onetrust - 隐私管理](https://www.onetrust.com/) | 理念：Make Trust Your Competitive Advantage
+    * [disconnect - 网络追踪和安全](https://disconnect.me/) | 理念：Powerful privacy protection with one tap
     * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE
     * [flow security - 数据安全平台](https://www.flowsecurity.com/) |理念：Securing Data Wherever it Flows
     * [adzapier - CMP同意管理](https://adzapier.com/) |理念：have access to meaningful data
@@ -328,6 +331,7 @@
     * [人民数保](https://pdc.peopleyun.cn/home) - 人民网提供的二次数据上链和确权、共享的平台，目前非常初期。 | [PDC白皮书](https://pdc.peopleyun.cn/dataSourceCentre?tabIndex=1)
     * [singpass](https://www.singpass.gov.sg/main) - 新加坡的政府个人数据存储网站，做的相对比较完整，类似于国内人民数保和韩国Mydata
 * 标准相关网站
+    * [OECD privacy](http://oecdprivacy.org/) - OECD 隐私官网
     * [W3C privacy](https://www.w3.org/Privacy/) - W3C隐私工作组
     * [berkeley privacy](https://ethics.berkeley.edu/privacy) - 伯克利关于隐私的一些指南
     * [pixelprivacy](https://pixelprivacy.com/resources/) - 在线隐私指南
