@@ -12,6 +12,7 @@
         2. [CIA三原则](#cia三原则)
         3. [Privacy Engineering Objectives (NIST 8062)](#privacy-engineering-objectives-nist-8062)
         4. [Taxonomy of Privacy](#taxonomy-of-privacy)
+        5. [FAIR：Factor Analysis of Information Risk](#fairfactor-analysis-of-information-risk)
 
 ## 隐私最佳实践
 
@@ -137,3 +138,10 @@ Recurring solution that is used to trick individuals into giving up their privac
     - 6. Appropriation
     - 7. Distortion
 
+### [FAIR：Factor Analysis of Information Risk](https://www.fairinstitute.org/blog/fair-model-on-a-page)
+隐私的风险分析，一般是定性分析的，FAIR尝试对于隐私的伤害进行定量分析，但是，伤害更聚焦在个人身上。
+
+> 整体思路：Privacy Risk = probable frequency * probable magnitude of future privacy violations 
+
+详细可以了解：https://www.fairinstitute.org/
+![FAIR Models](./files/assets/The_FAIR_Model_FINAL.png)
