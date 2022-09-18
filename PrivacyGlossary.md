@@ -48,6 +48,7 @@
 * R155：[汽车安全法规](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security)
 * OTT：over the top 一般指越过运营商，通过互联网向用户提供服务，比如互联网电视等
 * PETs: Privacy-Enhancing Technologies 隐私加强技术
+* CIPA：The U.S. Children’s Internet Protection Act (CIPA) 美国儿童网络保护
 
 ## 相关单词
 
@@ -225,6 +226,11 @@
 * mandatory access control: 强制访问控制，注意区分（dictionary access control或者RAC）
 * MLS：multilevel security 多级安全
 * SDLC：Software Development Life Cycle 软件开发生命整齐
+* extort: 勒索（spy blackmail and extort ）
+* eavesdropping: 窃听（wifi eavesdropping）
+* Sensor-Based Surveillance: 基于传感器的监视
+* Ubiquitious: 无处不在的 Ubiquitious computing: smart city
+
 
 ### 隐私阅读涉及
 
