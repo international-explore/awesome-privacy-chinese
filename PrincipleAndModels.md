@@ -2,7 +2,7 @@
 
 1. [隐私相关原则和模型](#隐私相关原则和模型)
     1. [隐私处理模型](#隐私处理模型)
-        1. [【FIPP (Fair Information Practice Principles)](https://iapp.org/resources/article/fair-information-practices/)](#fipp-fair-information-practice-principleshttpsiapporgresourcesarticlefair-information-practices)
+        1. [FIPP (Fair Information Practice Principles)](#fipp-fair-information-practice-principles)
         2. [OECD privacy principle](#oecd-privacy-principle)
         3. [Generally Accepted Privacy Principles (GAPP)](#generally-accepted-privacy-principles-gapp)
         4. [CIA三原则](#cia三原则)
@@ -11,7 +11,7 @@
 
 ## 隐私处理模型
 
-### 【FIPP (Fair Information Practice Principles)](https://iapp.org/resources/article/fair-information-practices/)
+### [FIPP (Fair Information Practice Principles)](https://iapp.org/resources/article/fair-information-practices/)
 目前呈现的FIPP基于 1973 年美国卫生、教育和福利部的一个咨询委员会提出的建议。该委员会的报告指出，“基于保存记录的相互性概念来保障个人隐私，要求保存记录的组织遵守公平信息惯例的某些基本原则”。随后，然该报告描述了几条数据保护原则。
 
 1980 年，OECD 扩展了这些建议，并将其分为上述八条 FIPP。此后，FIPP 被多次引用，特别是在美国。它们继续作为一个重要部分出现在数据隐私和数据保护准则中。

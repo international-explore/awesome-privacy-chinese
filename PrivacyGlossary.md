@@ -1,10 +1,10 @@
-# 隐私相关英文词汇
+# 隐私安全英文词汇
 
-1. [隐私相关英文词汇](#隐私相关英文词汇)
+1. [隐私安全英文词汇](#隐私安全英文词汇)
     1. [相关缩写](#相关缩写)
     2. [相关单词](#相关单词)
-        1. [隐私权利相关](#隐私权利相关)
-        2. [加密算法相关](#加密算法相关)
+        1. [隐私相关](#隐私相关)
+        2. [安全相关](#安全相关)
         3. [隐私阅读涉及](#隐私阅读涉及)
 
 ## 相关缩写
@@ -51,8 +51,7 @@
 
 ## 相关单词
 
-### 隐私权利相关
-
+### 隐私相关
 * interrogation：审讯 （taxonomy of privacy中两要素：interrogation and surveillance）
 * surveillance：监测，监控（tracking and surveillance）
 * dimensions：度量 - Ryan Calo's Harm dimensions（卡洛的伤害度量理论，分为Object Harms and Subject Harms）
@@ -137,8 +136,15 @@
 * countermeasure：对策（a countermeasure to minimize privacy violation risks）
 * enforce:实施
 * disposal:处理（GAPP原则5：Use, retention, and disposal.）
+* resist: 抵制
+* harmonize: 协调、一致（harmonize the appropriate-适当的 policies ）
+* scenarios: 场景
+* obligation；责任 (right and obligation)
+* mitigate: 减轻（mitigate privacy risksy）
+* mechanism: 机制 （encryption mechanism）
+* facilitate discorvery：功能不和谐 (facilitate：促进、方便、使容易)
 
-### 加密算法相关
+### 安全相关
 
 * encryption：加密
 * decryption：解密
@@ -208,6 +214,9 @@
 * plausible：是是而非
 * local differential privacy：本地化查分隐私
 * tamperproof：防篡改
+* thumb driver: U盘
+* mandatory access control: 强制访问控制，注意区分（dictionary access control或者RAC）
+  
 
 ### 隐私阅读涉及
 
