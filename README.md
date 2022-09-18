@@ -3,17 +3,17 @@
 > 旨在收集和分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，英文词汇，相关新闻等。
 
 ## 内容目录
-* [隐私法规](#隐私法规) - 全球主要隐私法规收集
-* [隐私组织](#隐私组织) - 全球主要隐私管理和认证机构
-* [相关白皮书](#相关白皮书) - 隐私保护和数据安全相关白皮书git
-* [隐私创业企业](#隐私创业企业) - 隐私相关创业企业
-* [大厂隐私中心](#大厂隐私中心) - 各大厂的隐私中心，设计理念和宗旨
-* [隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
-* [相关工具](#相关工具) - 隐私相关的一些工具
-* [书籍视频](#书籍) - 隐私相关书籍推荐
-* [网站外链](#网站外链) - 隐私相关重要新闻、资源外链
-* [📙 隐私词汇](./PrivacyGlossary.md) - 隐私相关的基础英语词汇
-* [🏴 隐私概念](./PrincipleAndModels.md) - 隐私设计的相关最佳实践、概念和模型
+* [🔭 隐私基础概念](./principles.md) - 隐私设计的相关的基础概念、最佳实践、相关模型
+* [📙 隐私基础词汇](./glossary.md) - 隐私相关的一些基础英语简称和单词
+* [⚖️ 隐私法规](#隐私法规) - 全球主要隐私法规收集
+* [🏛️ 隐私组织](#隐私组织) - 全球主要隐私管理和认证机构
+* [⭐ 相关白皮书](#相关白皮书) - 隐私保护和数据安全相关白皮书git
+* [🔒 隐私创业企业](#隐私创业企业) - 隐私相关创业企业
+* [ 大厂隐私中心](#大厂隐私中心) - 各大厂的隐私中心，设计理念和宗旨
+* [🚀 隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
+* [🔨 相关工具](#相关工具) - 隐私相关的一些工具
+* [📘 书籍视频](#书籍) - 隐私相关书籍推荐
+* [📎 网站外链](#网站外链) - 隐私相关重要新闻、资源外链
 * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
     * [2022 年 9 月隐私新闻](./news/202209.md)
     * [2022 年 8 月隐私新闻](./news/202208.md)
@@ -27,6 +27,7 @@
 * 全球法规查询：
     * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询 - [handbook pdf 下载](./files/whitepaper/2022-Data-Protection-United-States%20.pdf)
     * [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) 全球隐私保护严重程度查询
+    * [IAPP Global Privacy Laws](https://iapp.org/resources/global-privacy-directory/) IAPP的全球隐私法规库
 * 重要海外法规
     * GDPR - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [官网](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
     * CCPA - 加州消费者隐私保护法规，是美国隐私保护的代表法规，颁布于2018年 | [官网](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375)
