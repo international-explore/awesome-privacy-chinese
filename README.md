@@ -1,9 +1,8 @@
-# 国内隐私技术交流
+# 国内隐私技术交流 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-旨在收集和分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，英文词汇，相关新闻等。
+> 旨在收集和分享隐私技术相关的一些信息，涵盖且不限于业内白皮书，隐私计算技术，隐私相关创业企业，相关法规，英文词汇，相关新闻等。
 
-# 内容目录
-
+## 内容目录
 * [隐私法规](#隐私法规) - 全球主要隐私法规收集
 * [隐私组织](#隐私组织) - 全球主要隐私管理和认证机构
 * [相关白皮书](#相关白皮书) - 隐私保护和数据安全相关白皮书git
@@ -325,6 +324,7 @@
     * [awesome-sec-talks](https://github.com/PaulSec/awesome-sec-talks) - 安全相关的讲座，组织和会议
     * [awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - 英文攻击检测相关
     * [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - 引文自托管服务相关
+    * [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning/blob/master/README.md) - 联邦学习相关
     * [awesome-zk](https://github.com/ventali/awesome-zk) - 零知识证明英文资料
 * 政府相关
     * [新加坡 pdpc](https://www.pdpc.gov.sg/) - 新加坡个人数据保护组织
