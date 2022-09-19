@@ -37,6 +37,7 @@
     * PoPIA- 南非的隐私保护法，颁布于2013年 | [官网](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf)
     * HIPAA- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [官网](https://www.hhs.gov/hipaa/index.html) | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
     * ADPPA- 美国数据隐私和保护法案，20220606发布草案 | [相关网站](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)
+    * Privacy Art - 澳大利亚隐私法案 | [相关网站](https://www.oaic.gov.au/privacy/the-privacy-act)
     * PDPA - 泰国个人数据保护法，20220607生效 | [官网-pdf](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf)
 
 * 国内三大法规
@@ -97,6 +98,7 @@
     * [EDPB- European Data Protection Board](https://edpb.europa.eu/edpb_en)
     * [EDPS- European Data Protection Supervisor](https://edps.europa.eu/_en)
     * [ENISA - European Union Agency for Network and Information Security](https://www.enisa.europa.eu/topics/data-protection)
+    * [OAIC - Office of the Australian Information Commissioner ](https://www.oaic.gov.au/)
 
 * 其他重要机构
     * [IAPP - International Association of Privacy Professionals](https://iapp.org/) -国际隐私专业人员协会

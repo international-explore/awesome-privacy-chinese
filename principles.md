@@ -14,6 +14,7 @@
         3. [Generally Accepted Privacy Principles (GAPP)](#generally-accepted-privacy-principles-gapp)
         4. [PbD Principles](#pbd-principles)
         5. [NCASE privacy princepels](#ncase-privacy-princepels)
+        6. [Austrlian Privacy Principles](#austrlian-privacy-principles)
 
 
 ## 隐私经典概念
@@ -152,6 +153,23 @@ NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英�
 
 - **Notice**: 关键信息和个数数据使用需要明确告知用户，比如隐私声明，显著披露等。
 - **Choice**: 需要给到用户尽可能多的选择权和关闭权，比如个性化广告推送关闭等等。
-- **Access**: 可访问或者可携带，也就是用户需要能够访问相关数据，比如数据下载工鞥呢
+- **Access**: 可访问或者可携带，也就是用户需要能够访问相关数据，比如数据下载功能呢
 - **Security**: 保证数据安全，比如传输安全（https），存储安全（数据脱敏）等等
 - **Enforcement**: 强制执行，保证可落地、可审计性和强监控
+- 
+### [Austrlian Privacy Principles](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference)
+澳大利亚提出的13条隐私法案最佳实践
+
+- 1. **Open and transparent management of personal information**: 公开透明的个人信息管理，主要通过privacy policy
+- 2. **Anonymity and pseudonymity**: 匿名和假名化
+- 3. **Collection of solicited personal information**: 收集公开的用户信息
+- 4. **Dealing with unsolicited personal information**: 处理未经用户同意的信息
+- 5. **Notification of the collection of personal information**: 收集信息要告知
+- 6. **Use or disclosure of personal information**: 个人信息的使用要披露
+- 7. **Direct marketing**: 个人信息仅限直销目的
+- 8. **Use or disclosure of personal information**: 个人信息跨境要进行披露
+- 9. **Adoption, use or disclosure of government related identifiers**: 采用、使用或者披露政府相关标识符
+- 10. **Quality of personal information**: 保障个人信息质量
+- 11. **Security of personal information**: 保障个人信息安全
+- 12. **Access to personal information**: 个人信息的访问控制
+- 13. **Correction of personal information**: 个人信息要可纠正
