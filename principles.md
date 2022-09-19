@@ -14,7 +14,7 @@
         3. [Generally Accepted Privacy Principles (GAPP)](#generally-accepted-privacy-principles-gapp)
         4. [PbD Principles](#pbd-principles)
         5. [NCASE privacy princepels](#ncase-privacy-princepels)
-        6. [Austrlian Privacy Principles](#austrlian-privacy-principles)
+        6. [Australian Privacy Principles](#australian-privacy-principles)
 
 
 ## 隐私经典概念
@@ -157,7 +157,7 @@ NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英�
 - **Security**: 保证数据安全，比如传输安全（https），存储安全（数据脱敏）等等
 - **Enforcement**: 强制执行，保证可落地、可审计性和强监控
 - 
-### [Austrlian Privacy Principles](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference)
+### [Australian Privacy Principles](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference)
 澳大利亚提出的13条隐私法案最佳实践
 
 - 1. **Open and transparent management of personal information**: 公开透明的个人信息管理，主要通过privacy policy
