@@ -2,16 +2,16 @@
 
 1. [隐私相关原则和模型](#隐私相关原则和模型)
     1. [隐私经典概念](#隐私经典概念)
-        1. [CIA三原则](#cia三原则)
+        1. [CIA triad](#cia-triad)
         2. [Privacy Engineering Objectives (NIST 8062)](#privacy-engineering-objectives-nist-8062)
         3. [Taxonomy of Privacy](#taxonomy-of-privacy)
         4. [Privacy Dark pattern](#privacy-dark-pattern)
         5. [FAIR：Factor Analysis of Information Risk](#fairfactor-analysis-of-information-risk)
         6. [Alan Westin- Four states of privacy](#alan-westin--four-states-of-privacy)
     2. [隐私最佳实践](#隐私最佳实践)
-        1. [FIPP (Fair Information Practice Principles)](#fipp-fair-information-practice-principles)
+        1. [FIPPs (Fair Information Practice Principles)](#fipps-fair-information-practice-principles)
         2. [OECD privacy principle](#oecd-privacy-principle)
-        3. [Generally Accepted Privacy Principles (GAPP)](#generally-accepted-privacy-principles-gapp)
+        3. [GAPP (Generally Accepted Privacy Principles)](#gapp-generally-accepted-privacy-principles)
         4. [PbD Principles](#pbd-principles)
         5. [NCASE privacy princepels](#ncase-privacy-princepels)
         6. [Australian Privacy Principles](#australian-privacy-principles)
@@ -19,7 +19,7 @@
 
 ## 隐私经典概念
 
-### [CIA三原则](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)
+### [CIA triad](https://www.techtarget.com/whatis/definition/Confidentiality-integrity-and-availability-CIA)
 数据安全方面涉及比较重要的三个原则。
 - **confidentiality**: 机密性，只有授权用户可以获取信息。
 - **Integrity**: 完整性，信息在输入和传输的过程中，不被非法授权修改和破坏，保证数据的一致性。
@@ -57,6 +57,8 @@
     - 5. Blackmail
     - 6. Appropriation
     - 7. Distortion
+
+
 ![Taxonomy of Privacy](./files/assets/A-Taxonomy-of-Privacy.jpg)
 
 ### [Privacy Dark pattern](https://www.deceptive.design/types)
@@ -89,7 +91,7 @@ Alan定义了隐私的四种状态
 
 ## 隐私最佳实践
 
-### [FIPP (Fair Information Practice Principles)](https://iapp.org/resources/article/fair-information-practices/)
+### [FIPPs (Fair Information Practice Principles)](https://iapp.org/resources/article/fair-information-practices/)
 目前呈现的FIPP基于1973年美国卫生、教育和福利部的一个咨询委员会提出的建议。该委员会的报告指出，“基于保存记录的相互性概念来保障个人隐私，要求保存记录的组织遵守公平信息惯例的某些基本原则”。随后，然该报告描述了几条数据保护原则。
 
 1980 年，OECD 扩展了这些建议，总结为FIPP。此后，FIPP 被多次引用，特别是在美国，它是数据隐私和数据保护准则中。
@@ -125,7 +127,7 @@ OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括
 - 8. Accountability Principle: 可审计原则
 
 
-### [Generally Accepted Privacy Principles (GAPP)](https://linfordco.com/blog/the-10-generally-accepted-privacy-principles/)
+### [GAPP (Generally Accepted Privacy Principles)](https://linfordco.com/blog/the-10-generally-accepted-privacy-principles/)
 类似OECD，是美国和加拿大提出的十条隐私原则
 - 1. **Management：可管控可审计原则**. The entity defines, documents, communicates, and assigns accountability for its privacy policies and procedures.
 - 2. **Notice.**The entity provides notice about its privacy policies and procedures and identifies the purposes for which personal information is collected, used, retained, and disclosed.
