@@ -237,6 +237,7 @@
 * eavesdropping: 窃听（wifi eavesdropping）
 * Sensor-Based Surveillance: 基于传感器的监视
 * Ubiquitious: 无处不在的 Ubiquitious computing: smart city
+* transient: 短暂的 transient storage 暂存，比如cache,mem等，与之相反是persist storage
 
 
 ### 隐私阅读涉及

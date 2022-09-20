@@ -15,6 +15,7 @@
         4. [PbD Principles](#pbd-principles)
         5. [NCASE privacy princepels](#ncase-privacy-princepels)
         6. [Australian Privacy Principles](#australian-privacy-principles)
+        7. [FTC privacy framework](#ftc-privacy-framework)
 
 
 ## 隐私经典概念
@@ -175,3 +176,10 @@ NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英�
 - 11. **Security of personal information**: 保障个人信息安全
 - 12. **Access to personal information**: 个人信息的访问控制
 - 13. **Correction of personal information**: 个人信息要可纠正
+
+### [FTC privacy framework](https://www.ftc.gov/news-events/news/speeches/privacy-design-new-privacy-framework-us-federal-trade-commission)
+2012年FTC更新的隐私框架，提到了三个核心原则
+
+- **Privacy by Design**: privacy by design helps lift the burden of privacy protection off the shoulders of consumers
+- **Simplified Choice**: Companies should give consumers clear and simple choices about their data at a relevant time and context, outside of lengthy privacy policies or terms of service
+- **Transparency**: Companies should disclose details about their collection and use of consumer data.
