@@ -7,9 +7,9 @@
 * [📙 隐私基础词汇](./glossary.md) - 隐私相关的一些基础英语简称和单词
 * [⚖️ 隐私法规](#隐私法规) - 全球主要隐私法规收集
 * [🏛️ 隐私组织](#隐私组织) - 全球主要隐私管理和认证机构
-* [⭐ 相关白皮书](#相关白皮书) - 隐私保护和数据安全相关白皮书git
+* [⭐ 隐私白皮书](#相关白皮书) - 隐私保护和数据安全相关白皮书
 * [🔒 隐私创业企业](#隐私创业企业) - 隐私相关创业企业
-* [ 大厂隐私中心](#大厂隐私中心) - 各大厂的隐私中心，设计理念和宗旨
+*  [大厂隐私中心](#大厂隐私中心) - 各大厂的隐私中心，设计理念和宗旨
 * [🚀 隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
 * [🔨 相关工具](#相关工具) - 隐私相关的一些工具
 * [📘 书籍视频](#书籍) - 隐私相关书籍推荐
@@ -37,7 +37,7 @@
     * PoPIA- 南非的隐私保护法，颁布于2013年 | [官网](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf)
     * HIPAA- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [官网](https://www.hhs.gov/hipaa/index.html) | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
     * ADPPA- 美国数据隐私和保护法案，20220606发布草案 | [相关网站](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)
-    * Privacy Art - 澳大利亚隐私法案 | [相关网站](https://www.oaic.gov.au/privacy/the-privacy-act)
+    * Privacy Art 1988 - 澳大利亚隐私法案 | [相关网站](https://www.oaic.gov.au/privacy/the-privacy-act)
     * PDPA - 泰国个人数据保护法，20220607生效 | [官网-pdf](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf)
 
 * 国内三大法规

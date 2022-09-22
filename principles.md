@@ -135,7 +135,7 @@ OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括
 - 3. **Choice and consent：选择和同意原则**. The entity describes the choices available to the individual and obtains implicit or explicit consent with respect to the collection, use, and disclosure of personal information.
 - 4. **Collection.收集目的原则** The entity collects personal information only for the purposes identified in the notice.
 - 5. **Use, retention, and disposal.限制使用原则**The entity limits the use of personal information to the purposes identified in the notice and for which the individual has provided implicit or explicit consent. The entity retains personal information for only as long as necessary to fulfill the stated purposes or as required by law or regulations and thereafter appropriately disposes of such information.
-- 6. **Access.**The entity provides individuals with access to their personal information for review and update.
+- 6. **Access.访问控制原则**The entity provides individuals with access to their personal information for review and update.
 - 7. **Disclosure to third parties.三方披露原则** The entity discloses personal information to third parties only for the purposes identified in the notice and with the implicit or explicit consent of the individual.
 - 8. **Security for privacy.隐私安全** The entity protects personal information against unauthorized access (both physical and logical).
 - 9. **Quality.数据质量原则** The entity maintains accurate, complete, and relevant personal information for the purposes identified in the notice.
@@ -159,14 +159,14 @@ NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英�
 - **Access**: 可访问或者可携带，也就是用户需要能够访问相关数据，比如数据下载功能呢
 - **Security**: 保证数据安全，比如传输安全（https），存储安全（数据脱敏）等等
 - **Enforcement**: 强制执行，保证可落地、可审计性和强监控
-- 
+
 ### [Australian Privacy Principles](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-quick-reference)
 澳大利亚提出的13条隐私法案最佳实践
 
 - 1. **Open and transparent management of personal information**: 公开透明的个人信息管理，主要通过privacy policy
 - 2. **Anonymity and pseudonymity**: 匿名和假名化
-- 3. **Collection of solicited personal information**: 收集公开的用户信息
-- 4. **Dealing with unsolicited personal information**: 处理未经用户同意的信息
+- 3. **Collection of solicited personal information**: 主动请求收集用户信息的原则
+- 4. **Dealing with unsolicited personal information**: 非主动采集的数据应满足的要求和义务
 - 5. **Notification of the collection of personal information**: 收集信息要告知
 - 6. **Use or disclosure of personal information**: 个人信息的使用要披露
 - 7. **Direct marketing**: 个人信息仅限直销目的
