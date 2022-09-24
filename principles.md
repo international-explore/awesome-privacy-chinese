@@ -8,6 +8,7 @@
         4. [Privacy Dark pattern](#privacy-dark-pattern)
         5. [FAIR：Factor Analysis of Information Risk](#fairfactor-analysis-of-information-risk)
         6. [Alan Westin- Four states of privacy](#alan-westin--four-states-of-privacy)
+        7. [NIST PRAM: Privacy Risk Assessment Methodology ](#nist-pram-privacy-risk-assessment-methodology-)
     2. [隐私最佳实践](#隐私最佳实践)
         1. [FIPPs (Fair Information Practice Principles)](#fipps-fair-information-practice-principles)
         2. [OECD privacy principle](#oecd-privacy-principle)
@@ -16,6 +17,7 @@
         5. [NCASE privacy princepels](#ncase-privacy-princepels)
         6. [Australian Privacy Principles](#australian-privacy-principles)
         7. [FTC privacy framework](#ftc-privacy-framework)
+        8. [OECD privacy principle](#oecd-privacy-principle-1)
 
 
 ## 隐私经典概念
@@ -88,6 +90,16 @@ Alan定义了隐私的四种状态
 - intimacy: 亲密
 - anonymity: 匿名
 - reserve: 保留
+
+### [NIST PRAM: Privacy Risk Assessment Methodology ](https://www.nist.gov/system/files/documents/2017/06/05/privengworkshop_preso.pdf)
+NIST的隐私风险评估方法，分为六步闭环操作
+
+- Assess Privacy Risk
+- Select Privacy Controls
+- Monitor Change
+- Frame Business Objectives
+- Frame Org Privacy Governance
+- Assess System Design
 
 
 ## 隐私最佳实践
@@ -183,3 +195,16 @@ NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英�
 - **Privacy by Design**: privacy by design helps lift the burden of privacy protection off the shoulders of consumers
 - **Simplified Choice**: Companies should give consumers clear and simple choices about their data at a relevant time and context, outside of lengthy privacy policies or terms of service
 - **Transparency**: Companies should disclose details about their collection and use of consumer data.
+
+
+### [OECD privacy principle](http://oecdprivacy.org/)
+OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括如下八大部分
+
+- 1. Collection Limitation Principle: 最小化收集原则
+- 2. Data Quality Principle: 数据质量保证原则
+- 3. Purpose Specification Principle: 目的明确原则
+- 4. Use Limitation Principle: 使用限制原则
+- 5. Security Safeguards Principle: 安全保障原则
+- 6. Openness Principle: 开放原则
+- 7. Individual Participation Principle: 用户参与原则
+- 8. Accountability Principle: 可审计原则
