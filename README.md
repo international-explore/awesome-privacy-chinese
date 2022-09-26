@@ -45,7 +45,7 @@
     * [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | [网络安全法解读](http://www.mca.gov.cn/article/zt_gjaqr2021/zjjd/202104/20210400033201.shtml) | [网信办解读网络安全法](http://www.cac.gov.cn/2020-05/03/c_1590051734208776.htm)
     * [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | [数据安全法解读](http://www.cac.gov.cn/2021-06/15/c_1625341228851523.htm)
 
-* 隐私相关条例或领域法规
+* 隐私相关领域法规/条例
     * [《数据出境安全评估办法》- 2022/07/07](http://www.gov.cn/zhengce/zhengceku/2022-07/08/content_5699851.htm) 数据出境必看，大厂数据出境申报指南
     * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，适合小厂，[参考](https://github.com/international-explore/awesome-privacy-chinese/blob/main/news/202206.md#%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%87%BA%E5%A2%83%E6%A0%87%E5%87%86%E5%90%88%E5%90%8C%E8%A7%84%E5%AE%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF) 和 [官方答疑](https://mp.weixin.qq.com/s/I_8CoXlwvIAv4vdWQLANZw)
     * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
@@ -55,6 +55,7 @@
     * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
     * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
     * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
+    * [BIPA - Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57) 生物信息隐私法案
 
 
 * 各地数字经济
@@ -89,7 +90,7 @@
     * SOC审计：系统和组织控制(System and Organization Controls，SOC)报告是由AICPA发布的标准管理的报告，与提供服务的服务组织相关
         * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) 概述于认证协议标准声明(SSAE) 18，SOC 1关注的是服务组织的内部控制
         * [SOC 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) SOC 2是一个受限使用报告，关注的是与AICPA的信任服务标准(TSCs)概述的`合规和运营`相关 | [soc 2工具](https://github.com/strongdm/comply)
-        * [SOC 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report) SOC 3是一个通用使用报告，细节不多，可以由服务组织自由分发，是个较好的营销工具。
+        * [SOC 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report) SOC 3是一个通用使用报告，由服务组织自由分发，是个较好的营销工具。
 
 ## 隐私组织
 
