@@ -207,7 +207,7 @@
     * [富数科技 - 安全计算](https://www.fudata.cn/) | 理念：构建数据安全桥梁、保护隐私，释放价值
     * [翼方健数 - 安全计算](https://www.basebit.ai/) | 理念：隐私安全计算加速数据要素流动，激活数据共享价值
     * [华控清交 - 安全计算](https://www.tsingj.com/) | 理念：让数据安全融合，使信任变得简单
-    * [原语科技 - 隐私计算](https://www.primihub.com/) | 目前平台已经在github开源：[primihub](https://github.com/primihub/primihub)
+    * [原语科技 - 隐私计算](https://www.primihub.com/) | 目前平台已经在GitHub开源：[PrimiHub](https://github.com/primihub/primihub)
 
 ## 大厂隐私中心
 
@@ -277,7 +277,7 @@
 * 隐私计算 （pricacy-preserving computation）
     * 综合
         * [隐语- secret flow](https://github.com/secretflow) 蚂蚁开源的隐私计算平台，[文档地址](https://secretflow.readthedocs.io/en/latest/)
-        * [primihub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
+        * [PrimiHub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
     * 多方安全计算（MPC-Secure multi-party Computation）
     * 联邦学习（FL-Federated Learning）
     * 可信执行环境（FEE-Trusted Execution Environment）
