@@ -56,11 +56,12 @@
    * [《数据出境安全评估办法》- 2022/07/07](http://www.gov.cn/zhengce/zhengceku/2022-07/08/content_5699851.htm) 数据出境必看，大厂数据出境申报指南
    * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，适合小厂，[参考](https://github.com/international-explore/awesome-privacy-chinese/blob/main/news/202206.md#%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%87%BA%E5%A2%83%E6%A0%87%E5%87%86%E5%90%88%E5%90%8C%E8%A7%84%E5%AE%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF) 和 [官方答疑](https://mp.weixin.qq.com/s/I_8CoXlwvIAv4vdWQLANZw)
    * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
-    
+   * [个人信息跨境处理活动安全认证规范 - 2022-06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
+ 
   #### 汽车出行行业
   * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
   * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
-    
+   
     
   #### 生物信息相关
   * [BIPA - Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57) 生物信息隐私法案
@@ -68,43 +69,41 @@
   #### 儿童隐私相关
   
   #### 算法解释相关
-    * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA) 
+  * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA) 
     
+  #### 隐私计算相关
+  * [IEEE SA P3117 首个隐私计算互联互通标准 - 2022-06](https://sagroups.ieee.org/3117/) 信通院牵头，旨在打破计算孤岛，实现互联互通
+ 
 
+  #### 各地数字经济相关
+* **整体纲要**：[国务院-“十四五”数字经济发展规划](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)，列举了涉及数据要素，隐私相关的省份。
+* [《广东省数字经济发展指引1.0》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 数据作为关键生产要素的保护
+* [《苏州市数字经济“十四五”发展规划的通知》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 强调数据治理治理
+* [《江西“十四五”数字经济发展规划》-202206](http://www.gov.cn/xinwen/2022-06/24/content_5697653.htm) | 加“数”前行，抢占“智”高点，数据治理水平提升
+* [《黑龙江-促进大数据发展应用条例》-202205](http://www.hljrd.gov.cn/web/datainfo/local-law-detail.html?nid=7329&cn=local-law&li=y) | 数据保护为主
+* [《北京市数字经济全产业链开放发展行动方案》-202205](http://www.beijing.gov.cn/zhengce/zhengcefagui/202205/t20220531_2724836.html) | 加强数字经济治理，充分释放数据要素价值
+* [《河南-"十四五"数字经济和信息化发展规划》-202202](https://dsj.henan.gov.cn/2022/02-17/2400150.html) | 数据治理和安全保障，郑洛数字经济试验区
+* [《广西数字经济发展三年行动计划（2021—2023年）》-202201](http://gxxxzx.gxzf.gov.cn/dsjjsfw/zzqdsjzcjbzgf/t11379096.shtml) | 加快培育数据要素市场
+* [《杭州-数字经济发展“十四五”规划》-202112](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 做领头羊，各个指标非常具体
+* [《重庆-数字经济发展“十四五”规划》-202112](http://fzggw.cq.gov.cn/zwgk/zfxxgkml/zcjd/202112/t20211209_10117075.html) | 数据治理和数据要素的价值
+* [《四川省“十四五”数字经济发展规划》-202111](https://www.sc.gov.cn/10462/10464/10797/2021/11/24/56633b06026d4d4fba328fc70a1bebd4.shtml) | 发挥数据要素的基础性作用
+* [《青海省“十四五”工业和信息化发展规划》-202111](http://www.qinghai.gov.cn/xxgk/xxgk/fd/ghxx/202112/t20211207_187863.html) | 加快关键数字技术攻关
+* [《内蒙古自治区“十四五”数字经济发展规划》-202110](https://www.nmg.gov.cn/zwgk/zfxxgk/zfxxgkml/202111/t20211103_1922188.html) | 加强数据流通交易、数字丝绸之路的战略枢纽
+* [《湖北-数字经济发展“十四五”规划》-202110](http://www.hubei.gov.cn/zfwj/ezf/202111/t20211119_3870661.shtml) | 十大先导工程-光谷、5G等
+* [《贵州-数字经济发展“十四五”规划》-202110](https://dsj.guizhou.gov.cn/zwgk/xxgkml/ghjh/202112/P020211230614025691442.pdf) | 数据治理和数据价值，涉及云上贵州、大数据交易所等
+* [《上海市数字经济发展“十四五”规划》-202110](https://aqwg.shio.gov.cn/TrueCMS//shxwbgs/2021n_10y/content/6adbdefc-29cd-49f5-b797-852272f84f83.html) | 涉及数据安全和隐私计算
+* [《广东-数字经济促进条例》-202108](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 各行业数字化
+* [《江苏省“十四五”数字经济发展规划》-202108](http://www.jiangsu.gov.cn/art/2021/8/26/art_46144_9989328.html) | 加快数据要素市场化
+* [《浙江省数字经济发展“十四五”规划》-202106](https://www.zj.gov.cn/art/2021/6/29/art_1229019365_2306544.html)| 数据治理和数据共享
 
-* 各地数字经济
-    * **整体纲要**：[国务院-“十四五”数字经济发展规划](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)，列举了涉及数据要素，隐私相关的省份。
-    * [《广东省数字经济发展指引1.0》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 数据作为关键生产要素的保护
-    * [《苏州市数字经济“十四五”发展规划的通知》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 强调数据治理治理
-    * [《江西“十四五”数字经济发展规划》-202206](http://www.gov.cn/xinwen/2022-06/24/content_5697653.htm) | 加“数”前行，抢占“智”高点，数据治理水平提升
-    * [《黑龙江-促进大数据发展应用条例》-202205](http://www.hljrd.gov.cn/web/datainfo/local-law-detail.html?nid=7329&cn=local-law&li=y) | 数据保护为主
-    * [《北京市数字经济全产业链开放发展行动方案》-202205](http://www.beijing.gov.cn/zhengce/zhengcefagui/202205/t20220531_2724836.html) | 加强数字经济治理，充分释放数据要素价值
-    * [《河南-"十四五"数字经济和信息化发展规划》-202202](https://dsj.henan.gov.cn/2022/02-17/2400150.html) | 数据治理和安全保障，郑洛数字经济试验区
-    * [《广西数字经济发展三年行动计划（2021—2023年）》-202201](http://gxxxzx.gxzf.gov.cn/dsjjsfw/zzqdsjzcjbzgf/t11379096.shtml) | 加快培育数据要素市场
-    * [《杭州-数字经济发展“十四五”规划》-202112](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 做领头羊，各个指标非常具体
-    * [《重庆-数字经济发展“十四五”规划》-202112](http://fzggw.cq.gov.cn/zwgk/zfxxgkml/zcjd/202112/t20211209_10117075.html) | 数据治理和数据要素的价值
-    * [《四川省“十四五”数字经济发展规划》-202111](https://www.sc.gov.cn/10462/10464/10797/2021/11/24/56633b06026d4d4fba328fc70a1bebd4.shtml) | 发挥数据要素的基础性作用
-    * [《青海省“十四五”工业和信息化发展规划》-202111](http://www.qinghai.gov.cn/xxgk/xxgk/fd/ghxx/202112/t20211207_187863.html) | 加快关键数字技术攻关
-    * [《内蒙古自治区“十四五”数字经济发展规划》-202110](https://www.nmg.gov.cn/zwgk/zfxxgk/zfxxgkml/202111/t20211103_1922188.html) | 加强数据流通交易、数字丝绸之路的战略枢纽
-    * [《湖北-数字经济发展“十四五”规划》-202110](http://www.hubei.gov.cn/zfwj/ezf/202111/t20211119_3870661.shtml) | 十大先导工程-光谷、5G等
-    * [《贵州-数字经济发展“十四五”规划》-202110](https://dsj.guizhou.gov.cn/zwgk/xxgkml/ghjh/202112/P020211230614025691442.pdf) | 数据治理和数据价值，涉及云上贵州、大数据交易所等
-    * [《上海市数字经济发展“十四五”规划》-202110](https://aqwg.shio.gov.cn/TrueCMS//shxwbgs/2021n_10y/content/6adbdefc-29cd-49f5-b797-852272f84f83.html) | 涉及数据安全和隐私计算
-    * [《广东-数字经济促进条例》-202108](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 各行业数字化
-    * [《江苏省“十四五”数字经济发展规划》-202108](http://www.jiangsu.gov.cn/art/2021/8/26/art_46144_9989328.html) | 加快数据要素市场化
-    * [《浙江省数字经济发展“十四五”规划》-202106](https://www.zj.gov.cn/art/2021/6/29/art_1229019365_2306544.html)| 数据治理和数据共享
-
-* 重要业内标准
-    * [IEEE SA P3117 首个隐私计算互联互通标准 - 2022-06](https://sagroups.ieee.org/3117/) 信通院牵头，旨在打破计算孤岛，实现互联互通
-    * [个人信息跨境处理活动安全认证规范 - 2022-06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
-
-* 重要认证指南
-    * [PCI-DSS](https://www.pcisecuritystandards.org/pdfs/chinese_simplified_pci_dss_audit_procedures_v1-1.pdf) 支付卡服务的全球认证
-    * [ISO 27001:2013](https://www.iso.org/standard/54534.html) 侧重信息安全，针对信息安全的管理体系、要求和风险处置等
-    * [ISO 27701:2019](https://www.iso.org/standard/71670.html) 侧重隐私安全，在可识别信息控制者和个人可识别信息处理者进行规范和指导，一般和27001一起过
-    * SOC审计：系统和组织控制(System and Organization Controls，SOC)报告是由AICPA发布的标准管理的报告，与提供服务的服务组织相关
-        * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) 概述于认证协议标准声明(SSAE) 18，SOC 1关注的是服务组织的内部控制
-        * [SOC 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) SOC 2是一个受限使用报告，关注的是与AICPA的信任服务标准(TSCs)概述的`合规和运营`相关 | [soc 2工具](https://github.com/strongdm/comply)
-        * [SOC 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report) SOC 3是一个通用使用报告，由服务组织自由分发，是个较好的营销工具。
+#### 重要认证指南
+* [PCI-DSS](https://www.pcisecuritystandards.org/pdfs/chinese_simplified_pci_dss_audit_procedures_v1-1.pdf) 支付卡服务的全球认证
+* [ISO 27001:2013](https://www.iso.org/standard/54534.html) 侧重信息安全，针对信息安全的管理体系、要求和风险处置等
+* [ISO 27701:2019](https://www.iso.orgs/standard/71670.html) 侧重隐私安全，在可识别信息控制者和个人可识别信息处理者进行规范和指导，一般和27001一起过
+* SOC审计：系统和组织控制(System and Organization Controls，SOC)报告是由AICPA发布的标准管理的报告，与提供服务的服务组织相关
+    * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) 概述于认证协议标准声明(SSAE) 18，SOC 1关注的是服务组织的内部控制
+    * [SOC 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) SOC 2是一个受限使用报告，关注的是与AICPA的信任服务标准(TSCs)概述的`合规和运营`相关 | [soc 2工具](https://github.com/strongdm/comply)
+    * [SOC 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report) SOC 3是一个通用使用报告，由服务组织自由分发，是个较好的营销工具。
 
 ## 隐私组织
 
