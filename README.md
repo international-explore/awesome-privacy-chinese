@@ -280,9 +280,12 @@
     * 综合
         * [隐语- secret flow](https://github.com/secretflow) 蚂蚁开源的隐私计算平台，[文档地址](https://secretflow.readthedocs.io/en/latest/)
         * [PrimiHub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
+        * [Teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于硬件安全能力的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
     * 多方安全计算（MPC-Secure multi-party Computation）
+        * [mpc4j](https://github.com/alibaba-edu/mpc4j) 阿里开源的安全多方计算库
     * 联邦学习（FL-Federated Learning）
     * 可信执行环境（FEE-Trusted Execution Environment）
+        * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
     * 同态加密（HE-Homomorphic Encryption）
     * 零知识证明（ZKP-zero knowledge proof）
        * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
