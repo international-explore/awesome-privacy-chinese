@@ -25,38 +25,51 @@
 
 ## 隐私法规
 
-* 全球法规查询：
-    * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询 - [handbook pdf 下载](./files/whitepaper/2022-Data-Protection-United-States%20.pdf)
-    * [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) 全球隐私保护严重程度查询
-    * [IAPP Global Privacy Laws](https://iapp.org/resources/global-privacy-directory/) IAPP的全球隐私法规库
-* 重要海外法规
-    * GDPR - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [官网](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
-    * CCPA - 加州消费者隐私保护法规，是美国隐私保护的代表法规，颁布于2018年 | [官网](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375)
-    * LGPD - 巴西隐私保护法，整体效仿GDPR，生效与2020年 | [官网](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
-    * PPC  - 日本的隐私保护法，2020年更新 | [官网](https://www.ppc.go.jp/en/legal/)
-    * PDPA - 新加坡的个人隐私保护法 | [官网](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act)
-    * PoPIA- 南非的隐私保护法，颁布于2013年 | [官网](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf)
-    * HIPAA- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [官网](https://www.hhs.gov/hipaa/index.html) | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
-    * ADPPA- 美国数据隐私和保护法案，20220606发布草案 | [相关网站](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)
-    * Privacy Art 1988 - 澳大利亚隐私法案 | [相关网站](https://www.oaic.gov.au/privacy/the-privacy-act)
-    * PDPA - 泰国个人数据保护法，20220607生效 | [官网-pdf](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf)
+### 全球法规查询
+* [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询 - [handbook pdf 下载](./files/whitepaper/2022-Data-Protection-United-States%20.pdf)
+* [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) 全球隐私保护严重程度查询
+* [IAPP Global Privacy Laws](https://iapp.org/resources/global-privacy-directory/) IAPP的全球隐私法规库
 
-* 国内三大法规
-    * [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
-    * [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | [网络安全法解读](http://www.mca.gov.cn/article/zt_gjaqr2021/zjjd/202104/20210400033201.shtml) | [网信办解读网络安全法](http://www.cac.gov.cn/2020-05/03/c_1590051734208776.htm)
-    * [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | [数据安全法解读](http://www.cac.gov.cn/2021-06/15/c_1625341228851523.htm)
+### 重要海外法规
+* GDPR - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [官网](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
+* CCPA - 加州消费者隐私保护法规，是美国隐私保护的代表法规，颁布于2018年 | [官网](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375)
+* LGPD - 巴西隐私保护法，整体效仿GDPR，生效与2020年 | [官网](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
+* PPC  - 日本的隐私保护法，2020年更新 | [官网](https://www.ppc.go.jp/en/legal/)
+* PDPA - 新加坡的个人隐私保护法 | [官网](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act)
+* PoPIA- 南非的隐私保护法，颁布于2013年 | [官网](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf)
+* HIPAA- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [官网](https://www.hhs.gov/hipaa/index.html) | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
+* ADPPA- 美国数据隐私和保护法案，20220606发布草案 | [相关网站](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)
+* Privacy Art 1988 - 澳大利亚隐私法案 | [相关网站](https://www.oaic.gov.au/privacy/the-privacy-act)
+* PDPA - 泰国个人数据保护法，20220607生效 | [官网-pdf](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf)
 
-* 隐私相关领域法规/条例
-    * [《数据出境安全评估办法》- 2022/07/07](http://www.gov.cn/zhengce/zhengceku/2022-07/08/content_5699851.htm) 数据出境必看，大厂数据出境申报指南
-    * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，适合小厂，[参考](https://github.com/international-explore/awesome-privacy-chinese/blob/main/news/202206.md#%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%87%BA%E5%A2%83%E6%A0%87%E5%87%86%E5%90%88%E5%90%8C%E8%A7%84%E5%AE%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF) 和 [官方答疑](https://mp.weixin.qq.com/s/I_8CoXlwvIAv4vdWQLANZw)
-    * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
-    * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA)
-    * [《关键信息基础设施安全管理条例》- 2021/09/01](http://www.gov.cn/zhengce/content/2021-08/17/content_5631671.htm) | [官方答记者问](https://mp.weixin.qq.com/s/7epChMnwiZU3mUV_dGawqA)
-    * [《网络安全审查办法》- 2022/02/15](http://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm) | [官方答记者问](https://mp.weixin.qq.com/s/Avfc4EbEAEKkuo0CTDH7sQ)
-    * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
-    * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
-    * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
-    * [BIPA - Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57) 生物信息隐私法案
+### 国内三大法规和条例
+* [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
+* [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | [网络安全法解读](http://www.mca.gov.cn/article/zt_gjaqr2021/zjjd/202104/20210400033201.shtml) | [网信办解读网络安全法](http://www.cac.gov.cn/2020-05/03/c_1590051734208776.htm)
+* [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | [数据安全法解读](http://www.cac.gov.cn/2021-06/15/c_1625341228851523.htm)
+* [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
+* [《关键信息基础设施安全管理条例》- 2021/09/01](http://www.gov.cn/zhengce/content/2021-08/17/content_5631671.htm) | [官方答记者问](https://mp.weixin.qq.com/s/7epChMnwiZU3mUV_dGawqA)
+* [《网络安全审查办法》- 2022/02/15](http://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm) | [官方答记者问](https://mp.weixin.qq.com/s/Avfc4EbEAEKkuo0CTDH7sQ)
+  
+
+### 隐私相关领域法规/条例
+  #### 跨境相关
+   * [《数据出境安全评估办法》- 2022/07/07](http://www.gov.cn/zhengce/zhengceku/2022-07/08/content_5699851.htm) 数据出境必看，大厂数据出境申报指南
+   * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，适合小厂，[参考](https://github.com/international-explore/awesome-privacy-chinese/blob/main/news/202206.md#%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%87%BA%E5%A2%83%E6%A0%87%E5%87%86%E5%90%88%E5%90%8C%E8%A7%84%E5%AE%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF) 和 [官方答疑](https://mp.weixin.qq.com/s/I_8CoXlwvIAv4vdWQLANZw)
+   * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
+    
+  #### 汽车出行行业
+  * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
+  * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
+    
+    
+  #### 生物信息相关
+  * [BIPA - Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57) 生物信息隐私法案
+  
+  #### 儿童隐私相关
+  
+  #### 算法解释相关
+    * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA) 
+    
 
 
 * 各地数字经济
@@ -115,6 +128,10 @@
 * 国内白皮书（评分纯属个人意见，5分推荐，4分值得一读，3分有时间就看看，2分不值得，1分垃圾）
     * [2022-阿里云安全-《2022云上政府数据安全指南》](./files/whitepaper/2022-阿里云-云上政府数据安全指南.pdf)
         * **5分** | 对于安全的整体框架，落地路径，关键技术和场景都给出了非常清晰的建议
+    * [2022-北京政府-自动驾驶数据分类分级白皮书](./files/whitepaper/2022-北京市-北京市高级别自动驾驶示范区数据分类分级方法白皮书.pdf)
+        * **4分** | 给出了明确的数据分级和保护分级
+    * [2022-蚂蚁集团-《可信密态计算白皮书》](./files/whitepaper/2022-蚂蚁-可信密态计算白皮书.pdf)
+        * **3分** | 数据密态计算（TECC）整体做了个入门介绍
     * [2022-网信办-《2021数字中国发展报告》](./files/whitepaper/2022-数字中国发展报告-网信办.pdf)
         * **4分** | 权威报告，涵盖大量权威、准确数据，[参考分析](./news/202208.md)
     * [2022-国浩律师-《国外数据安全政策研究报告》](./files/whitepaper/2022-律所-国外数据安全政策研究报告.pdf)
