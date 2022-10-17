@@ -300,7 +300,7 @@
         * [mpc4j](https://github.com/alibaba-edu/mpc4j) 阿里开源的安全多方计算库
     * 联邦学习（FL-Federated Learning）
         * [FateAI](https://github.com/FederatedAI/FATE) 联邦学习工业级开源框架  
-    * 可信执行环境（FEE-Trusted Execution Environment）
+    * 可信执行环境（TEE-Trusted Execution Environment）
         * [
 incubator-teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于Intel SGX的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
         * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
