@@ -297,11 +297,13 @@
     * 综合
         * [隐语- secret flow](https://github.com/secretflow) 蚂蚁开源的隐私计算平台，[文档地址](https://secretflow.readthedocs.io/en/latest/)
         * [PrimiHub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
-        * [Teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于硬件安全能力的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
     * 多方安全计算（MPC-Secure multi-party Computation）
         * [mpc4j](https://github.com/alibaba-edu/mpc4j) 阿里开源的安全多方计算库
     * 联邦学习（FL-Federated Learning）
-    * 可信执行环境（FEE-Trusted Execution Environment）
+        * [FateAI](https://github.com/FederatedAI/FATE) 联邦学习工业级开源框架  
+    * 可信执行环境（TEE-Trusted Execution Environment）
+        * [
+incubator-teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于Intel SGX的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
         * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
     * 同态加密（HE-Homomorphic Encryption）
     * 零知识证明（ZKP-zero knowledge proof）
@@ -336,7 +338,7 @@
     * [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/book.pdf) - 2020 cryptography 相关的都有介绍
     * [guide to basic anonymisation](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Advisory-Guidelines/Guide-to-Basic-Anonymisation-31-March-2022.ashx) - 2022 新加坡官方的脱敏指南
 * 中文书籍
-
+    * [联邦学习](https://book.douban.com/subject/35062813/)
 * 英文视频
     * [TED - Why Privacy Matters](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters) - by Glenn Greenwald
     * [TED - Online Privacy Doesn't Exist](https://www.youtube.com/watch?v=LgWrD3EJ1Do) - 数据导致的意想不到的危险，作者：Denelle Dixon
