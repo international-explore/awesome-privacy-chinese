@@ -272,6 +272,7 @@
     * [ARX](https://github.com/arx-deidentifier/arx) - java开源的匿名化工具（[官网](https://arx.deidentifier.org/)）
     * [DataDefender](https://github.com/armenak/DataDefender) - java版本的识别，脱敏工具
     * [新加坡 pdpc](https://www.pdpc.gov.sg/news-and-events/announcements/2022/05/data-anonymisation-tool-now-available) - 新加坡官方的数据脱敏工具 | [详细说明](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Advisory-Guidelines/Guide-to-Basic-Anonymisation-31-March-2022.ashx)
+    * [Apache ShardingSphere](https://github.com/apache/shardingsphere) - 可以在JDBC层面进行数据脱敏
 
 * 网络
     * [ipleak](https://ipleak.net/) - 检查IP泄露工具

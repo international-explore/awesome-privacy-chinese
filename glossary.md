@@ -52,6 +52,7 @@
 * OTT：over the top 一般指越过运营商，通过互联网向用户提供服务，比如互联网电视等
 * PETs: Privacy-Enhancing Technologies 隐私加强技术
 * CIPA：The U.S. Children’s Internet Protection Act (CIPA) 美国儿童网络保护
+* SOFIPO：
 
 ## 相关单词
 
