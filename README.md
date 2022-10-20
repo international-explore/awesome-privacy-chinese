@@ -67,7 +67,8 @@
   * [BIPA - Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57) 生物信息隐私法案
   
   #### 儿童隐私相关
-  
+  * [COPPA - children's online privacy protection rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) - FTC的儿童隐私保护法规
+
   #### 算法解释相关
   * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA) 
     
@@ -185,6 +186,8 @@
         * **3分** | 重点在过度采集、弱口令、权限分配、api攻击等方面。
 
 * 海外白皮书
+    * [2022-OECD-《cross-border data flows》](./files/whitepaper/2022-OECD-crossborder_data_flows.pdf)
+        * **3分** | 针对数据跨境在7国和20国集团的进程、政策和审议
     * [2022-TrustArc-《Global Privacy Benchmarks Report》](./files/whitepaper/2022-TrustArc-global_privacy_benchmarks_report.pdf)
         * **3分** | 全球隐私趋势、挑战和提升隐私的关键因素[参考分析](./news/202209.md)
     * [2022-思科-《privacy becomes mission critical》](./files/whitepaper/2022-思科-2021年数据隐私基准研究报告.pdf)
@@ -208,6 +211,7 @@
     * [flow security - 数据安全平台](https://www.flowsecurity.com/) |理念：Securing Data Wherever it Flows
     * [adzapier - CMP同意管理](https://adzapier.com/) |理念：have access to meaningful data
     * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email.
+    * [pixalate - 儿童隐私保护](https://www.pixalate.com/) |理念：fraud protection, privacy, and compliance analytics platform 
     * [safebase - 安全管理中心](https://safebase.io/) |理念：Showcase your security program and streamline workflows.
     * [shardsecure - 数据合规安全](https://shardsecure.com/overview) |理念：Data resilience, security, and privacy for hybrid- and multi-cloud environments.
     * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：发现、分级、保护
@@ -301,9 +305,8 @@
         * [mpc4j](https://github.com/alibaba-edu/mpc4j) 阿里开源的安全多方计算库
     * 联邦学习（FL-Federated Learning）
         * [FateAI](https://github.com/FederatedAI/FATE) 联邦学习工业级开源框架  
-    * 可信执行环境（TEE-Trusted Execution Environment）
-        * [
-incubator-teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于Intel SGX的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
+    * 可信执行环境（FEE-Trusted Execution Environment）
+        * [incubator-teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于Intel SGX的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
         * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
     * 同态加密（HE-Homomorphic Encryption）
     * 零知识证明（ZKP-zero knowledge proof）
