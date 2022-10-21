@@ -9,10 +9,11 @@
 * [🏛️ 隐私组织](#隐私组织) - 全球主要隐私管理和认证机构
 * [⭐ 隐私白皮书](#相关白皮书) - 隐私保护和数据安全相关白皮书
 * [🔒 隐私创业企业](#隐私创业企业) - 隐私相关创业企业
-*  [大厂隐私中心](#大厂隐私中心) - 各大厂的隐私中心，设计理念和宗旨
+* [🏢 大厂隐私中心](#大厂隐私中心) - 各大厂的隐私中心，设计理念和宗旨
 * [🚀 隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
 * [🔨 相关工具](#相关工具) - 隐私相关的一些工具
 * [📘 书籍视频](#书籍) - 隐私相关书籍推荐
+* [💬 微信公众号](#微信公众号) - 隐私和安全相关公众号
 * [📎 网站外链](#网站外链) - 隐私相关重要新闻、资源外链
 * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
     * [2022 年 10 月隐私新闻](./news/202210.md)
@@ -346,6 +347,25 @@
     * [TED - Why Privacy Matters](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters) - by Glenn Greenwald
     * [TED - Online Privacy Doesn't Exist](https://www.youtube.com/watch?v=LgWrD3EJ1Do) - 数据导致的意想不到的危险，作者：Denelle Dixon
     * [TED - Data is the new gold, who are the new thieves?](https://www.youtube.com/watch?v=XNF-rGiGb50) - 数据利用，作者：Tijmen Schep
+
+## 微信公众号
+关于隐私计算和数据安全的一些公众号
+
+* 隐私计算联盟 - 信通院 - 关于隐私计算交流的组织。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkwNjE4ODkxNg==&scene=124#wechat_redirect)
+* 数据安全与隐私计算 - 可隐数据实验室，政策和数据安全解读。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyNzM0NzA3Ng==&scene=124#wechat_redirect)
+* 数据安全推进计划 - 信通院关于数据安全推进的组织。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg3NjY3MDE3MA==&scene=124#wechat_redirect)
+* 开放隐私计算 - 开源组织 - 国内隐私计算交流的社区。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MjMzNzMxMw==&scene=124#wechat_redirect)
+* 数据安全共同体计划 - 信通院关于数据安全共同体的组织。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MDcxODc5NA==&scene=124#wechat_redirect)
+* 中伦文德网络安全与数据合规 - 每天会有信安新闻。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNDgyNTg0NQ==&scene=124#wechat_redirect)
+* 数据安全治理技术 - 研究数据安全产品及相应技术实践。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwNzk2OTQ4MQ==&scene=124#wechat_redirect)
+* DSO首席数据安全官 - 数据安全产业发展趋势，行业数字人才培训孵化。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg4MTgwMzA2MQ==&scene=124#wechat_redirect)
+* 数据安全治理 - 一些数据安全治理的分享。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkzMjMzNjA3MQ==&scene=124#wechat_redirect)
+* 信安协数据安全与隐私计算 - 上海信安协和隐私计算官方微信号。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkzODMwODc0OA==&scene=124#wechat_redirect)
+* 数据安全研究院 - 哈工大&奇安信数据安全研究院。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0ODIxNjA1MA==&scene=124#wechat_redirect)
+* 数据安全与数据要素化研究 - 聚焦数据安全与数据要素化[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIwNzQyMTEyMQ==&scene=124#wechat_redirect)
+* 数据安全治理专委会 - 浙江省网络空间安全协会数据安全治理专委会公众号，会推送一些政策新闻等。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NjE5NjUxOA==&scene=124#wechat_redirect)
+* 数据安全 - 数据安全与隐私保护圈子，每天有信安推送。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAxOTc4MjY3MQ==&scene=124#wechat_redirect)
+
 
 ## 网站外链
 
