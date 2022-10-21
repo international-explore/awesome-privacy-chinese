@@ -349,12 +349,12 @@
     * [TED - Data is the new gold, who are the new thieves?](https://www.youtube.com/watch?v=XNF-rGiGb50) - 数据利用，作者：Tijmen Schep
 
 ## 微信公众号
-关于隐私计算和数据安全的一些公众号
+关于隐私计算和数据安全的一些公众号，几乎都是周更以上活跃的。
 
+* 开放隐私计算 - 国内隐私计算交流的社区，更新频繁。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MjMzNzMxMw==&scene=124#wechat_redirect)
 * 隐私计算联盟 - 信通院 - 关于隐私计算交流的组织。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkwNjE4ODkxNg==&scene=124#wechat_redirect)
-* 数据安全与隐私计算 - 可隐数据实验室，政策和数据安全解读。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyNzM0NzA3Ng==&scene=124#wechat_redirect)
-* 数据安全推进计划 - 信通院关于数据安全推进的组织。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg3NjY3MDE3MA==&scene=124#wechat_redirect)
-* 开放隐私计算 - 开源组织 - 国内隐私计算交流的社区。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0MjMzNzMxMw==&scene=124#wechat_redirect)
+* 数据安全与隐私计算 - 可隐数据实验室，政策和数据安全一些新闻。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyNzM0NzA3Ng==&scene=124#wechat_redirect)
+* 数据安全推进计划 - 信通院关于数据安全推进的组织，会发一些专家文章。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg3NjY3MDE3MA==&scene=124#wechat_redirect)
 * 数据安全共同体计划 - 信通院关于数据安全共同体的组织。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg5MDcxODc5NA==&scene=124#wechat_redirect)
 * 中伦文德网络安全与数据合规 - 每天会有信安新闻。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzIxNDgyNTg0NQ==&scene=124#wechat_redirect)
 * 数据安全治理技术 - 研究数据安全产品及相应技术实践。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzAwNzk2OTQ4MQ==&scene=124#wechat_redirect)
