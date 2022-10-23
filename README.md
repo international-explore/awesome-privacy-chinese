@@ -189,6 +189,10 @@
 * 海外白皮书
     * [2022-OECD-《cross-border data flows》](./files/whitepaper/2022-OECD-crossborder_data_flows.pdf)
         * **3分** | 针对数据跨境在7国和20国集团的进程、政策和审议
+    * [2022-cisco-《consumer privacy survey 2022》](./files/whitepaper/2022-cisco%20consumer-privacy-survey-2022.pdf)
+        * **3分** | 用户关心的问题和建议都还不错，[参考分析](./news/202210.md)
+    * [2022-OAIC-《OAIC annual report 2022》](./files/whitepaper/2022_OAIC_annual-report_final.pdf)
+        * **2分** | 澳大利亚监管机构年度报告，聚焦在生物指纹数据和面部识别技术
     * [2022-TrustArc-《Global Privacy Benchmarks Report》](./files/whitepaper/2022-TrustArc-global_privacy_benchmarks_report.pdf)
         * **3分** | 全球隐私趋势、挑战和提升隐私的关键因素[参考分析](./news/202209.md)
     * [2022-思科-《privacy becomes mission critical》](./files/whitepaper/2022-思科-2021年数据隐私基准研究报告.pdf)
