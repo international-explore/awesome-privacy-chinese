@@ -314,6 +314,7 @@
         * [incubator-teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于Intel SGX的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
         * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
     * 同态加密（HE-Homomorphic Encryption）
+        * [HEHub github](https://github.com/primihub/HEhub) 原语科技开源的同态加密库
     * 零知识证明（ZKP-zero knowledge proof）
        * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
        * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
@@ -353,7 +354,9 @@
     * [TED - Data is the new gold, who are the new thieves?](https://www.youtube.com/watch?v=XNF-rGiGb50) - 数据利用，作者：Tijmen Schep
 
 ## 微信公众号
-关于隐私计算和数据安全的一些公众号，几乎都是周更常看的，其他也可以搜狗搜索微信公众号 [跳转搜索](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8&ie=utf8&_sug_=n&_sug_type_=)
+关于隐私计算和数据安全的一些公众号，几乎都是周更常看的，如果链接失效，建议直接采用sogou搜索名称即可 [跳转搜索](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8&ie=utf8&_sug_=n&_sug_type_=)
+
+> 
 
 * 隐私计算联盟 - 信通院 -关于隐私计算交流的组织。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337630&ver=1&signature=s9bXdU2y-95OhcE4*Pa9QAIQhHhhVIeuJIQd3ZHzemGgJU0k*9pBOJG6RRsl713qRe0JozbzT5OBXEvL0E52WQ==)
 * 开放隐私计算 - 国内隐私计算交流的社区，更新频繁。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337604&ver=1&signature=dhiWT6MvfCePqPWmRyU6OkEiXn0c-OmEsyC08VmWnCq40Cme1dzAWvsiOj89zia-HighuWR5PwzgN22wcIcvmQ==)
