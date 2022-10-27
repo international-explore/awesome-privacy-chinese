@@ -260,6 +260,7 @@
     * [阿里隐私中心](https://privacy.alibabagroup.com/#/home) |安全有责 隐私有界
     * [阿里云隐私中心](https://security.aliyun.com/trust) |云即信任
     * [百度隐私中心](http://privacy.baidu.com/)  | 同意，透明，可控
+    * [百度点石隐私计算平台](https://dianshi.baidu.com/#/) | 提供一站式隐私计算解决方案
 
 ## 相关工具
 
