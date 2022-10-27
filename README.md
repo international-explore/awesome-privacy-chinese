@@ -63,6 +63,7 @@
   * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
   * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
   * [GB/T 42017-2022 - 网络预约汽车服务数据安全要求](https://www.tc260.org.cn/file/2020-11-10/d7f8726e-d793-4ac2-8a5e-1a2ae701dd66.pdf) 国内网约车数据安全指南
+  * [GB/T 42871-2022 - 汽车数据处理安全要求](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4D3C5BB193E079AD54294E5845749B8F) 国内汽车数据处理安全要求，[相关解释参考](./files/assets/汽车数据处理安全要求图片.jpeg)
    
     
   #### 生物信息相关
@@ -118,8 +119,9 @@
     * [OAIC - Office of the Australian Information Commissioner ](https://www.oaic.gov.au/)
 
 * 其他重要机构
-    * [IAPP - International Association of Privacy Professionals](https://iapp.org/) -国际隐私专业人员协会
-    * [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - 主要针对web 隐私
+    * [IAPP - International Association of Privacy Professionals](https://iapp.org/) - 国际隐私专业人员协会
+    * [EUROPRIVACY CERTIFICATION](https://www.europrivacy.org/) - GDPR唯一官方认证机构
+    * [W3C Privacy Interest Group](https://www.w3.org/Privacy/) - 主要针对web隐私
     * [CUPS - CyLab Usable Privacy and Security Laboratory](https://cups.cs.cmu.edu/) - 隐私和安全一些可用性的前沿研究
     * [EPIC - Electronic Privacy Information Center](https://epic.org/) - 美国提倡隐私保护组织
     * [FPF - Future of Privacy Forum](https://fpf.org/) - 未来隐私技术交流研究
@@ -190,8 +192,10 @@
 * 海外白皮书
     * [2022-OECD-《cross-border data flows》](./files/whitepaper/2022-OECD-crossborder_data_flows.pdf)
         * **3分** | 针对数据跨境在7国和20国集团的进程、政策和审议
+    * [2022-联合国-《隐私权-递隐私权特别报告》](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N22/594/47/PDF/N2259447.pdf?OpenElement)
+        * **3分** | 提出了隐私权的十大原则
     * [2022-cisco-《consumer privacy survey 2022》](./files/whitepaper/2022-cisco%20consumer-privacy-survey-2022.pdf)
-        * **3分** | 用户关心的问题和建议都还不错，[参考分析](./news/202210.md)
+        * **4分** | 用户关心的问题和建议都还不错，[参考分析](./news/202210.md)
     * [2022-OAIC-《OAIC annual report 2022》](./files/whitepaper/2022_OAIC_annual-report_final.pdf)
         * **2分** | 澳大利亚监管机构年度报告，聚焦在生物指纹数据和面部识别技术
     * [2022-TrustArc-《Global Privacy Benchmarks Report》](./files/whitepaper/2022-TrustArc-global_privacy_benchmarks_report.pdf)
@@ -199,7 +203,7 @@
     * [2022-思科-《privacy becomes mission critical》](./files/whitepaper/2022-思科-2021年数据隐私基准研究报告.pdf)
         * **4分** | 隐私和相关问题的分析，[参考分析](./news/202208.md)
     * [2021-Uber-《ESG report》](./files/whitepaper/2021-Uber-ESG-Report.pdf)
-        * **4分** | uber esg的进展和报告，涉及整体隐私的设计和理念
+        * **3分** | uber esg的进展和报告，涉及整体隐私的设计和理念
     * [2021-aws-《risk and compliance white_paper》](./files/whitepaper/2021_AWS_Risk_and_Compliance_Whitepaper.pdf)
         * **3分** | aws合规的一些简介，偏产品和功能介绍，干货较少，下同
     * [2020-aws-《aws security white_paper》](./files/whitepaper/2020-AWS_Security_Whitepaper.pdf)

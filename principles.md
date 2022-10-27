@@ -18,6 +18,7 @@
         6. [Australian Privacy Principles](#australian-privacy-principles)
         7. [FTC privacy framework](#ftc-privacy-framework)
         8. [OECD privacy principle](#oecd-privacy-principle-1)
+        9. [联合国隐私十大原则](#联合国隐私十大原则)
 
 
 ## 隐私经典概念
@@ -208,3 +209,17 @@ OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括
 - 6. Openness Principle: 开放原则
 - 7. Individual Participation Principle: 用户参与原则
 - 8. Accountability Principle: 可审计原则
+
+### [联合国隐私十大原则](https://www.ohchr.org/zh/documents/thematic-reports/a77196-principles-underpinning-privacy-and-protection-personal-data)
+2022年最新的提出隐私权利的十大原则，[中文报告参考](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N22/594/47/PDF/N2259447.pdf?OpenElement)
+
+- 1. 合法性、依法性和正当性原则：个人数据在其整个有效周期内的处理必须由责任方根据相关法律在尊重国际公认的人权的情况下进行（13-29）
+- 2. 同意原则：同意是一种明示或默示的意愿表示，同意方受其法律约束（30-44）
+- 3. 透明性原则：与处理个人数据相关的原则之一是，控制方必须透明地处理数据主体的相关数据。（45-57）
+- 4. 目的原则：则指导并界定了从收集到删除的所有个人数据处理活动（58-67）
+- 5. 公正原则：必须忠实地按照为收集个人信息提供理由的所有条款和条件处理这种信息并使用有助于实现这一目标的处理方法（68-79）
+- 6. 相称性原则：个人数据以及此类数据所面对的处理活动必须仅用于实现数据收集的目的。（80-89）
+- 7. 最小化原则：任何时候都必须将数据限制在实现既定目的所需的范围内。（90-95）
+- 8. 质量原则：数据必须准确、精确、完整和最新（96-104）
+- 9. 责任原则：控制方和处理方必须能够保证并证明遵守了这些原则（105-118）
+- 10. 安全性原则：；没有安全就没有数据保护。（119-137）
