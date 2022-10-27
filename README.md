@@ -62,6 +62,7 @@
   #### 汽车出行行业
   * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
   * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
+  * [GB/T 42017-2022 - 网络预约汽车服务数据安全要求](https://www.tc260.org.cn/file/2020-11-10/d7f8726e-d793-4ac2-8a5e-1a2ae701dd66.pdf) 国内网约车数据安全指南
    
     
   #### 生物信息相关
