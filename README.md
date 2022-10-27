@@ -260,7 +260,6 @@
     * [阿里隐私中心](https://privacy.alibabagroup.com/#/home) |安全有责 隐私有界
     * [阿里云隐私中心](https://security.aliyun.com/trust) |云即信任
     * [百度隐私中心](http://privacy.baidu.com/)  | 同意，透明，可控
-    * [百度点石隐私计算平台](https://dianshi.baidu.com/#/) | 提供一站式隐私计算解决方案
 
 ## 相关工具
 
@@ -314,6 +313,7 @@
     * 综合
         * [隐语- secret flow](https://github.com/secretflow) 蚂蚁开源的隐私计算平台，[文档地址](https://secretflow.readthedocs.io/en/latest/)
         * [PrimiHub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
+        * [百度点石隐私计算平台](https://dianshi.baidu.com/#/) 提供一站式隐私计算解决方案
     * 多方安全计算（MPC-Secure multi-party Computation）
         * [mpc4j](https://github.com/alibaba-edu/mpc4j) 阿里开源的安全多方计算库
     * 联邦学习（FL-Federated Learning）
