@@ -28,8 +28,9 @@
 
 ### 全球法规查询
 * [data protection laws around the world](https://www.dlapiperdataprotection.com/) 全球隐私保护法规查询 - [handbook pdf 下载](./files/whitepaper/2022-Data-Protection-United-States%20.pdf)
-* [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) 全球隐私保护严重程度查询
+* [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) CNIL的全球隐私法规库
 * [IAPP Global Privacy Laws](https://iapp.org/resources/global-privacy-directory/) IAPP的全球隐私法规库
+* [IAPP 全球隐私地图](./files/assets/IAPP_全球隐私地图.pdf) 隐私权利、企业责任等进行了全球整合
 
 ### 重要海外法规
 * GDPR - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [官网](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
@@ -193,7 +194,7 @@
     * [2022-OECD-《cross-border data flows》](./files/whitepaper/2022-OECD-crossborder_data_flows.pdf)
         * **3分** | 针对数据跨境在7国和20国集团的进程、政策和审议
     * [2022-联合国-《隐私权-递隐私权特别报告》](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N22/594/47/PDF/N2259447.pdf?OpenElement)
-        * **3分** | 提出了隐私权的十大原则
+        * **3分** | 提出了隐私权的十大原则。[细节参考](./principles.md)
     * [2022-cisco-《consumer privacy survey 2022》](./files/whitepaper/2022-cisco%20consumer-privacy-survey-2022.pdf)
         * **4分** | 用户关心的问题和建议都还不错，[参考分析](./news/202210.md)
     * [2022-OAIC-《OAIC annual report 2022》](./files/whitepaper/2022_OAIC_annual-report_final.pdf)
@@ -299,6 +300,7 @@
 
 * 审计
     * [lynis](https://github.com/CISOfy/lynis) - 自动化安全审计工具，支持PCI，ISO等
+    * [ICO AI审计工具包](./files/assets/ai-and-dp-risk-toolkit-v1_0.xlsx) - 英国ICO 人工智能和数据保护风险工具包
 
 * 政策
     * [gihub policy](https://github.com/github/site-policy)  - github开源了所有的政策包
