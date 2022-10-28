@@ -323,7 +323,8 @@
         * [incubator-teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于Intel SGX的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
         * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
     * 同态加密（HE-Homomorphic Encryption）
-        * [HEHub github](https://github.com/primihub/HEhub) 原语科技开源的同态加密库
+        * [HEHub GitHub](https://github.com/primihub/HEhub) 原语科技开源的同态加密库
+        * [HEU](https://github.com/secretflow/heu) 隐语子项目——同态加密计算引擎
     * 零知识证明（ZKP-zero knowledge proof）
        * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
        * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
