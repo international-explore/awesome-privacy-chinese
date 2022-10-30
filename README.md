@@ -241,6 +241,7 @@
     * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：发现、分级、保护
     * [duckduckgo.com - 隐私搜索引擎](https://duckduckgo.com/) | 理念：我们从不存储你的个人信息
     * [consentmanager - CMP](https://www.consentmanager.net/) | 重心： Higher Acceptance-Rates & Lower Bounce-Rate
+    * [privado - 数据识别和保护](https://www.privado.ai/about) | 重心： The Developer Friendly Privacy Platform
     * [clear - GDPR solution](https://www.cleargdpr.com/) | 特点： with Blockchain anchored chain-of-custody records [git工具](https://github.com/ClearGDPR/ClearGDPR)
 
 * 国内创业公司
