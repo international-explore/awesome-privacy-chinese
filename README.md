@@ -45,7 +45,7 @@
 * Privacy Art 1988 - 澳大利亚隐私法案 | [相关网站](https://www.oaic.gov.au/privacy/the-privacy-act)
 * PDPA - 泰国个人数据保护法，20220607生效 | [官网-pdf](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf)
 
-### 国内三大法规和条例
+### 重要国内法规和条例
 * [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
 * [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | [网络安全法解读](http://www.mca.gov.cn/article/zt_gjaqr2021/zjjd/202104/20210400033201.shtml) | [网信办解读网络安全法](http://www.cac.gov.cn/2020-05/03/c_1590051734208776.htm)
 * [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | [数据安全法解读](http://www.cac.gov.cn/2021-06/15/c_1625341228851523.htm)
@@ -59,7 +59,8 @@
    * [《数据出境安全评估办法》- 2022/07/07](http://www.gov.cn/zhengce/zhengceku/2022-07/08/content_5699851.htm) 数据出境必看，大厂数据出境申报指南
    * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，适合小厂，[参考](https://github.com/international-explore/awesome-privacy-chinese/blob/main/news/202206.md#%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%87%BA%E5%A2%83%E6%A0%87%E5%87%86%E5%90%88%E5%90%8C%E8%A7%84%E5%AE%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF) 和 [官方答疑](https://mp.weixin.qq.com/s/I_8CoXlwvIAv4vdWQLANZw)
    * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
-   * [个人信息跨境处理活动安全认证规范 - 2022-06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
+   * [个人信息跨境处理活动安全认证规范 - 2022/06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
+   * [国家互联网信息办公室发布《数据出境安全评估申报指南（第一版）》-2022/08/23](http://www.cac.gov.cn/2022-08/31/c_1663568169996202.htm)
  
   #### 汽车出行行业
   * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
@@ -74,9 +75,15 @@
   #### 儿童隐私相关
   * [COPPA - children's online privacy protection rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) - FTC的儿童隐私保护法规
 
-  #### 算法解释相关
+  #### 算法人工智能相关
+  * [欧洲《人工智能法案》EU AI Art- 2022/05](https://artificialintelligenceact.eu/) | [timeline](https://www.accessnow.org/the-eu-ai-act-proposal-a-timeline/)
   * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA) 
     
+  #### 推荐数字广告相关
+  * [欧洲《数字市场法案》(DMA) - 2022/10](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package)   
+  * [欧洲《数字服务法案》(DSA) - 2022/10](https://competition-policy.ec.europa.eu/sectors/ict/dma_en)
+  * [英国《Privacy and Electronic Communications Regulations PECR》](https://ico.org.uk/for-organisations/guide-to-pecr/what-are-pecr/) | [ICO direct-marketing-guidance](https://ico.org.uk/media/1555/direct-marketing-guidance.pdf)
+
   #### 隐私计算相关
   * [IEEE SA P3117 首个隐私计算互联互通标准 - 2022-06](https://sagroups.ieee.org/3117/) 信通院牵头，旨在打破计算孤岛，实现互联互通
  
@@ -103,13 +110,15 @@
 * [《浙江省数字经济发展“十四五”规划》-202106](https://www.zj.gov.cn/art/2021/6/29/art_1229019365_2306544.html)| 数据治理和数据共享
 
 #### 重要认证指南
-* [PCI-DSS](https://www.pcisecuritystandards.org/pdfs/chinese_simplified_pci_dss_audit_procedures_v1-1.pdf) 支付卡服务的全球认证
-* [ISO 27001:2013](https://www.iso.org/standard/54534.html) 侧重信息安全，针对信息安全的管理体系、要求和风险处置等
-* [ISO 27701:2019](https://www.iso.orgs/standard/71670.html) 侧重隐私安全，在可识别信息控制者和个人可识别信息处理者进行规范和指导，一般和27001一起过
-* SOC审计：系统和组织控制(System and Organization Controls，SOC)报告是由AICPA发布的标准管理的报告，与提供服务的服务组织相关
-    * [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) 概述于认证协议标准声明(SSAE) 18，SOC 1关注的是服务组织的内部控制
-    * [SOC 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) SOC 2是一个受限使用报告，关注的是与AICPA的信任服务标准(TSCs)概述的`合规和运营`相关 | [soc 2工具](https://github.com/strongdm/comply)
-    * [SOC 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report) SOC 3是一个通用使用报告，由服务组织自由分发，是个较好的营销工具。
+* [TRUSTe](https://trustarc.com/) - 美国隐私认证权威机构TrustArc关于隐私合规和数据治理方面比较权威的认证
+* [ePrivacyseal](https://www.eprivacy.eu/en/home/) - 欧洲隐私认证权威机构ePrivacy颁发的隐私合规方向的认证
+* [PCI-DSS](https://www.pcisecuritystandards.org/pdfs/chinese_simplified_pci_dss_audit_procedures_v1-1.pdf)- 支付卡服务的全球认证
+* [ISO 27001:2013](https://www.iso.org/standard/54534.html) - 侧重信息安全，针对信息安全的管理体系、要求和风险处置等
+* [ISO 27701:2019](https://www.iso.orgs/standard/71670.html)- 侧重隐私安全，在可识别信息控制者和个人可识别信息处理者进行规范和指导，一般和27001一起过
+* [SOC 1](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc1report) 概述于认证协议标准声明(SSAE) 18，SOC 1关注的是服务组织的内部控制
+* [SOC 2](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc2report) SOC 2是一个受限使用报告，关注的是与AICPA的信任服务标准(TSCs)概述的`合规和运营`相关 | [soc 2工具](https://github.com/strongdm/comply)
+* [SOC 3](https://us.aicpa.org/interestareas/frc/assuranceadvisoryservices/aicpasoc3report) SOC 3是一个通用使用报告，由服务组织自由分发，是个较好的营销工具。
+* [信通院认证](http://www.chinattl.com/) - 国内置信度比较高的认证，覆盖面和子类非常广，主要落地是泰尔实验室
 
 ## 隐私组织
 
@@ -118,7 +127,10 @@
     * [EDPB- European Data Protection Board](https://edpb.europa.eu/edpb_en)
     * [EDPS- European Data Protection Supervisor](https://edps.europa.eu/_en)
     * [ENISA - European Union Agency for Network and Information Security](https://www.enisa.europa.eu/topics/data-protection)
+    * [ICO - UK Information Commissioner's Office ](https://ico.org.uk/)
+    * [CNIL - 法国 Commission Nationale de l'Informatique et des Libertés ](https://www.cnil.fr/en/home)
     * [OAIC - Office of the Australian Information Commissioner ](https://www.oaic.gov.au/)
+
 
 * 其他重要机构
     * [IAPP - International Association of Privacy Professionals](https://iapp.org/) - 国际隐私专业人员协会
@@ -270,6 +282,7 @@
     * [website-evidence-collector](https://github.com/EU-EDPS/website-evidence-collector) - EDPS的网页收集和隐私分析服务
     * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services) - 隐私一个网页分析服务
     * [privacy tools](https://www.privacytools.io/) - 隐私相关工具合集
+    * [CNIL GDPR tools](https://www.cnil.fr/en/gdpr-toolkit) - 主要是PIA相关的一些工具
 
 * 识别
     * [dataDog](https://www.datadoghq.com/product/sensitive-data-scanner/) - datadog敏感数据扫描，敏感数据包含token等
@@ -317,17 +330,21 @@
         * [百度点石隐私计算平台](https://dianshi.baidu.com/#/) 提供一站式隐私计算解决方案
     * 多方安全计算（MPC-Secure multi-party Computation）
         * [mpc4j](https://github.com/alibaba-edu/mpc4j) 阿里开源的安全多方计算库
+        * [fedlearner](https://github.com/bytedance/fedlearner) 头条的多方协作机器学习框架
     * 联邦学习（FL-Federated Learning）
         * [FateAI](https://github.com/FederatedAI/FATE) 联邦学习工业级开源框架  
+        * [federated](https://github.com/tensorflow/federated) google开源的基于tensorflow的联邦学习框架
+        * [FederatedScope](https://github.com/alibaba/FederatedScope) 阿里开源的联邦学习平台
     * 可信执行环境（FEE-Trusted Execution Environment）
         * [incubator-teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于Intel SGX的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
         * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
     * 同态加密（HE-Homomorphic Encryption）
         * [HEHub github](https://github.com/primihub/HEhub) 原语科技开源的同态加密库
     * 零知识证明（ZKP-zero knowledge proof）
-       * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
-       * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
+        * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
+        * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
     * 差分隐私（DP-Differential Privacy）
+        * []
 
 * 隐私存储
     * [immudb](https://github.com/codenotary/immudb)  零信任数据库，基于Merkle Tree来存储数据并保持其完整性
