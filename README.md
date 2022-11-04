@@ -61,10 +61,11 @@
    * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
    * [个人信息跨境处理活动安全认证规范 - 2022/06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
    * [国家互联网信息办公室发布《数据出境安全评估申报指南（第一版）》-2022/08/23](http://www.cac.gov.cn/2022-08/31/c_1663568169996202.htm)
+   * 目前已经开放数据出境评估的省：山东、海南、
  
   #### 汽车出行行业
   * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
-  * [GB/T 42017-2022 - 网络预约汽车服务数据安全要求](https://www.tc260.org.cn/file/2020-11-10/d7f8726e-d793-4ac2-8a5e-1a2ae701dd66.pdf) 国内网约车数据安全指南
+  * [GB/T 42017-2022 - 网络预约汽车服务数据安全要求](https://www.tc260.org.cn/file/2020-11-10/d7f8726e-d793-4ac2-8a5e-1a2ae701dd66.pdf) 国内网约车数据安全指南，20230501生效
   * [GB/T 42871-2022 - 汽车数据处理安全要求](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4D3C5BB193E079AD54294E5845749B8F) 国内汽车数据处理安全要求，[相关解释参考](./files/assets/汽车数据处理安全要求图片.jpeg)
   * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
    
@@ -347,10 +348,11 @@
         * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
         * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
     * 差分隐私（DP-Differential Privacy）
-        * []
+  
 
 * 隐私存储
     * [immudb](https://github.com/codenotary/immudb)  零信任数据库，基于Merkle Tree来存储数据并保持其完整性
+    * [opengauss 全密态数据库特性](https://docs.opengauss.org/zh/docs/3.0.0/docs/BriefTutorial/%E5%85%A8%E5%AF%86%E6%80%81%E6%95%B0%E6%8D%AE%E5%BA%93.html) 以及基于opengauss封装的[MogDB](https://docs.mogdb.io/zh/mogdb/v2.1/12-equality-query-in-a-fully-encrypted-database)
 
 * 识别技术
     * [simhash](https://www.cs.princeton.edu/courses/archive/spring04/cos598B/bib/CharikarEstim.pdf) 正则匹配外高效数据识别的方式，[中文介绍](https://zhuanlan.zhihu.com/p/81026564)
