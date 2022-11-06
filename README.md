@@ -286,6 +286,7 @@
     * [European web analytics services](https://european-alternatives.eu/category/web-analytics-services) - 隐私一个网页分析服务
     * [privacy tools](https://www.privacytools.io/) - 隐私相关工具合集
     * [CNIL GDPR tools](https://www.cnil.fr/en/gdpr-toolkit) - 主要是PIA相关的一些工具
+    * [JP PIPA data mapping toolkit](https://www.ppc.go.jp/personalinfo/independent_effort/) - 日本PIPA提供的数据映射工具包
 
 * 识别
     * [dataDog](https://www.datadoghq.com/product/sensitive-data-scanner/) - datadog敏感数据扫描，敏感数据包含token等
