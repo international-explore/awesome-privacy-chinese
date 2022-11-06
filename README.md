@@ -125,13 +125,15 @@
 ## 隐私组织
 
 * 监管机构查询：[List of DPAs](https://pdpecho.com/the-list/)
-* 欧洲重要机构
+* 全球重要监管机构
     * [EDPB- European Data Protection Board](https://edpb.europa.eu/edpb_en)
     * [EDPS- European Data Protection Supervisor](https://edps.europa.eu/_en)
     * [ENISA - European Union Agency for Network and Information Security](https://www.enisa.europa.eu/topics/data-protection)
+    * [CNIL - 法国： Commission Nationale de l'Informatique et des Libertés ](https://www.cnil.fr/en/home)
     * [ICO - UK Information Commissioner's Office ](https://ico.org.uk/)
-    * [CNIL - 法国 Commission Nationale de l'Informatique et des Libertés ](https://www.cnil.fr/en/home)
     * [OAIC - Office of the Australian Information Commissioner ](https://www.oaic.gov.au/)
+    * [PPC - 日本： Personal Information Protection Commission ](https://www.ppc.go.jp)
+    * [OPC - 加拿大：Office of the Privacy Commissioner of Canada  ](https://www.priv.gc.ca/en/)
 
 
 * 其他重要机构
