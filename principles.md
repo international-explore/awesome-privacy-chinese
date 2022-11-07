@@ -20,6 +20,8 @@
         8. [OECD privacy principle](#oecd-privacy-principle-1)
         9. [联合国隐私十大原则](#联合国隐私十大原则)
         10. [44届隐私大会-面部识别数据处理框架](#44届隐私大会-面部识别数据处理框架)
+        11. [FTC人脸数据使用最佳实践](#ftc人脸数据使用最佳实践)
+        12. [人脸数据使用七大原则 - 未来隐私论坛提出](#人脸数据使用七大原则---未来隐私论坛提出)
 
 
 ## 隐私经典概念
@@ -227,9 +229,28 @@ OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括
 
 ### [44届隐私大会-面部识别数据处理框架](https://globalprivacyassembly.org/wp-content/uploads/2022/11/15.1.c.Resolution-on-Principles-and-Expectations-for-the-Appropriate-Use-of-Personal-Information-in-Facial-Recognition-Technolog.pdf)
 
+提出了6个原则，基本上都属于上面十大原则
 - 1. **合法依据**。使用面部识别的组织应该有明确的合法依据来收集和使用生物识别技术。
 - 2. **合理性、必要性和相称性**。各组织应确定并能够证明其使用面部识别技术的合理性、必要性和相称性。
 - 3. **对人权的保护**。各组织应特别评估并保护隐私和其他人权不受非法或任意干扰。
 - 4. **透明性原则**。面部识别的使用应该对受影响的个人和团体透明。
 - 5. **责任原则**。面部识别的使用应包括明确和有效的问责机制.
 - 6. **安全性原则**。面部识别的使用应尊重所有数据保护原则，包括上述原则。
+
+### [FTC人脸数据使用最佳实践](./files/assets/美国FTC报告-人脸最佳实践.pdf)
+提出了三个基本原则
+- 1. **Privacy by Design**，Companies should build in privacy at every stage of product development.
+- 2. **Simplified Consumer Choice**，For practices that are not consistent with the context of a transaction or a consumer’s relationship with a business, companies should provide consumers with choices at a relevant time and context.
+- 3. **Transparency** Companies should make information collection and use practices transparent.。
+
+### [人脸数据使用七大原则 - 未来隐私论坛提出](./files/assets/facial-Privacy-Principles.pdf)
+
+未来隐私论坛提出的关于人脸的七大原则
+- 1. **consent** 同意原则
+- 2. **use respect for context** 合理性原则
+- 3. **Transparency** 透明性原则
+- 4. **Data Security** 数据安全原则
+- 5. **Privacy By Design** 隐私设计原则
+- 6. **Integrity and Access** 完整性和可访问
+- 7. **Accountability** 问责原则
+

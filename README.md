@@ -33,6 +33,7 @@
 * [Map of the level of data protection](https://www.cnil.fr/en/data-protection-around-the-world) CNIL的全球隐私法规库
 * [IAPP Global Privacy Laws](https://iapp.org/resources/global-privacy-directory/) IAPP的全球隐私法规库
 * [IAPP 全球隐私地图](./files/assets/IAPP_全球隐私地图.pdf) 隐私权利、企业责任等进行了全球整合
+* [中国数据安全法律法规下载包](./files/assets/中国数据安全法律法规政策文件.zip)  127个国内相关法规
 
 ### 重要海外法规
 * GDPR - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [官网](https://gdpr-info.eu/) | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
@@ -73,10 +74,12 @@
     
   #### 生物信息相关
   * [BIPA - Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57) 生物信息隐私法案
-  * [44届全球隐私大会，关于面部识别个人数据框架](https://globalprivacyassembly.org/wp-content/uploads/2022/11/15.1.c.Resolution-on-Principles-and-Expectations-for-the-Appropriate-Use-of-Personal-Information-in-Facial-Recognition-Technolog.pdf)
+  * [44 GPA，关于面部识别个人数据框架](https://globalprivacyassembly.org/wp-content/uploads/2022/11/15.1.c.Resolution-on-Principles-and-Expectations-for-the-Appropriate-Use-of-Personal-Information-in-Facial-Recognition-Technolog.pdf) 参考具体[6条原则](https://github.com/international-explore/awesome-privacy-chinese/blob/main/principles.md#44%E5%B1%8A%E9%9A%90%E7%A7%81%E5%A4%A7%E4%BC%9A-%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%A1%86%E6%9E%B6)
+  * [FTC 人脸数据使用最佳实践](./files/assets/美国FTC报告-人脸最佳实践.pdf) 提出了三个基本原则，参考[隐私原则](https://github.com/international-explore/awesome-privacy-chinese/blob/main/principles.md)
   
   #### 儿童隐私相关
   * [COPPA - children's online privacy protection rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) - FTC的儿童隐私保护法规
+  * [43 GPA 关于儿童数字权利的决议](https://globalprivacyassembly.org/wp-content/uploads/2021/10/20211025-GPA-Resolution-Childrens-Digital-Rights-Final-Adopted.pdf)
 
   #### 算法人工智能相关
   * [欧洲《人工智能法案》EU AI Art- 2022/05](https://artificialintelligenceact.eu/) | [timeline](https://www.accessnow.org/the-eu-ai-act-proposal-a-timeline/)
