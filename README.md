@@ -95,26 +95,31 @@
  
 
   #### 各地数字经济相关
-* **整体纲要**：[国务院-“十四五”数字经济发展规划](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm)，列举了涉及数据要素，隐私相关的省份。
-* [《西安市“十四五”数字经济发展规划》-202211](http://www.xa.gov.cn/gk/zcfg/szbf/6360eba3f8fd1c4c2124f1e1.html) | 强化数字基建、数据要素、数字技术三大要素
-* [《广东省数字经济发展指引1.0》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 数据作为关键生产要素的保护
-* [《苏州市数字经济“十四五”发展规划的通知》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 强调数据治理治理
-* [《江西“十四五”数字经济发展规划》-202206](http://www.gov.cn/xinwen/2022-06/24/content_5697653.htm) | 加“数”前行，抢占“智”高点，数据治理水平提升
-* [《黑龙江-促进大数据发展应用条例》-202205](http://www.hljrd.gov.cn/web/datainfo/local-law-detail.html?nid=7329&cn=local-law&li=y) | 数据保护为主
-* [《北京市数字经济全产业链开放发展行动方案》-202205](http://www.beijing.gov.cn/zhengce/zhengcefagui/202205/t20220531_2724836.html) | 加强数字经济治理，充分释放数据要素价值
-* [《河南-"十四五"数字经济和信息化发展规划》-202202](https://dsj.henan.gov.cn/2022/02-17/2400150.html) | 数据治理和安全保障，郑洛数字经济试验区
-* [《广西数字经济发展三年行动计划（2021—2023年）》-202201](http://gxxxzx.gxzf.gov.cn/dsjjsfw/zzqdsjzcjbzgf/t11379096.shtml) | 加快培育数据要素市场
-* [《杭州-数字经济发展“十四五”规划》-202112](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 做领头羊，各个指标非常具体
-* [《重庆-数字经济发展“十四五”规划》-202112](http://fzggw.cq.gov.cn/zwgk/zfxxgkml/zcjd/202112/t20211209_10117075.html) | 数据治理和数据要素的价值
-* [《四川省“十四五”数字经济发展规划》-202111](https://www.sc.gov.cn/10462/10464/10797/2021/11/24/56633b06026d4d4fba328fc70a1bebd4.shtml) | 发挥数据要素的基础性作用
-* [《青海省“十四五”工业和信息化发展规划》-202111](http://www.qinghai.gov.cn/xxgk/xxgk/fd/ghxx/202112/t20211207_187863.html) | 加快关键数字技术攻关
-* [《内蒙古自治区“十四五”数字经济发展规划》-202110](https://www.nmg.gov.cn/zwgk/zfxxgk/zfxxgkml/202111/t20211103_1922188.html) | 加强数据流通交易、数字丝绸之路的战略枢纽
-* [《湖北-数字经济发展“十四五”规划》-202110](http://www.hubei.gov.cn/zfwj/ezf/202111/t20211119_3870661.shtml) | 十大先导工程-光谷、5G等
-* [《贵州-数字经济发展“十四五”规划》-202110](https://dsj.guizhou.gov.cn/zwgk/xxgkml/ghjh/202112/P020211230614025691442.pdf) | 数据治理和数据价值，涉及云上贵州、大数据交易所等
-* [《上海市数字经济发展“十四五”规划》-202110](https://aqwg.shio.gov.cn/TrueCMS//shxwbgs/2021n_10y/content/6adbdefc-29cd-49f5-b797-852272f84f83.html) | 涉及数据安全和隐私计算
-* [《广东-数字经济促进条例》-202108](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 各行业数字化
-* [《江苏省“十四五”数字经济发展规划》-202108](http://www.jiangsu.gov.cn/art/2021/8/26/art_46144_9989328.html) | 加快数据要素市场化
-* [《浙江省数字经济发展“十四五”规划》-202106](https://www.zj.gov.cn/art/2021/6/29/art_1229019365_2306544.html)| 数据治理和数据共享
+* **整体纲要**：
+    * [中共中央国务院关于构建更加完善的要素市场化配置和机制的意见 - 202004](http://www.scopsr.gov.cn/xwzx/szyw/202004/t20200410_374261.html) 数据作为继土地、劳动力、资本和技术之后的第五生产要素
+    * [国务院-“十四五”数字经济发展规划 -202112](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm) 列举了涉及数据要素，隐私相关的省份。
+* **各省政策**
+    * [《西安市“十四五”数字经济发展规划》-202211](http://www.xa.gov.cn/gk/zcfg/szbf/6360eba3f8fd1c4c2124f1e1.html) | 强化数字基建、数据要素、数字技术三大要素
+    * [《广东省数字经济发展指引1.0》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 数据作为关键生产要素的保护
+    * [《苏州市数字经济“十四五”发展规划的通知》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 强调数据治理治理
+    * [《江西“十四五”数字经济发展规划》-202206](http://www.gov.cn/xinwen/2022-06/24/content_5697653.htm) | 加“数”前行，抢占“智”高点，数据治理水平提升
+    * [《黑龙江-促进大数据发展应用条例》-202205](http://www.hljrd.gov.cn/web/datainfo/local-law-detail.html?nid=7329&cn=local-law&li=y) | 数据保护为主
+    * [《北京市数字经济全产业链开放发展行动方案》-202205](http://www.beijing.gov.cn/zhengce/zhengcefagui/202205/t20220531_2724836.html) | 加强数字经济治理，充分释放数据要素价值
+    * [《河南-"十四五"数字经济和信息化发展规划》-202202](https://dsj.henan.gov.cn/2022/02-17/2400150.html) | 数据治理和安全保障，郑洛数字经济试验区
+    * [《广西数字经济发展三年行动计划（2021—2023年）》-202201](http://gxxxzx.gxzf.gov.cn/dsjjsfw/zzqdsjzcjbzgf/t11379096.shtml) | 加快培育数据要素市场
+    * [《杭州-数字经济发展“十四五”规划》-202112](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 做领头羊，各个指标非常具体
+    * [《重庆-数字经济发展“十四五”规划》-202112](http://fzggw.cq.gov.cn/zwgk/zfxxgkml/zcjd/202112/t20211209_10117075.html) | 数据治理和数据要素的价值
+    * [《四川省“十四五”数字经济发展规划》-202111](https://www.sc.gov.cn/10462/10464/10797/2021/11/24/56633b06026d4d4fba328fc70a1bebd4.shtml) | 发挥数据要素的基础性作用
+    * [《青海省“十四五”工业和信息化发展规划》-202111](http://www.qinghai.gov.cn/xxgk/xxgk/fd/ghxx/202112/t20211207_187863.html) | 加快关键数字技术攻关
+    * [《内蒙古自治区“十四五”数字经济发展规划》-202110](https://www.nmg.gov.cn/zwgk/zfxxgk/zfxxgkml/202111/t20211103_1922188.html) | 加强数据流通交易、数字丝绸之路的战略枢纽
+    * [《湖北-数字经济发展“十四五”规划》-202110](http://www.hubei.gov.cn/zfwj/ezf/202111/t20211119_3870661.shtml) | 十大先导工程-光谷、5G等
+    * [《贵州-数字经济发展“十四五”规划》-202110](https://dsj.guizhou.gov.cn/zwgk/xxgkml/ghjh/202112/P020211230614025691442.pdf) | 数据治理和数据价值，涉及云上贵州、大数据交易所等
+    * [《上海市数字经济发展“十四五”规划》-202110](https://aqwg.shio.gov.cn/TrueCMS//shxwbgs/2021n_10y/content/6adbdefc-29cd-49f5-b797-852272f84f83.html) | 涉及数据安全和隐私计算
+    * [《广东-数字经济促进条例》-202108](http://gdii.gd.gov.cn/szfgfxwj/content/post_3459411.html) | 各行业数字化
+    * [《江苏省“十四五”数字经济发展规划》-202108](http://www.jiangsu.gov.cn/art/2021/8/26/art_46144_9989328.html) | 加快数据要素市场化
+    * [《浙江省数字经济发展“十四五”规划》-202106](https://www.zj.gov.cn/art/2021/6/29/art_1229019365_2306544.html)| 数据治理和数据共享
+* **数字交易市场**
+    * TODO 待补充
 
 #### 重要认证指南
 * [TRUSTe](https://trustarc.com/) - 美国隐私认证权威机构TrustArc关于隐私合规和数据治理方面比较权威的认证
@@ -153,6 +158,8 @@
 ## 相关白皮书
 
 * 国内白皮书（评分纯属个人意见，5分推荐，4分值得一读，3分有时间就看看，2分不值得，1分垃圾）
+    * [2022-华为-《隐私保护治理白皮书》](./files/whitepaper/2022-华为-隐私保护治理白皮书.pdf)
+        * **3分** | 没有特别多新东西，还是比较体系化的介绍，[参考分析](https://github.com/international-explore/awesome-privacy-chinese/blob/main/news/202211.md#%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%A1%E5%8F%91%E5%B8%83%E9%9A%90%E7%A7%81%E4%BF%9D%E6%8A%A4%E6%B2%BB%E7%90%86%E7%99%BD%E7%9A%AE%E4%B9%A6)
     * [2022-阿里云安全-《2022云上政府数据安全指南》](./files/whitepaper/2022-阿里云-云上政府数据安全指南.pdf)
         * **5分** | 对于安全的整体框架，落地路径，关键技术和场景都给出了非常清晰的建议
     * [2022-北京政府-自动驾驶数据分类分级白皮书](./files/whitepaper/2022-北京市-北京市高级别自动驾驶示范区数据分类分级方法白皮书.pdf)
