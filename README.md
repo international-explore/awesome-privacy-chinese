@@ -1,4 +1,4 @@
-# 国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese) 
+# 国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese)
 
 
 > 旨在收集和分享隐私合规相关的一些领域知识和技术信息，涵盖且不限于法律法规、业内白皮书、隐私计算技术、相关创业企业、基础概念、词汇等。
@@ -54,7 +54,7 @@
 * [《数据网络安全管理条例》- 2021/11/14](http://www.cac.gov.cn/2021-11/14/c_1638501991577898.htm) |  [网络数据安全管理条例学习](https://mp.weixin.qq.com/s?__biz=MzIwNTA4NjAxMw==&mid=2648971266&idx=1&sn=12be3b5cab15294ff4530022831dec35&chksm=8f26f450b8517d462e0bce18fbf1e5898e475f8ce50d5ec621758e6893dc3948e20ee72d0742&token=557650794&lang=zh_CN#rd)
 * [《关键信息基础设施安全管理条例》- 2021/09/01](http://www.gov.cn/zhengce/content/2021-08/17/content_5631671.htm) | [官方答记者问](https://mp.weixin.qq.com/s/7epChMnwiZU3mUV_dGawqA)
 * [《网络安全审查办法》- 2022/02/15](http://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm) | [官方答记者问](https://mp.weixin.qq.com/s/Avfc4EbEAEKkuo0CTDH7sQ)
-  
+
 
 ### 隐私相关领域法规/条例
   #### 跨境相关
@@ -64,35 +64,35 @@
    * [个人信息跨境处理活动安全认证规范 - 2022/06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
    * [国家互联网信息办公室发布《数据出境安全评估申报指南（第一版）》-2022/08/23](http://www.cac.gov.cn/2022-08/31/c_1663568169996202.htm)
    * 目前已经开放数据出境评估的省：山东、海南、
- 
+
   #### 汽车出行行业
   * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
   * [GB/T 42017-2022 - 网络预约汽车服务数据安全要求](https://www.tc260.org.cn/file/2020-11-10/d7f8726e-d793-4ac2-8a5e-1a2ae701dd66.pdf) 国内网约车数据安全指南，20230501生效
   * [GB/T 42871-2022 - 汽车数据处理安全要求](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4D3C5BB193E079AD54294E5845749B8F) 国内汽车数据处理安全要求，[相关解释参考](./files/assets/汽车数据处理安全要求图片.jpeg)
   * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
-   
-    
+
+
   #### 生物信息相关
   * [BIPA - Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57) 生物信息隐私法案
   * [44 GPA，关于面部识别个人数据框架](https://globalprivacyassembly.org/wp-content/uploads/2022/11/15.1.c.Resolution-on-Principles-and-Expectations-for-the-Appropriate-Use-of-Personal-Information-in-Facial-Recognition-Technolog.pdf) 参考具体[6条原则](https://github.com/international-explore/awesome-privacy-chinese/blob/main/principles.md#44%E5%B1%8A%E9%9A%90%E7%A7%81%E5%A4%A7%E4%BC%9A-%E9%9D%A2%E9%83%A8%E8%AF%86%E5%88%AB%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E6%A1%86%E6%9E%B6)
   * [FTC 人脸数据使用最佳实践](./files/assets/美国FTC报告-人脸最佳实践.pdf) 提出了三个基本原则，参考[隐私原则](https://github.com/international-explore/awesome-privacy-chinese/blob/main/principles.md)
-  
+
   #### 儿童隐私相关
   * [COPPA - children's online privacy protection rule](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) - FTC的儿童隐私保护法规
   * [43 GPA 关于儿童数字权利的决议](https://globalprivacyassembly.org/wp-content/uploads/2021/10/20211025-GPA-Resolution-Childrens-Digital-Rights-Final-Adopted.pdf)
 
   #### 算法人工智能相关
   * [欧洲《人工智能法案》EU AI Art- 2022/05](https://artificialintelligenceact.eu/) | [timeline](https://www.accessnow.org/the-eu-ai-act-proposal-a-timeline/)
-  * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA) 
-    
+  * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA)
+
   #### 推荐数字广告相关
-  * [欧洲《数字市场法案》(DMA) - 2022/10](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package)   
+  * [欧洲《数字市场法案》(DMA) - 2022/10](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package)
   * [欧洲《数字服务法案》(DSA) - 2022/10](https://competition-policy.ec.europa.eu/sectors/ict/dma_en)
   * [英国《Privacy and Electronic Communications Regulations PECR》](https://ico.org.uk/for-organisations/guide-to-pecr/what-are-pecr/) | [ICO direct-marketing-guidance](https://ico.org.uk/media/1555/direct-marketing-guidance.pdf)
 
   #### 隐私计算相关
   * [IEEE SA P3117 首个隐私计算互联互通标准 - 2022-06](https://sagroups.ieee.org/3117/) 信通院牵头，旨在打破计算孤岛，实现互联互通
- 
+
 
   #### 各地数字经济相关
 * **整体纲要**：
@@ -119,31 +119,31 @@
     * [《江苏省“十四五”数字经济发展规划》-202108](http://www.jiangsu.gov.cn/art/2021/8/26/art_46144_9989328.html) | 加快数据要素市场化
     * [《浙江省数字经济发展“十四五”规划》-202106](https://www.zj.gov.cn/art/2021/6/29/art_1229019365_2306544.html)| 数据治理和数据共享
 * **数字交易市场** - 按照成立时间排序
-    * [贵阳大数据交易所 - 20150414 - 贵阳观山湖区](https://www.gzdex.com.cn/) 
+    * [贵阳大数据交易所 - 20150414 - 贵阳观山湖区](https://www.gzdex.com.cn/)
         * 目标：开放、规范、安全、可控
         * 关键数据：391家企业，491个产品，109笔交易
         * 交易市场：数据产品(数据+API)、算法工具（平台+终端）、算力资源（云服务）
-    * [北京国际大数据交易 - 20210331 - 北京朝阳](https://www.bjidex.com/) 
+    * [北京国际大数据交易 - 20210331 - 北京朝阳](https://www.bjidex.com/)
         * 目标：国内领先数据交易基础设施，国际重要数据跨境流通枢纽。
         * 其他：**首个数据跨境托管服务**
-    * [北方大数据交易所 - 202110 - 天津滨海新区](https://www.datadmz.com/zh/) 
+    * [北方大数据交易所 - 202110 - 天津滨海新区](https://www.datadmz.com/zh/)
         * 目标：智能驱动，数据素化市场化
         * 交易理念：合规、安全、秩序的数据产品交易流程（核身份、查来源、留记录）
         * 模式：“政府监管、国资入股、市场化运营” 的模式（没有交易流程）
-    * [上海数据交易所 - 20211125 - 上海浦东](https://www.chinadep.com/) 
+    * [上海数据交易所 - 20211125 - 上海浦东](https://www.chinadep.com/)
         * 目标：成为引领性的国家数据交易所 - 汇天下数据而通之 聚天下数据而用之
         * 关键数据：接入企业几十家，数字产品4个（都是免费的）。
         * 核心流程：交易前质量、合规、资产评估，交易中查询、识别、建模，交易后核验和仲裁。
         * 其他：模块包括数据产品，数字资产，交易方式等，子网站-[中国数据资产网](https://dat.chinadep.com/)
-    * [福建大数据交易所 - 20220722 - 福州新区](-) 
+    * [福建大数据交易所 - 20220722 - 福州新区](-)
         * 目标：“放飞数字梦想”，围绕‘数据价值化’全过程，统筹推进全省公共数据资源开放开发
-    * [湖南大数据交易所文化大数据交易中心 - 20220907 - 长沙天心经开区](https://www.chinadep.com/) 
+    * [湖南大数据交易所文化大数据交易中心 - 20220907 - 长沙天心经开区](https://www.chinadep.com/)
         * 目标：精准定位于“华夏文化传播与应用”文化大数据场景的细分领域
-    * [广州数据交易所 - 20220930 - 广州南沙](http://zfsg.gd.gov.cn/xxfb/ywsd/content/post_4023613.html) 
+    * [广州数据交易所 - 20220930 - 广州南沙](http://zfsg.gd.gov.cn/xxfb/ywsd/content/post_4023613.html)
         * 目标：“可用不可见、可控可计量”以及“数据不出域”
         * 原则：无场景不登记、无登记不交易、无合规不上架
         * 关键数据：交易标的超300个，进场交易标的超200个，并达成首日交易总额超1.55亿元（没有官网）
-    
+
 
 #### 重要认证指南
 * [TRUSTe](https://trustarc.com/) - 美国隐私认证权威机构TrustArc关于隐私合规和数据治理方面比较权威的认证
@@ -275,7 +275,7 @@
     * [flow security - 数据安全平台](https://www.flowsecurity.com/) |理念：Securing Data Wherever it Flows
     * [adzapier - CMP同意管理](https://adzapier.com/) |理念：have access to meaningful data
     * [cloaked - 号码和邮箱保护](https://www.cloaked.app/) |理念：Never feel forced to share your personal phone number or email.
-    * [pixalate - 儿童隐私保护](https://www.pixalate.com/) |理念：fraud protection, privacy, and compliance analytics platform 
+    * [pixalate - 儿童隐私保护](https://www.pixalate.com/) |理念：fraud protection, privacy, and compliance analytics platform
     * [safebase - 安全管理中心](https://safebase.io/) |理念：Showcase your security program and streamline workflows.
     * [shardsecure - 数据合规安全](https://shardsecure.com/overview) |理念：Data resilience, security, and privacy for hybrid- and multi-cloud environments.
     * [getvisibility - 数据标注分级和保护](https://www.getvisibility.com/) | 理念：发现、分级、保护
@@ -375,7 +375,7 @@
         * [mpc4j](https://github.com/alibaba-edu/mpc4j) 阿里开源的安全多方计算库
         * [fedlearner](https://github.com/bytedance/fedlearner) 头条的多方协作机器学习框架
     * 联邦学习（FL-Federated Learning）
-        * [FateAI](https://github.com/FederatedAI/FATE) 联邦学习工业级开源框架  
+        * [FateAI](https://github.com/FederatedAI/FATE) 联邦学习工业级开源框架
         * [federated](https://github.com/tensorflow/federated) google开源的基于tensorflow的联邦学习框架
         * [FederatedScope](https://github.com/alibaba/FederatedScope) 阿里开源的联邦学习平台
     * 可信执行环境（FEE-Trusted Execution Environment）
@@ -388,7 +388,7 @@
         * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
         * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
     * 差分隐私（DP-Differential Privacy）
-  
+
 
 * 隐私存储
     * [immudb](https://github.com/codenotary/immudb)  零信任数据库，基于Merkle Tree来存储数据并保持其完整性
@@ -427,7 +427,7 @@
 ## 微信公众号
 关于隐私计算和数据安全的一些公众号，几乎都是周更常看的，如果链接失效，建议直接采用sogou搜索名称即可 [跳转搜索](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8&ie=utf8&_sug_=n&_sug_type_=)
 
-> 
+>
 
 * 隐私计算联盟 - 信通院 -关于隐私计算交流的组织。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337630&ver=1&signature=s9bXdU2y-95OhcE4*Pa9QAIQhHhhVIeuJIQd3ZHzemGgJU0k*9pBOJG6RRsl713qRe0JozbzT5OBXEvL0E52WQ==)
 * 开放隐私计算 - 国内隐私计算交流的社区，更新频繁。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337604&ver=1&signature=dhiWT6MvfCePqPWmRyU6OkEiXn0c-OmEsyC08VmWnCq40Cme1dzAWvsiOj89zia-HighuWR5PwzgN22wcIcvmQ==)
@@ -457,6 +457,7 @@
     * [Awesome-Federated-Learning-on-Graph-and-Tabular-Data](https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data) - 联邦学习在图和表数据上的应用以及联邦学习开源框架和顶刊顶会上的论文
     * [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning/blob/master/README.md) - 联邦学习相关
     * [awesome-zk](https://github.com/ventali/awesome-zk) - 零知识证明英文资料
+    * [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) - 可信深度学习相关文献列表
 * 政府相关
     * [新加坡 pdpc](https://www.pdpc.gov.sg/) - 新加坡个人数据保护组织
     * [人民数保](https://pdc.peopleyun.cn/home) - 人民网提供的二次数据上链和确权、共享的平台，目前非常初期。 | [PDC白皮书](https://pdc.peopleyun.cn/dataSourceCentre?tabIndex=1)
