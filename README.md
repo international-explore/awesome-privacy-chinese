@@ -71,6 +71,11 @@
   * [GB/T 42871-2022 - 汽车数据处理安全要求](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4D3C5BB193E079AD54294E5845749B8F) 国内汽车数据处理安全要求，[相关解释参考](./files/assets/汽车数据处理安全要求图片.jpeg)
   * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
 
+  #### 关键基础设施相关
+  * [中国 GB/T 39204-2022《信息安全技术 关键信息基础设施安全保护要求》](https://std.samr.gov.cn//gb/search/gbDetailed?id=EC5E3D1483365849E05397BE0A0A97C8) **分析识别、安全防护、检测评估、监测预警、主动防御、事件处置** 6个方面
+  * [美国 2020 NIST CSF《改善关键基础设施网络安全的框架》](https://www.gsa.gov/technology/technology-products-services/it-security/nist-cybersecurity-framework-csf) Identify、Protect、Detect、Respond、Recover五个方面
+  * [欧洲 2014 ENISA 《Technical Guidelines for the implementation of minimum security measures for Digital Service Providers》](https://www.enisa.europa.eu/publications/minimum-security-measures-for-digital-service-providers) 《数字服务提供商实施最低安全控制措施技术指南》
+
 
   #### 生物信息相关
   * [BIPA - Biometric Information Privacy Act](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=3004&ChapterID=57) 生物信息隐私法案
