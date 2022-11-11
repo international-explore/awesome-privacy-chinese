@@ -43,7 +43,7 @@
 * [PDPA](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) - 新加坡的个人隐私保护法 
 * [PoPIA](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf) - 南非的隐私保护法，颁布于2013年
 * [HIPAA](https://www.hhs.gov/hipaa/index.html)- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
-* [ADPPA]((https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/))- 美国数据隐私和保护法案，20220606发布草案 
+* [ADPPA](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)- 美国数据隐私和保护法案，20220606发布草案 
 * [Privacy Art 1988](https://www.oaic.gov.au/privacy/the-privacy-act) - 澳大利亚隐私法案
 * [PDPA](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf) - 泰国个人数据保护法，20220607生效 
 
