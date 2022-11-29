@@ -105,6 +105,7 @@
     * [国务院-“十四五”数字经济发展规划 -202112](http://www.gov.cn/zhengce/content/2022-01/12/content_5667817.htm) 数据要素是数字经济深化发展的核心引擎
     * [国务院关于加快建设全国统一大市场的意见 -202204](http://www.gov.cn/zhengce/2022-04/10/content_5684385.htm) 战略高度加快建设全国统一大市场
 * **各省政策**
+    * [《北京市数字经济促进条例》-202211](http://www.beijing.gov.cn/ywdt/gzdt/202211/t20221126_2866485.html) | “促进型”立法护航数字经济高质量发展
     * [《西安市“十四五”数字经济发展规划》-202211](http://www.xa.gov.cn/gk/zcfg/szbf/6360eba3f8fd1c4c2124f1e1.html) | 强化数字基建、数据要素、数字技术三大要素
     * [《广东省数字经济发展指引1.0》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 数据作为关键生产要素的保护
     * [《苏州市数字经济“十四五”发展规划的通知》-202207](http://www.suzhou.gov.cn/szsrmzf/zfbgswj/202207/8fb665481a7f4b31b0e3b1f5a009a7d0.shtml) | 强调数据治理治理
