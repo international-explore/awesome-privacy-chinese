@@ -39,12 +39,14 @@
 ### 重要海外法规
 * [GDPR](https://gdpr-info.eu/) - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
 * [CCPA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375) - 加州消费者隐私保护法规，是美国隐私保护的代表法规，颁布于2018年
+* [COPPA](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) - 在线儿童隐私保护法案 （GDPR、CCPA、COPPA是之前全球罚款TOP3）
 * [LGPD](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) - 巴西隐私保护法，整体效仿GDPR，生效与2020年 | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
 * [PPC](https://www.ppc.go.jp/en/legal/)  - 日本的隐私保护法，2020年更新
 * [PDPA](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) - 新加坡的个人隐私保护法
 * [PoPIA](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf) - 南非的隐私保护法，颁布于2013年
 * [HIPAA](https://www.hhs.gov/hipaa/index.html)- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
 * [ADPPA](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)- 美国数据隐私和保护法案，20220606发布草案
+* [FERPA](https://www2.ed.gov/policy/gen/guid/fpco/ferpa/index.html) - 家庭教育隐私保护的法案
 * [Privacy Art 1988](https://www.oaic.gov.au/privacy/the-privacy-act) - 澳大利亚隐私法案
 * [PDPA](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf) - 泰国个人数据保护法，20220607生效
 
