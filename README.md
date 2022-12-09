@@ -17,6 +17,7 @@
 * [🔭 隐私基础概念](./principles.md) - 隐私设计的相关的基础概念、最佳实践、相关模型
 * [📙 隐私基础词汇](./glossary.md) - 隐私相关的一些基础英语简称和单词
 * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
+    * [2022 年 12 月隐私新闻](./news/202212.md)
     * [2022 年 11 月隐私新闻](./news/202211.md)
     * [2022 年 10 月隐私新闻](./news/202210.md)
     * [2022 年 9 月隐私新闻](./news/202209.md)
@@ -39,13 +40,13 @@
 * [GDPR](https://gdpr-info.eu/) - 欧盟隐私法规，也是全球隐私的标杆法规，颁布于2016年 | [GDPR中文PDF](./files/laws/欧盟《通用数据保护条例》GDPR-高质量译文(全)%20.pdf)  | [awesome GDPR](https://github.com/bakke92/awesome-gdpr#readme)
 * [CCPA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375) - 加州消费者隐私保护法规，是美国隐私保护的代表法规，颁布于2018年
 * [LGPD](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) - 巴西隐私保护法，整体效仿GDPR，生效与2020年 | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
-* [PPC](https://www.ppc.go.jp/en/legal/)  - 日本的隐私保护法，2020年更新 
-* [PDPA](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) - 新加坡的个人隐私保护法 
+* [PPC](https://www.ppc.go.jp/en/legal/)  - 日本的隐私保护法，2020年更新
+* [PDPA](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) - 新加坡的个人隐私保护法
 * [PoPIA](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf) - 南非的隐私保护法，颁布于2013年
 * [HIPAA](https://www.hhs.gov/hipaa/index.html)- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
-* [ADPPA](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)- 美国数据隐私和保护法案，20220606发布草案 
+* [ADPPA](https://thehill.com/policy/technology/3522026-why-a-bipartisan-data-privacy-proposal-faces-an-uphill-battle/)- 美国数据隐私和保护法案，20220606发布草案
 * [Privacy Art 1988](https://www.oaic.gov.au/privacy/the-privacy-act) - 澳大利亚隐私法案
-* [PDPA](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf) - 泰国个人数据保护法，20220607生效 
+* [PDPA](https://thainetizen.org/wp-content/uploads/2019/11/thailand-personal-data-protection-act-2019-en.pdf) - 泰国个人数据保护法，20220607生效
 
 ### 重要国内法规和条例
 * [《个人保护法》- 2021/11/01](http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml) | [个保法十大亮点](https://mp.weixin.qq.com/s/EOEYNAeG5Cxq3e3G4Mk87g) | [个保法专家解读](https://mp.weixin.qq.com/s/8-CTTz2Iv4bOlCbPbvNl5w)
@@ -64,7 +65,7 @@
    * [个人信息跨境处理活动安全认证规范 - 2022/06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
    * [国家互联网信息办公室发布《数据出境安全评估申报指南（第一版）》-2022/08/23](http://www.cac.gov.cn/2022-08/31/c_1663568169996202.htm)
    * [信安标委《个人信息跨境处理活动安全认证规范V2.0（征求意见稿）》发布](https://www.tc260.org.cn/front/postDetail.html?id=20221108180519)
- 
+
   #### 汽车出行行业
   * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
   * [GB/T 42017-2022 - 网络预约汽车服务数据安全要求](https://www.tc260.org.cn/file/2020-11-10/d7f8726e-d793-4ac2-8a5e-1a2ae701dd66.pdf) 国内网约车数据安全指南，20230501生效
@@ -135,23 +136,23 @@
         * [浙江大数据交易中心 - 2016 - 浙江杭州](http://www.zjdex.com/) - 大数据存储、清洗、分析、发掘和交易。
         * 亚欧大数据交易中心 - 2016 - 乌鲁木齐 - 数据采集、清洗建模和大数据交易。
     * 2.0阶段（2021-当前） - ”数据“写入生产要素，围绕数据要素流通展开
-        * [北京国际大数据交易 - 20210331 - 北京朝阳](https://www.bjidex.com/) 
+        * [北京国际大数据交易 - 20210331 - 北京朝阳](https://www.bjidex.com/)
             * 目标：国内领先数据交易基础设施，国际重要数据跨境流通枢纽。
             * 其他：**首个数据跨境托管服务**
-        * [北方大数据交易所 - 202110 - 天津滨海新区](https://www.datadmz.com/zh/) 
+        * [北方大数据交易所 - 202110 - 天津滨海新区](https://www.datadmz.com/zh/)
             * 目标：智能驱动，数据素化市场化
             * 交易理念：合规、安全、秩序的数据产品交易流程（核身份、查来源、留记录）
             * 模式：“政府监管、国资入股、市场化运营” 的模式（没有交易流程）
-        * [上海数据交易所 - 20211125 - 上海浦东](https://www.chinadep.com/) 
+        * [上海数据交易所 - 20211125 - 上海浦东](https://www.chinadep.com/)
             * 目标：成为引领性的国家数据交易所 - 汇天下数据而通之 聚天下数据而用之
             * 关键数据：接入企业几十家，数字产品4个（都是免费的）。
             * 核心流程：交易前质量、合规、资产评估，交易中查询、识别、建模，交易后核验和仲裁。
             * 其他：模块包括数据产品，数字资产，交易方式等，子网站-[中国数据资产网](https://dat.chinadep.com/)
-        * [福建大数据交易所 - 20220722 - 福州新区](-) 
+        * [福建大数据交易所 - 20220722 - 福州新区](-)
             * 目标：“放飞数字梦想”，围绕‘数据价值化’全过程，统筹推进全省公共数据资源开放开发
-        * [湖南大数据交易所文化大数据交易中心 - 20220907 - 长沙天心经开区](https://www.chinadep.com/) 
+        * [湖南大数据交易所文化大数据交易中心 - 20220907 - 长沙天心经开区](https://www.chinadep.com/)
             * 目标：精准定位于“华夏文化传播与应用”文化大数据场景的细分领域
-        * [广州数据交易所 - 20220930 - 广州南沙](http://zfsg.gd.gov.cn/xxfb/ywsd/content/post_4023613.html) 
+        * [广州数据交易所 - 20220930 - 广州南沙](http://zfsg.gd.gov.cn/xxfb/ywsd/content/post_4023613.html)
             * 目标：“可用不可见、可控可计量”以及“数据不出域”
             * 原则：无场景不登记、无登记不交易、无合规不上架
             * 关键数据：交易标的超300个，进场交易标的超200个，并达成首日交易总额超1.55亿元（没有官网）
@@ -162,7 +163,7 @@
         * [深圳数据交易所挂牌成立 - 20221115 - 深圳福田](http://daam.bigdataplatform.org.cn/#/home)
             * 主要模块：交易平台、撮合平台、数据公正平台、数据要素等级平台、制度平台。
             * 主要特点：率先在全国开展数据商用分级、跨境交易等
-    
+
 
 #### 重要认证指南
 * [TRUSTe](https://trustarc.com/) - 美国隐私认证权威机构TrustArc关于隐私合规和数据治理方面比较权威的认证
