@@ -91,10 +91,10 @@
   * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
 
   #### 数据分级相关法规
-  * [《GB/T 35273-2020 个人信息安全规范》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E) | 分为个人信息PII和个人敏感信息PSII
+  * [《GB/T 35273-2020 个人信息安全规范》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E) | 分为个人信息PII和个人敏感信息SPII
   * [《GB/T 38667-2020 大数据数据分类指南》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=2C4F3A4EC9FFBC80ED85FE4C3C250AA6) | 高敏感、低敏感和不敏感
   * [《TC260-PG-20212A 网络数据分类指引》](https://www.tc260.org.cn/upload/2021-09-30/1633014582064034019.pdf) | 多维度：核心数据、重要数据、一般数据（又分四级）
-  * [《JR/T 0197-2020 金融数据安全分级指南》](https://std.samr.gov.cn/hb/search/stdHBDetailed?id=B081D125A6762DB8E05397BE0A0A5EA7) | 按照影响程度分五级，四个影响对象：国家安全、公众权益、个人隐私、企业权益
+  * [《JR/T 0197-2020 金融数据安全分级指南》](https://std.samr.gov.cn/hb/search/stdHBDetailed?id=B081D125A6762DB8E05397BE0A0A5EA7) | 五级四个影响对象：国家安全、公众权益、个人隐私、企业权益
   * [《JR/T 0158-2018 证券期货数据分级指南》](http://www.sse.com.cn/lawandrules/regulations/csrcannoun/c/c_20181018_4657878.shtml) | 分为四级：极高、高、中、低
   * [《GB/T 39725-2020 健康医疗数据安全指南》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=239351905E7B62A7DF537856738247CE) | 六类数据分五级
   * [《工业数据分类分级指南》-工信部2020](http://www.gov.cn/zhengce/zhengceku/2020-03/07/content_5488251.htm) | 七个域，分为三级
@@ -105,7 +105,7 @@
   * [DB2201/T 17-2020 长春分类分级](https://std.samr.gov.cn/db/search/stdDBDetailed?id=D7F324B99ECCE20EE05397BE0A0A54CC) | 三个层次：一般数据、一般敏感数据、高度敏感数据。
 
   #### 关键基础设施相关
-  * [中国 GB/T 39204-2022《信息安全技术 关键信息基础设施安全保护要求》](https://std.samr.gov.cn//gb/search/gbDetailed?id=EC5E3D1483365849E05397BE0A0A97C8) **分析识别、安全防护、检测评估、监测预警、主动防御、事件处置** 6个方面
+  * [中国 GB/T 39204-2022《信息安全技术 关键信息基础设施安全保护要求》](https://std.samr.gov.cn//gb/search/gbDetailed?id=EC5E3D1483365849E05397BE0A0A97C8) 分析识别、安全防护、检测评估、监测预警、主动防御、事件处置6个方面
   * [美国 2020 NIST CSF《改善关键基础设施网络安全的框架》](https://www.gsa.gov/technology/technology-products-services/it-security/nist-cybersecurity-framework-csf) Identify、Protect、Detect、Respond、Recover五个方面
   * [欧洲 2014 ENISA 《Technical Guidelines for the implementation of minimum security measures for Digital Service Providers》](https://www.enisa.europa.eu/publications/minimum-security-measures-for-digital-service-providers) 《数字服务提供商实施最低安全控制措施技术指南》
 
