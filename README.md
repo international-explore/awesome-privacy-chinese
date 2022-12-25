@@ -412,15 +412,20 @@
         * [OpenHealth](https://github.com/QibingLee/OpenHealth) openmined开源的一个联邦学习框架
     * 可信执行环境（FEE-Trusted Execution Environment）
         * [asylo](https://github.com/google/asylo) google发起的TEE框架
+        * [kubeTEE](https://github.com/SOFAEnclave/KubeTEE) 蚂蚁开源的TEE框架
+        * [ltzvisor](https://github.com/tzvisor/ltzvisor) tzvisor维护的一个轻量级TrustZone辅助管理程序
         * [incubator-teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于Intel SGX的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
         * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
     * 同态加密（HE-Homomorphic Encryption）
+        * [SEAL](https://github.com/microsoft/SEAL) 微软开源的基于MIT协议的同态加密库
+        * [Cupcake](https://github.com/facebookresearch/Cupcake) facebook实现的一个基于R的同态加密库
+        * [openfhe](https://github.com/openfheorg/openfhe-development) 常见的FHE均有实现
+        * [HElib](https://github.com/homenc/HElib) 13年开源的一个同态加密库
         * [HEHub GitHub](https://github.com/primihub/HEhub) 原语科技开源的同态加密库
         * [HEU](https://github.com/secretflow/heu) 隐语子项目——同态加密计算引擎
     * 零知识证明（ZKP-zero knowledge proof）
         * [noir](https://github.com/noir-lang/noir) - domain specific language for zero knowledge proofs
         * [zklab](https://zklabs.io/#welcome) - Auditing Services for projects built on the Ethereum platform
-    * 差分隐私（DP-Differential Privacy）
 
 
 * 隐私存储
