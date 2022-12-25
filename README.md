@@ -41,7 +41,9 @@
 * [CCPA](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB375) - 加州消费者隐私保护法规，是美国隐私保护的代表法规，颁布于2018年
 * [COPPA](https://www.ftc.gov/legal-library/browse/rules/childrens-online-privacy-protection-rule-coppa) - 在线儿童隐私保护法案 （GDPR、CCPA、COPPA是之前全球罚款TOP3）
 * [LGPD](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) - 巴西隐私保护法，整体效仿GDPR，生效与2020年 | [LGPD中文PDF](./files/laws/巴西通用数据保护法_译文.pdf) | [政府工具包](https://www.gov.br/governodigital/pt-br/governanca-de-dados/guias-operacionais-para-adequacao-a-lgpd)
-* [PPC](https://www.ppc.go.jp/en/legal/)  - 日本的隐私保护法，2020年更新
+* [PPC](https://www.ppc.go.jp/en/legal/) | [APPI](https://www.cas.go.jp/jp/seisaku/hourei/data/APPI.pdf)  - 日本的隐私保护法，2020年更新
+* [PDL](http://publication.pravo.gov.ru/Document/View/0001202012300044) | 俄罗斯的隐私保护法，2020年更新
+* [PDPB](https://www.meity.gov.in/writereaddata/files/Personal_Data_Protection_Bill,2018.pdf) | 印度的隐私保护法，2018年更新
 * [PDPA](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) - 新加坡的个人隐私保护法
 * [PoPIA](https://www.justice.gov.za/inforeg/legal/InfoRegSA-act-2013-004.pdf) - 南非的隐私保护法，颁布于2013年
 * [HIPAA](https://www.hhs.gov/hipaa/index.html)- 美国针对医疗和保险行业的隐私保障法规，于1996颁布 | [developers guide](https://github.com/truevault/hipaa-compliance-developers-guide)
@@ -61,12 +63,25 @@
 
 ### 隐私相关领域法规/条例
   #### 跨境相关
+   * [信安标委《个人信息跨境处理活动安全认证规范V2.0（征求意见稿）》发布 - 2022/11/08](https://www.tc260.org.cn/front/postDetail.html?id=20221108180519)
+   * [国家互联网信息办公室发布《数据出境安全评估申报指南（第一版）》-2022/08/23](http://www.cac.gov.cn/2022-08/31/c_1663568169996202.htm)
    * [《数据出境安全评估办法》- 2022/07/07](http://www.gov.cn/zhengce/zhengceku/2022-07/08/content_5699851.htm) 数据出境必看，大厂数据出境申报指南
+   * [个人信息跨境处理活动安全认证规范 - 2022/06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
    * [《个人信息出境标准合同规定》- 2022/06/30](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202206/t20220630_458805.html) 中国个人信息出境的SCC，适合小厂，[参考](https://github.com/international-explore/awesome-privacy-chinese/blob/main/news/202206.md#%E4%B8%AA%E4%BA%BA%E4%BF%A1%E6%81%AF%E5%87%BA%E5%A2%83%E6%A0%87%E5%87%86%E5%90%88%E5%90%8C%E8%A7%84%E5%AE%9A%E5%BE%81%E6%B1%82%E6%84%8F%E8%A7%81%E7%A8%BF) 和 [官方答疑](https://mp.weixin.qq.com/s/I_8CoXlwvIAv4vdWQLANZw)
    * [《数据出境安全评估办法》-2021/10/29](http://www.moj.gov.cn/pub/sfbgw/lfyjzj/lflfyjzj/202110/t20211029_440268.html)
-   * [个人信息跨境处理活动安全认证规范 - 2022/06](https://www.tc260.org.cn/front/postDetail.html?id=20220624175016) 标准委员会出的，主要针对个人信息跨境处理的原则
-   * [国家互联网信息办公室发布《数据出境安全评估申报指南（第一版）》-2022/08/23](http://www.cac.gov.cn/2022-08/31/c_1663568169996202.htm)
-   * [信安标委《个人信息跨境处理活动安全认证规范V2.0（征求意见稿）》发布](https://www.tc260.org.cn/front/postDetail.html?id=20221108180519)
+   * [《数据安全法》- 2021/09/01](http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml) | 十一条关于数据跨境安全
+   * [《信息安全技术-个人信息安全桂发》- 2020/10/01](https://www.tc260.org.cn/piss/files/zwb.pdf) | 9.8 跨境的相关标准和规范，无内容
+   * [《海南自由贸易港建设总体方案》- 2020/06/01](http://www.gov.cn/zhengce/2020-06/01/content_5516608.htm) | 国务院文件，2025年前便利数据跨境传输，上海自贸规定类似
+   * [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | 十二条和三十七条牵涉出境
+   * [《澄清域外合法使用数据法案》- CLOUD 法案](https://www.congress.gov/bill/115th-congress/house-bill/4943) | 2018年美国的法案，美国政府授权执法机构可以调取境外存储信息
+   * [《隐私盾协议》-EU-US Privacy Shield](https://www.privacyshield.gov/welcome) | 2016年安全港协议失效后，欧盟和美国采用的跨境协议，目前也时效
+   * [《安全港协议》-Safe Harbor](https://www.ftc.gov/news-events/news/public-statements/useu-safe-harbor-agreement-what-it-what-it-says-about-future-cross-border-data-protection) | 2000年美国与欧盟的跨境协议，2015斯诺登时间后被判无效
+   * [新加坡 PDPA](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) | 出境到第三国需要签订合同
+   * [日本 APPI](https://www.cas.go.jp/jp/seisaku/hourei/data/APPI.pdf) | 提出了“基于信任的数据自由流通-DFFT”机制
+   * [俄罗斯 PDL](http://publication.pravo.gov.ru/Document/View/0001202012300044) | 公民个人数据必须本地化存储
+   * [印度 PDPB](https://www.meity.gov.in/writereaddata/files/Personal_Data_Protection_Bill,2018.pdf)| 本地化政策收美国阻拦，目前仅支付数据本地化
+   * [巴西 LGDP + 《中央银行条例》](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd)| 推行本地化，但技术条件不满足，推荐金融机构使用境内数据库
+
 
   #### 汽车出行行业
   * [UN/WP.29 R155 - 汽车信息安全](https://unece.org/transport/documents/2021/03/standards/un-regulation-no-155-cyber-security-and-cyber-security) R155是全球第一个汽车信息安全强制法规
@@ -418,6 +433,7 @@
         * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
     * 同态加密（HE-Homomorphic Encryption）
         * [SEAL](https://github.com/microsoft/SEAL) 微软开源的基于MIT协议的同态加密库
+        * [lattigo](https://github.com/tuneinsight/lattigo) go语言实现的基于lattic的同态加密库
         * [Cupcake](https://github.com/facebookresearch/Cupcake) facebook实现的一个基于R的同态加密库
         * [openfhe](https://github.com/openfheorg/openfhe-development) 常见的FHE均有实现
         * [HElib](https://github.com/homenc/HElib) 13年开源的一个同态加密库
