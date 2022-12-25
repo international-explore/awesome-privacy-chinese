@@ -92,6 +92,7 @@
   #### 算法人工智能相关
   * [欧洲《人工智能法案》EU AI Art- 2022/05](https://artificialintelligenceact.eu/) | [timeline](https://www.accessnow.org/the-eu-ai-act-proposal-a-timeline/)
   * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA)
+  * [《互联网信息服务深度合成管理规定》 - 2022/12/11](https://mp.weixin.qq.com/s/smtBcuXZzC6K1QYp90lCCA) | [官方答记者问](https://mp.weixin.qq.com/s/qFWNV52YoiVYqQSecOEyCQ)
 
   #### 推荐数字广告相关
   * [欧洲《数字市场法案》(DMA) - 2022/10](https://digital-strategy.ec.europa.eu/en/policies/digital-services-act-package)
@@ -394,13 +395,23 @@
         * [PrimiHub](https://github.com/primihub/primihub) 支持多方计算和隐私学习的一个开源平台
         * [百度点石隐私计算平台](https://dianshi.baidu.com/#/) 提供一站式隐私计算解决方案
     * 多方安全计算（MPC-Secure multi-party Computation）
+        * [pysyft](https://github.com/OpenMined/PySyft) openMined开源的多方安全计算库，目前比较活跃
+        * [TE-Encrypted](https://github.com/tf-encrypted/tf-encrypted) 阿里开源的基于Tensor Flow的多方安全计算
         * [mpc4j](https://github.com/alibaba-edu/mpc4j) 阿里开源的安全多方计算库
         * [fedlearner](https://github.com/bytedance/fedlearner) 头条的多方协作机器学习框架
+        * [private join and compute](https://github.com/google/private-join-and-compute) google开源的多方安全计算库
     * 联邦学习（FL-Federated Learning）
-        * [FateAI](https://github.com/FederatedAI/FATE) 联邦学习工业级开源框架
+        * [PaddleFL](https://github.com/PaddlePaddle/PaddleFL) 百度开源的基于paddlepaddle的联邦学习框架
+        * [crypTen](https://github.com/facebookresearch/CrypTen) facebook开源的基于pytorch的联邦学习框架
+        * [FateAI](https://github.com/FederatedAI/FATE) 微众发起的联邦学习工业级开源框架，目前比较活跃
         * [federated](https://github.com/tensorflow/federated) google开源的基于tensorflow的联邦学习框架
         * [FederatedScope](https://github.com/alibaba/FederatedScope) 阿里开源的联邦学习平台
+        * [mindspore](https://github.com/mindspore-ai/mindspore) 华为开源的一个适用于云边端的新型开源学习训练和联邦学习的框架，比较活跃
+        * [PyVertical](https://github.com/OpenMined/PyVertical) 华为开源的一个适用于云边端的新型开源学习训练和联邦学习的框架，比较活跃
+        * [openfl](https://github.com/intel/openfl) intel维护的一个联邦学习框架
+        * [OpenHealth](https://github.com/QibingLee/OpenHealth) openmined开源的一个联邦学习框架
     * 可信执行环境（FEE-Trusted Execution Environment）
+        * [asylo](https://github.com/google/asylo) google发起的TEE框架
         * [incubator-teaclave](https://github.com/apache/incubator-teaclave) 百度发起的基于Intel SGX的通用安全计算平台，[简介链接](https://anquan.baidu.com/article/1317)
         * [incubator-teaclave-trustzone-sdk](https://github.com/apache/incubator-teaclave-trustzone-sdk) 百度Teaclave TrustZone SDK 是OP-TEE官方指定的Rust开发环境
     * 同态加密（HE-Homomorphic Encryption）
