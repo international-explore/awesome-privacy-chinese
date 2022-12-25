@@ -73,14 +73,14 @@
    * [《信息安全技术-个人信息安全桂发》- 2020/10/01](https://www.tc260.org.cn/piss/files/zwb.pdf) | 9.8 跨境的相关标准和规范，无内容
    * [《海南自由贸易港建设总体方案》- 2020/06/01](http://www.gov.cn/zhengce/2020-06/01/content_5516608.htm) | 国务院文件，2025年前便利数据跨境传输，上海自贸规定类似
    * [《网络安全法》- 2017/06/01](http://www.cac.gov.cn/2016-11/07/c_1119867116.htm) | 十二条和三十七条牵涉出境
-   * [《澄清域外合法使用数据法案》- CLOUD 法案](https://www.congress.gov/bill/115th-congress/house-bill/4943) | 2018年美国的法案，美国政府授权执法机构可以调取境外存储信息
-   * [《隐私盾协议》-EU-US Privacy Shield](https://www.privacyshield.gov/welcome) | 2016年安全港协议失效后，欧盟和美国采用的跨境协议，目前也时效
+   * [《澄清域外合法使用数据法案》- CLOUD 法案](https://www.congress.gov/bill/115th-congress/house-bill/4943) | 美国政府授权执法机构可以调取境外存储信息
+   * [《隐私盾协议》-EU-US Privacy Shield](https://www.privacyshield.gov/welcome) | 2016年安全港协议失效后，欧盟和美国采用的跨境协议，2020时效
    * [《安全港协议》-Safe Harbor](https://www.ftc.gov/news-events/news/public-statements/useu-safe-harbor-agreement-what-it-what-it-says-about-future-cross-border-data-protection) | 2000年美国与欧盟的跨境协议，2015斯诺登时间后被判无效
    * [新加坡 PDPA](https://www.pdpc.gov.sg/Overview-of-PDPA/The-Legislation/Personal-Data-Protection-Act) | 出境到第三国需要签订合同
    * [日本 APPI](https://www.cas.go.jp/jp/seisaku/hourei/data/APPI.pdf) | 提出了“基于信任的数据自由流通-DFFT”机制
    * [俄罗斯 PDL](http://publication.pravo.gov.ru/Document/View/0001202012300044) | 公民个人数据必须本地化存储
-   * [印度 PDPB](https://www.meity.gov.in/writereaddata/files/Personal_Data_Protection_Bill,2018.pdf)| 本地化政策收美国阻拦，目前仅支付数据本地化
-   * [巴西 LGDP + 《中央银行条例》](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd)| 推行本地化，但技术条件不满足，推荐金融机构使用境内数据库
+   * [印度 PDPB](https://www.meity.gov.in/writereaddata/files/Personal_Data_Protection_Bill,2018.pdf) | 本地化政策收美国阻拦，目前仅支付数据本地化
+   * [巴西 LGDP + 《中央银行条例》](https://www.gov.br/cidadania/pt-br/acesso-a-informacao/lgpd) | 推行本地化，但技术条件不满足，推荐金融机构使用境内数据库
 
 
   #### 汽车出行行业
