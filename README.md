@@ -509,7 +509,9 @@
 * 阿里数据安全研究院 - 阿里的数据安全研究。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666338308&ver=1&signature=IJ3JdMISbuZMVMDCfrDJGFWa3G3XBmWJckC84h-Q82b1*2UBt8UdirhuQsLAuYKUqQgGh1Tk1VlCBMFddl6CJQ==)
 * 数据安全治理专委会 - 浙江省网络空间安全协会数据安全治理专委会公众号，会推送一些政策新闻等。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337324&ver=1&signature=LCUKxhrvdUn4UHNdyDUDIrfceWgKm*4UAannUe29k5KTUZVFu3Sl5wiR*J*Gd0OEVAn75NWV43oIMmYPwiNRqA==)
 
-
+## 重要会议
+* 数据安全治理峰会
+    * 第2届：2023年1月，主题：“筑牢安全根基 促进数据利用”；主办反：信通院、通信标准协会
 
 ## 网站外链
 
