@@ -17,7 +17,7 @@
 * [🔭 隐私基础概念](./principles.md) - 隐私设计的相关的基础概念、最佳实践、相关模型
 * [📙 隐私基础词汇](./glossary.md) - 隐私相关的一些基础英语简称和单词
 * [🗞️ 相关新闻](./news.md) - 隐私相关时事新闻收集
-    * [2022 年 新闻归档](./news/2022%E5%B9%B4%E6%B1%87%E6%80%BB%E7%89%88%E6%9C%AC.md)
+    * [2022年 新闻归档和汇总](./news/2022_ALL.md)
 
 
 ## 隐私法规
@@ -209,13 +209,15 @@
 * 全球重要监管机构
     * [EDPB- European Data Protection Board](https://edpb.europa.eu/edpb_en)
     * [EDPS- European Data Protection Supervisor](https://edps.europa.eu/_en)
+    * [DPC- Data Protection Commission](https://dataprotection.ie/)
     * [ENISA - European Union Agency for Network and Information Security](https://www.enisa.europa.eu/topics/data-protection)
     * [CNIL - 法国： Commission Nationale de l'Informatique et des Libertés ](https://www.cnil.fr/en/home)
     * [ICO - UK Information Commissioner's Office ](https://ico.org.uk/)
     * [OAIC - Office of the Australian Information Commissioner ](https://www.oaic.gov.au/)
     * [PPC - 日本： Personal Information Protection Commission ](https://www.ppc.go.jp)
     * [OPC - 加拿大：Office of the Privacy Commissioner of Canada  ](https://www.priv.gc.ca/en/)
-
+    * [AEPD - 西班牙：Agencia Española de Protección de Datos](https://www.aepd.es/es)
+    * [HDPA - 希腊： Hellenic Data Protection Authority](http://www.dpa.gr/en/hdpa/profile)
 
 * 其他重要机构
     * [IAPP - International Association of Privacy Professionals](https://iapp.org/) - 国际隐私专业人员协会
