@@ -441,7 +441,7 @@
         * [federated](https://github.com/tensorflow/federated) google开源的基于tensorflow的联邦学习框架
         * [FederatedScope](https://github.com/alibaba/FederatedScope) 阿里开源的联邦学习平台
         * [mindspore](https://github.com/mindspore-ai/mindspore) 华为开源的一个适用于云边端的新型开源学习训练和联邦学习的框架，比较活跃
-        * [PyVertical](https://github.com/OpenMined/PyVertical) 华为开源的一个适用于云边端的新型开源学习训练和联邦学习的框架，比较活跃
+        * [PyVertical](https://github.com/OpenMined/PyVertical) OpenMined 用于隐私保护、纵向联邦学习的框架
         * [openfl](https://github.com/intel/openfl) intel维护的一个联邦学习框架
         * [OpenHealth](https://github.com/QibingLee/OpenHealth) openmined开源的一个联邦学习框架
     * 可信执行环境（FEE-Trusted Execution Environment）
