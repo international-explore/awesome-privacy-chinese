@@ -1,4 +1,4 @@
-# 国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese)
+# 国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese) [!star](https://img.shields.io/github/stars/international-explore/awesome-privacy-chinese?style=plastic) [!fork](https://img.shields.io/github/forks/international-explore/awesome-privacy-chinese?style=plastic) 
 
 
 > 旨在收集和分享隐私合规相关的一些领域知识和技术信息，涵盖且不限于法律法规、业内白皮书、隐私计算技术、相关创业企业、基础概念、词汇等。
