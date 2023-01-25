@@ -353,6 +353,7 @@
     * [翼方健数 - 安全计算](https://www.basebit.ai/) | 理念：隐私安全计算加速数据要素流动，激活数据共享价值
     * [华控清交 - 安全计算](https://www.tsingj.com/) | 理念：让数据安全融合，使信任变得简单
     * [原语科技 - 隐私计算](https://www.primihub.com/) | 目前平台已经在GitHub开源：[PrimiHub](https://github.com/primihub/primihub)
+    * [锘崴科技 - 隐私计算](https://nvxclouds.com/) | 理念：链接数据价值 做隐私安全的守护者
 
 ## 大厂隐私中心
 
