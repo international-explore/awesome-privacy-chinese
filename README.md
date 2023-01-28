@@ -514,6 +514,8 @@
 * 数据安全治理专委会 - 浙江省网络空间安全协会数据安全治理专委会公众号，会推送一些政策新闻等。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337324&ver=1&signature=LCUKxhrvdUn4UHNdyDUDIrfceWgKm*4UAannUe29k5KTUZVFu3Sl5wiR*J*Gd0OEVAn75NWV43oIMmYPwiNRqA==)
 
 ## 重要会议
+* 世界经济论坛
+    * 23届：2023年1月，主题：“在分裂的世界中加强合作”，提出了[DFFT(Data Free Flow with Trust)](https://cn.weforum.org/whitepapers/data-free-flow-with-trust-overcoming-barriers-to-cross-border-data-flows)
 * 数据安全治理峰会
     * 第2届：2023年1月，主题：“筑牢安全根基 促进数据利用”；主办反：信通院、通信标准协会
 
