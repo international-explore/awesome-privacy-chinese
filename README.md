@@ -87,6 +87,7 @@
   * [GB/T 42017-2022 - 网络预约汽车服务数据安全要求](https://www.tc260.org.cn/file/2020-11-10/d7f8726e-d793-4ac2-8a5e-1a2ae701dd66.pdf) 国内网约车数据安全指南，20230501生效
   * [GB/T 42871-2022 - 汽车数据处理安全要求](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4D3C5BB193E079AD54294E5845749B8F) 国内汽车数据处理安全要求，[相关解释参考](./files/assets/汽车数据处理安全要求图片.jpeg)
   * [《汽车数据安全管理若干规定》 - 2021/10/01](http://www.cac.gov.cn/2021-08/20/c_1631049984897667.htm) | [官方答记者问](https://mp.weixin.qq.com/s/rxL7pUJV3P7sGAFqdjTZoA)
+  * [《汽车数据安全若干问题合规实践指南》 - 2023/01/30](https://mp.weixin.qq.com/s/cSudQQ8WpPDgOCwa3JdOkQ) | [官微介绍](https://mp.weixin.qq.com/s/cSudQQ8WpPDgOCwa3JdOkQ)
 
   #### 数据分级相关法规
   * [《GB/T 35273-2020 个人信息安全规范》](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=4568F276E0F8346EB0FBA097AA0CE05E) | 分为个人信息PII和个人敏感信息SPII
@@ -326,6 +327,7 @@
 * 海外创业公司
     * [trustArc - 隐私管理](https://trustarc.com/) | 理念：Streamline Privacy Management & Reduce costs.
     * [onetrust - 隐私管理](https://www.onetrust.com/) | 理念：Make Trust Your Competitive Advantage
+    * [Drata - 自动化隐私风险管理](https://drata.com/) 理念：Trust, Automated.
     * [disconnect - 网络追踪和安全](https://disconnect.me/) | 理念：Powerful privacy protection with one tap
     * [incountry - 数据本地化](https://incountry.com/) | 理念：GLOBAL APPS, LOCAL COMPLIANCE
     * [cookiepro - cookie解决方案](https://www.cookiepro.com/) | 理念：get cookie complaince
@@ -519,6 +521,8 @@
     * 23届：2023年1月，主题：“在分裂的世界中加强合作”，提出了[DFFT(Data Free Flow with Trust)](https://cn.weforum.org/whitepapers/data-free-flow-with-trust-overcoming-barriers-to-cross-border-data-flows)
 * 数据安全治理峰会
     * 第2届：2023年1月，主题：“筑牢安全根基 促进数据利用”；主办反：信通院、通信标准协会
+* 可信隐私计算峰会
+    * 第1届：2022年12月，主题：“推进隐私计算互联互通，助力可信数据要素流通”；主办反：信通院、隐私计算联盟
 
 ## 网站外链
 
@@ -549,3 +553,5 @@
     * [OWASP Top Ten](https://owasp.org/www-project-top-ten/) - top 10 web security risk
     * [网安](https://www.wangan.com/) - 网络安全相关资讯
     * [FreeBuf](https://www.freebuf.com/) - 网络安全行业门户
+* 技术趋势相关
+    * [gartner five trends in privacy through 2024](https://www.gartner.com/en/newsroom/press-releases/2022-05-31-gartner-identifies-top-five-trends-in-privacy-through-2024)
