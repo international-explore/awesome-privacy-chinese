@@ -238,6 +238,12 @@
 * Sensor-Based Surveillance: 基于传感器的监视
 * Ubiquitious: 无处不在的 Ubiquitious computing: smart city
 * transient: 短暂的 transient storage 暂存，比如cache,mem等，与之相反是persist storage
+* ACL：Access Control List 访问控制列表
+* DAC：Discretionary Access Control 自主访问控制
+* MAC：Mandatory Access Control 强制访问控制。
+* RABC：Role-Based Access Control 基于角色的访问控制，以及RABC0，RABC1（继承），RABC2（互相约束），RABC3等
+* ABAC：Attribute-Based Access Control 基于属性的权限控制
+* NGAC：Next Generation Access Control 下一代访问权限控制，一次性权限等
 
 
 ### 隐私阅读涉及
