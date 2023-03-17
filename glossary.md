@@ -42,7 +42,6 @@
 * EDPS：[European Data Protection Supervisor](https://edps.europa.eu/_en) 欧洲数据资料保护机构-TODO 确认侧重点和区别
 * EDPD：[European Data Protection Board](https://edpb.europa.eu/edpb_en)
 * ENISA：[European Union Agency for Network and Information Security](https://www.enisa.europa.eu/topics/data-protection)
-* IAPP：International Association of Privacy Professionals 国际隐私专业人员协会
 * SOC：System and Organization Controls 第三方会计师事务所依据美国注册会计师协会（AICPA）的相关准则出具的服务机构内部控制相关的系列报告
 * CSMS： Cyber Security Management System 网络安全管理系统
 * SEC：United States Securities and Exchange Commission 美国证券交易委员会
@@ -244,6 +243,7 @@
 * RABC：Role-Based Access Control 基于角色的访问控制，以及RABC0，RABC1（继承），RABC2（互相约束），RABC3等
 * ABAC：Attribute-Based Access Control 基于属性的权限控制
 * NGAC：Next Generation Access Control 下一代访问权限控制，一次性权限等
+* OPE：Order Preserving Encryption 保序加密，数据加密后保留顺序等
 
 
 ### 隐私阅读涉及
