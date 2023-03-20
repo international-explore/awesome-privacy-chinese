@@ -155,7 +155,8 @@
 * Dissemination: 传播（Information Dissemination 信息传播）
 * distortion: 失真 (Disseminating-传播 false or misleading information about an individual)
 * Exposure：曝光（Revealing an individual’s nudity, grief or bodily functions）
-* 
+* forefront：前置，相较于afterthought 一般隐私管理提倡前置
+* aggregate：一般指数据的聚合
 
 
 ### 安全相关
@@ -244,6 +245,10 @@
 * ABAC：Attribute-Based Access Control 基于属性的权限控制
 * NGAC：Next Generation Access Control 下一代访问权限控制，一次性权限等
 * OPE：Order Preserving Encryption 保序加密，数据加密后保留顺序等
+* BYOD：bring your own device 
+* COBIT：Control Objectives for Information Technologies 信息相关技术控制目标
+* ITIL：Information Technology Infrastructure Library 信息技术基础设施库
+* 
 
 
 ### 隐私阅读涉及
