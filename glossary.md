@@ -50,6 +50,8 @@
 * OTT：over the top 一般指越过运营商，通过互联网向用户提供服务，比如互联网电视等
 * PETs: Privacy-Enhancing Technologies 隐私加强技术
 * CIPA：The U.S. Children’s Internet Protection Act (CIPA) 美国儿童网络保护
+* NICE：National Initiative for Cybersecurity Education's Cybersecurity Workforce Framework 
+* 
 
 ## 相关单词
 
@@ -169,9 +171,37 @@
 * Computer Forensics：计算机取证，评估和检查信息系统以获取相关线索
 * Concept of Operations：可以交操作过程或者内容，一般是指从头到尾把软件运行一遍
 * Context aware computing：上下文感知，这里更多的是指环境适应（亮度等），不是AI的上下文感知。
+* Context of authority：内容权限，此处更多的是描述非必要不授权
+* Contextual Advertising：情景广告
+* Contextual Integrity：场景完整性，
+* Coupling：耦合
+* Cyberbullying：网络欺凌
+* Data Loss Prevention：数据丢失保护
+* Data Matching：数据匹配
+* Data Recipient：数据接受者
+* Declared Data：申报数据
+* Demographic Advertising：基于统计的广告
+* Differential identifiability：差异的可识别性
+* Distortion：扭曲
+* EU Data Protection Directive：欧洲数据保护指令
+* Exclusion：排除
+* Exposure：曝光
+* Extensible Markup Language：扩展标记语言
+* Extranet：外联网
+* Federated identity：联邦识别（A model in which a person's identity is authenticated in a trusted centralized service）
+* Intrusion reports：入侵报告
+* Just-in-Time Notification：及时通知，更多的是如何快速告知用户
+* Layered Notice：分层通知
+* Least Privilege：权限最小化
+* Omnibus Laws：综合法，区别于sectorial laws 行业法规
+* Passive Collection：被动收集，在用户不知情的情况下进行收集
+* Psychographic Advertising：心理广告
+* Remnant Advertising：几个广告种类之一，其他比如：Behavioral Advertising, Contextual Advertising, Demographic Advertising, Psychographic Advertising, Premium Advertising
+* 
+
+
 
 ### 安全相关
-
 * encryption：加密
 * decryption：解密
 * confidentiality：保密，机密性
@@ -194,6 +224,7 @@
 * secure multiparty computation：安全多方计算
 * obsolescence：过时的，淘汰的 =》比如DES
 * brute force attack：暴力攻击
+* Seal Programs：密封程序
 * key search attack：密钥搜索攻击
 * subverted：颠覆
 * CBC：cypher block chaining
@@ -230,6 +261,7 @@
 * stream ciphers：流密码（对应block ciphers，针对aes的秘钥处理）
 * obfuscate：混淆（hash or encryption）
 * perturb：扰乱（加密和混淆的一种方式，类似group）
+* Perimeter Controls：周边控制（从外部控制入侵）
 * Aggregation-Based approaches:基于聚合的防范
 * Biometrics：生物信息，比如人脸等
 * Incidental：偶然的（Incidental or unplanned sources of identity 偶然和计划外的识别标识-ip address or browse cookies）
@@ -238,8 +270,10 @@
 * Generalization：泛化，通常de-ID的三种方式（Suppression，Generalization and noise addition）
 * imputation：污名化处理（Data imputation can be used to replace the suppressed values with plausible data without risking privacy）
 * plausible：是是而非
+* Polymorphic：多态的
 * local differential privacy：本地化查分隐私
 * tamperproof：防篡改
+* Pharming：肉鸡，类似的单词还有Phishing, Spear Phishing, Whaling
 * thumb driver: U盘
 * mandatory access control: 强制访问控制，注意区分（dictionary access control或者RAC）
 * MLS：multilevel security 多级安全
@@ -259,7 +293,8 @@
 * BYOD：bring your own device 
 * COBIT：Control Objectives for Information Technologies 信息相关技术控制目标
 * ITIL：Information Technology Infrastructure Library 信息技术基础设施库
-* 
+* IAB：Interactive Advertising Bureau 互动广告局，广告相关的标准
+* SPAM：垃圾邮件
 
 
 ### 隐私阅读涉及
