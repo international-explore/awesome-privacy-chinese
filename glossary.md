@@ -11,7 +11,6 @@
 ## 权威网站
 * [IAPP glossary](https://iapp.org/resources/glossary/) - IAPP的词汇库
 ## 相关缩写
-
 * GDPR：General Data Protection Regulation 欧盟数据通用保护法，参考（<https://gdpr.eu/>）
 * EDPB ：European Data Protection Board  欧洲数据保护委员会，参考（<https://edpb.europa.eu/edpb_en>）
 * LGPD ：Lei Geral de Proteção de Dados 巴西通用数据保护法，参考（<https://gdpr.eu/gdpr-vs-lgpd/>）
@@ -157,7 +156,19 @@
 * Exposure：曝光（Revealing an individual’s nudity, grief or bodily functions）
 * forefront：前置，相较于afterthought 一般隐私管理提倡前置
 * aggregate：一般指数据的聚合
-
+* AdChoices：广告选项，是指可以关闭DAA（Digital Advertising Alliance）的信息
+* Adequate Level of Protection：足够的保护水平，通常是跨境情况下，与传输给第三方国家的水平
+* Adverse Action：不良行为，信用、商业、员工等各种可能负向影响用户的行为
+* Anthropomorphism ：拟人化
+* Appropriation：侵吞，挪用（Using someone's identity for another person's purposes.）
+* Audit Trail：审计追踪（monitor, track, record, or validate an activity.）
+* Breach Disclosure：违规披露
+* Breach of confidentiality：违反保密规定。（Revealing an individual's personal information, despite a promise not to do so）
+* Communications Privacy：通讯隐私，四层隐私之一，其他三个：information privacy, bodily privacy and territorial privacy（国土）.
+* Completeness Arguments：完整性设计，确保新系统满足隐私的主要手段
+* Computer Forensics：计算机取证，评估和检查信息系统以获取相关线索
+* Concept of Operations：可以交操作过程或者内容，一般是指从头到尾把软件运行一遍
+* Context aware computing：上下文感知，这里更多的是指环境适应（亮度等），不是AI的上下文感知。
 
 ### 安全相关
 
@@ -238,7 +249,7 @@
 * Sensor-Based Surveillance: 基于传感器的监视
 * Ubiquitious: 无处不在的 Ubiquitious computing: smart city
 * transient: 短暂的 transient storage 暂存，比如cache,mem等，与之相反是persist storage
-* ACL：Access Control List 访问控制列表
+* ACL：Access Control List 访问控制列表，相关单词：Access Control Entry指的是具体的控制条目
 * DAC：Discretionary Access Control 自主访问控制
 * MAC：Mandatory Access Control 强制访问控制。
 * RABC：Role-Based Access Control 基于角色的访问控制，以及RABC0，RABC1（继承），RABC2（互相约束），RABC3等
