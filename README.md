@@ -1,5 +1,4 @@
-# [WIP]国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese) ![GitHub Repo stars](https://img.shields.io/github/stars/international-explore/awesome-privacy-chinese?style=plastic)  ![GitHub Repo fork](https://img.shields.io/github/forks/international-explore/awesome-privacy-chinese?style=plastic)
-
+# [WIP]国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese) 
 
 > 旨在收集和分享隐私合规相关的一些领域知识和技术信息，涵盖且不限于法律法规、业内白皮书、隐私计算技术、相关创业企业、基础概念、词汇等。
 
@@ -17,11 +16,12 @@
         * [2023年02月](./news/202302.md)
         * [2023年03月](./news/202303.md)
         * [2022年 新闻归档和汇总](./news/2022_ALL.md)
-* 工程工具
+* 技术工具
     * [🚀 隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
-    * [🔨 隐私相关工具](#相关工具) - 隐私相关的一些工具
-    * [📘 隐私相关书籍](#书籍) - 隐私相关书籍推荐
-    * [💬 隐私相关公众号](#微信公众号) - 隐私和安全相关公众号
+    * [🔨 工具收集](#相关工具) - 隐私相关的一些工具
+    * [📘 相关书籍](#书籍) - 隐私相关书籍推荐
+    * [💬 相关公众号](#微信公众号) - 隐私和安全相关公众号
+    * [🐾 落地实践](#落地实践) - 不错的落地实践
     * [📎 网站外链](#网站外链) - 隐私相关重要新闻、资源外链
 
 
@@ -332,7 +332,6 @@
     * [美团安全中心](https://security.meituan.com/)
 
 ## 相关工具
-
 * 隐私
     * [Android 隐私沙盒](https://developer.android.google.cn/design-for-safety/privacy-sandbox) - 保护隐私同时为移动应用打造高效的个性化广告体验，[当前进度](https://developer.android.google.cn/design-for-safety/privacy-sandbox/progress-updates/latest)
     * [GDPR-checklist](https://github.com/privacyradius/gdpr-checklist) - GDPR的一个检查工具，目前看相对简单
@@ -393,6 +392,7 @@
         * [fedlearner](https://github.com/bytedance/fedlearner) 头条的多方协作机器学习框架
         * [private join and compute](https://github.com/google/private-join-and-compute) google开源的多方安全计算库
     * 联邦学习（FL-Federated Learning）
+        * [highflip](https://github.com/baidu/highflip) 百度2023年开源的解决联邦学习平台互通的顶层协议
         * [PaddleFL](https://github.com/PaddlePaddle/PaddleFL) 百度开源的基于paddlepaddle的联邦学习框架
         * [crypTen](https://github.com/facebookresearch/CrypTen) facebook开源的基于pytorch的联邦学习框架
         * [FateAI](https://github.com/FederatedAI/FATE) 微众发起的联邦学习工业级开源框架，目前比较活跃
@@ -478,6 +478,12 @@
     * 第2届：2023年1月，主题：“筑牢安全根基 促进数据利用”；主办反：信通院、通信标准协会
 * 可信隐私计算峰会
     * 第1届：2022年12月，主题：“推进隐私计算互联互通，助力可信数据要素流通”；主办反：信通院、隐私计算联盟
+
+## 落地实践
+* 国内经验
+    * [字节分布式数据治理的思路](https://mp.weixin.qq.com/s/eQCe3CWZ-h6z_hZJnQsULQ) 从问题出发，分布式自治
+* 海外精要
+  
 
 ## 网站外链
 
