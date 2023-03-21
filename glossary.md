@@ -197,7 +197,7 @@
 * Passive Collection：被动收集，在用户不知情的情况下进行收集
 * Psychographic Advertising：心理广告
 * Remnant Advertising：几个广告种类之一，其他比如：Behavioral Advertising, Contextual Advertising, Demographic Advertising, Psychographic Advertising, Premium Advertising
-* 
+* Imposing controls：实时控制
 
 
 

@@ -133,7 +133,6 @@ NIST的隐私风险评估方法，分为六步闭环操作
 
 ### [OECD privacy principle](http://oecdprivacy.org/)
 OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括如下八大部分
-
 - 1. Collection Limitation Principle: 最小化收集原则
 - 2. Data Quality Principle: 数据质量保证原则
 - 3. Purpose Specification Principle: 目的明确原则
@@ -166,6 +165,15 @@ OECD 隐私标准是当前普遍适用的针对隐私的的框架，主要包括
 - 5. **End-to-End Security — Full Lifecycle Protection**: 端对端安全，全生命周期保护
 - 6. **Visibility and Transparency — Keep it Open**: 保证足够的可见性和透明性
 - 7. **Respect for User Privacy — Keep it User-Centric**：尊重用户隐私，保持用户为中心
+
+其中PhD的quality包括几个部分
+- 1. **Identifiability**：权限确认身份
+- 2. **Network centricity**：网络尽可能中心化，本地化
+- 3. **Confidentiality**：数据具备保密，但可以被访问
+- 4. **Availability**：数据可用
+- 5. **Integrity**：数据完整，准确
+- 6. **Mobility**：数据可移动
+
 
 ### [NCASE privacy princepels](https://www.ftc.gov/sites/default/files/documents/reports/privacy-online-report-congress/priv-23a.pdf)
 NCASE是FTC提出的关于隐私的一些核心原则，其中NCASE是五个英文单词的缩写
