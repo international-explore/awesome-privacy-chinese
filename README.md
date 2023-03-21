@@ -321,6 +321,15 @@
     * [阿里隐私中心](https://privacy.alibabagroup.com/#/home) |安全有责 隐私有界
     * [阿里云隐私中心](https://security.aliyun.com/trust) |云即信任
     * [百度隐私中心](http://privacy.baidu.com/)  | 同意，透明，可控
+* 国内大厂安全中心
+    * [华为云数据安全中心](https://support.huaweicloud.com/dsc/index.html)
+    * [腾讯云数据安全中心](https://cloud.tencent.com/product/dsgc) 
+    * [阿里云数据安全中心](https://help.aliyun.com/product/88674.html)
+    * [百度数据安全中心](https://anquan.baidu.com/product/dpsec)
+    * [360数据安全中心](https://360.net/product-center/360-data-safe/data-encrypt-system)
+    * [小米安全中心](https://trust.mi.com/zh-CN/misrc)
+    * [头条安全中心](https://security.bytedance.com/)
+    * [美团安全中心](https://security.meituan.com/)
 
 ## 相关工具
 
