@@ -1,4 +1,4 @@
-# [WIP]国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese) 
+# [WIP]国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese)
 
 > 旨在收集和分享隐私合规相关的一些领域知识和技术信息，涵盖且不限于法律法规、业内白皮书、隐私计算技术、相关创业企业、基础概念、词汇等。
 
@@ -15,6 +15,7 @@
         * [2023年01月](./news/202301.md)
         * [2023年02月](./news/202302.md)
         * [2023年03月](./news/202303.md)
+        * [2023年04月](./news/202304.md)
         * [2022年 新闻归档和汇总](./news/2022_ALL.md)
 * 技术工具
     * [🚀 隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
@@ -323,7 +324,7 @@
     * [百度隐私中心](http://privacy.baidu.com/)  | 同意，透明，可控
 * 国内大厂安全中心
     * [华为云数据安全中心](https://support.huaweicloud.com/dsc/index.html)
-    * [腾讯云数据安全中心](https://cloud.tencent.com/product/dsgc) 
+    * [腾讯云数据安全中心](https://cloud.tencent.com/product/dsgc)
     * [阿里云数据安全中心](https://help.aliyun.com/product/88674.html)
     * [百度数据安全中心](https://anquan.baidu.com/product/dpsec)
     * [360数据安全中心](https://360.net/product-center/360-data-safe/data-encrypt-system)
@@ -483,7 +484,7 @@
 * 国内经验
     * [字节分布式数据治理的思路](https://mp.weixin.qq.com/s/eQCe3CWZ-h6z_hZJnQsULQ) 从问题出发，分布式自治
 * 海外精要
-  
+
 
 ## 网站外链
 
