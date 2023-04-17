@@ -198,6 +198,8 @@
 * Psychographic Advertising：心理广告
 * Remnant Advertising：几个广告种类之一，其他比如：Behavioral Advertising, Contextual Advertising, Demographic Advertising, Psychographic Advertising, Premium Advertising
 * Imposing controls：实时控制
+* Discrimination：一般是指算法歧视，类似与bias（偏见）
+* slander：诽谤
 
 
 
