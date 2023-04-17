@@ -1,4 +1,4 @@
-# [WIP]国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese) 
+# [WIP]国内隐私技术交流 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![License](https://img.shields.io/github/license/international-explore/awesome-privacy-chinese.svg?color=green)](https://github.com/international-explore/awesome-privacy-chinese/blob/main/LICENSE) ![](https://img.shields.io/github/last-commit/international-explore/awesome-privacy-chinese)
 
 > 旨在收集和分享隐私合规相关的一些领域知识和技术信息，涵盖且不限于法律法规、业内白皮书、隐私计算技术、相关创业企业、基础概念、词汇等。
 
@@ -15,6 +15,7 @@
         * [2023年01月](./news/202301.md)
         * [2023年02月](./news/202302.md)
         * [2023年03月](./news/202303.md)
+        * [2023年04月](./news/202304.md)
         * [2022年 新闻归档和汇总](./news/2022_ALL.md)
 * 技术工具
     * [🚀 隐私新技术](#隐私新技术) - 隐私相关的新技术，隐私计算、隐私检测等
@@ -323,7 +324,7 @@
     * [百度隐私中心](http://privacy.baidu.com/)  | 同意，透明，可控
 * 国内大厂安全中心
     * [华为云数据安全中心](https://support.huaweicloud.com/dsc/index.html)
-    * [腾讯云数据安全中心](https://cloud.tencent.com/product/dsgc) 
+    * [腾讯云数据安全中心](https://cloud.tencent.com/product/dsgc)
     * [阿里云数据安全中心](https://help.aliyun.com/product/88674.html)
     * [百度数据安全中心](https://anquan.baidu.com/product/dpsec)
     * [360数据安全中心](https://360.net/product-center/360-data-safe/data-encrypt-system)
@@ -458,18 +459,18 @@
 ## 微信公众号
 关于隐私计算和数据安全的一些公众号，几乎都是周更常看的，如果链接失效，建议直接采用sogou搜索名称即可 [跳转搜索](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8&ie=utf8&_sug_=n&_sug_type_=)
 
-* 隐私计算联盟 - 信通院 -关于隐私计算交流的组织。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337630&ver=1&signature=s9bXdU2y-95OhcE4*Pa9QAIQhHhhVIeuJIQd3ZHzemGgJU0k*9pBOJG6RRsl713qRe0JozbzT5OBXEvL0E52WQ==)
-* 开放隐私计算 - 国内隐私计算交流的社区，更新频繁。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337604&ver=1&signature=dhiWT6MvfCePqPWmRyU6OkEiXn0c-OmEsyC08VmWnCq40Cme1dzAWvsiOj89zia-HighuWR5PwzgN22wcIcvmQ==)
-* 数据安全与隐私计算 - 可隐数据实验室，政策和数据安全一些新闻。[跳转关注](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzkyNzM0NzA3Ng==&scene=124#wechat_redirect)
-* 数据安全推进计划 - 信通院关于数据安全推进的组织，会发一些专家文章。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666338000&ver=1&signature=JotO0mfIgl55oA1BbhGeiUFaR2ItPiJl3BPZNqHiJs*MnTjRvtdYGm5iSPaGGjbXo*Mv7XClZCIv3MOw*ItnAw==)
-* 数据安全共同体计划 - 信通院关于数据安全共同体的组织。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666338000&ver=1&signature=OkGmfQJbZKRUdn308ETB0fM81QzT31K6zD-6wU9l6Y0KzV00fCDrvD7ZpuO3jCAOFi-aUVFolni0x9rng3209g==)
-* 车联网安全推进计划 - 信通院关于车联网的组织。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666338000&ver=1&signature=G18tyMbDfEE9FJGk-O9cQK2K9pUpf078AOZKyYK-lnE4kVvy0tTHXYbBV4WTCcxyozEQtuoq3f-iT3OWDDU33A==)
-* 数据安全治理技术 - 信息安全、秘钥算法等技术问题。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666338131&ver=1&signature=AIk2aurR9bsT0CCso-VKzvf8umL73sdT9Shuc70HD2Ap7nfjnVcJIeFlraSJw1ozEmZZOqkGlETNbX4Kgx30PA==)
-* 网络安全与数据治理 - 华北计算机系统工程院 学术研究多一些。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666338225&ver=1&signature=93-uPtrGpSNQK8hN-TLPWwKbHt7pL2dEy1*81heORTs*AqZZTJHrIJaU9AAfjJhLs3n82oCSjqepOQXhFaQHIg==)
-* 信安协数据安全与隐私计算 - 上海信安协和隐私计算官方微信号。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337324&ver=1&signature=Mu7-Ix6hKYRfBh9SNPAPtpx7cYOJ6-RArjjYyiO0ylS2gkeKHcT0Eq3-8xpY-GmL4KDUZlASS5ktfNAqyzXdsg==)
-* 数据安全研究院 - 哈工大&奇安信数据安全研究院。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666338308&ver=1&signature=QCtSmrBvkU9F8*6U1oAsAQ508wwCqjYIYk6r7Hb79BNMBxFqL5baqtiZTw-EwneGmFjGJr27TYVCWCDgBHZhlw==)
-* 阿里数据安全研究院 - 阿里的数据安全研究。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666338308&ver=1&signature=IJ3JdMISbuZMVMDCfrDJGFWa3G3XBmWJckC84h-Q82b1*2UBt8UdirhuQsLAuYKUqQgGh1Tk1VlCBMFddl6CJQ==)
-* 数据安全治理专委会 - 浙江省网络空间安全协会数据安全治理专委会公众号，会推送一些政策新闻等。[跳转关注](http://mp.weixin.qq.com/profile?src=3&timestamp=1666337324&ver=1&signature=LCUKxhrvdUn4UHNdyDUDIrfceWgKm*4UAannUe29k5KTUZVFu3Sl5wiR*J*Gd0OEVAn75NWV43oIMmYPwiNRqA==)
+* 隐私计算联盟 - 信通院 -关于隐私计算交流的组织。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=隐私计算联盟)
+* 开放隐私计算 - 国内隐私计算交流的社区，更新频繁。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=开放隐私计算)
+* 数据安全与隐私计算 - 可隐数据实验室，政策和数据安全一些新闻。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=数据安全与隐私计算)
+* 数据安全推进计划 - 信通院关于数据安全推进的组织，会发一些专家文章。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=数据安全推进计划)
+* 数据安全共同体计划 - 信通院关于数据安全共同体的组织。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=数据安全共同体计划)
+* 车联网安全推进计划 - 信通院关于车联网的组织。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=车联网安全推进计划)
+* 数据安全治理技术 - 信息安全、秘钥算法等技术问题。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=数据安全治理技术 )
+* 网络安全与数据治理 - 华北计算机系统工程院 学术研究多一些。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=网络安全与数据治理 )
+* 信安协数据安全与隐私计算 - 上海信安协和隐私计算官方微信号。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=信安协数据安全与隐私计算)
+* 数据安全研究院 - 哈工大&奇安信数据安全研究院。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=数据安全研究院)
+* 阿里数据安全研究院 - 阿里的数据安全研究。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=阿里数据安全研究院)
+* 数据安全治理专委会 - 浙江省网络空间安全协会数据安全治理专委会公众号，会推送一些政策新闻等。[跳转关注](https://weixin.sogou.com/weixin?ie=utf8&s_from=input&_sug_=n&_sug_type_=&type=1&query=数据安全治理专委会)
 
 ## 重要会议
 * 世界经济论坛
@@ -483,7 +484,7 @@
 * 国内经验
     * [字节分布式数据治理的思路](https://mp.weixin.qq.com/s/eQCe3CWZ-h6z_hZJnQsULQ) 从问题出发，分布式自治
 * 海外精要
-  
+
 
 ## 网站外链
 
