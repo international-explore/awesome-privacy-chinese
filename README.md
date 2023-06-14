@@ -435,8 +435,11 @@
 * 端隐私技术
     * [android 隐私沙盒技术](https://developer.android.com/design-for-safety/ads)
 
-* 隐私体系学习
-    * CIPT认证脑图
+* 体系学习和考试认证
+    * CIPT认证
+        * [证书简介]
+        * [知识体系]
+        * [扩展内容]
         * [chapter1-privacy 脑图](./files/CIPT/chapter1-privacy.png)
         * [chapter2-1 Engineer&Privacy 脑图](./files/CIPT/chapter2-1%20Engineer&%20Privacy.png)
         * [chapter2-2 Engineer&Privacy 脑图](./files/CIPT/chapter2-2%20Engineer%20&%20Privacy.png)
