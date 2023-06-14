@@ -324,6 +324,7 @@
     * [阿里隐私中心](https://privacy.alibabagroup.com/#/home) |安全有责 隐私有界
     * [阿里云隐私中心](https://security.aliyun.com/trust) |云即信任
     * [百度隐私中心](http://privacy.baidu.com/)  | 同意，透明，可控
+    * [印象笔记隐私中心](https://www.yinxiang.com/privacy/) | 数据是用户的，受保护，可转移
 * 国内大厂安全中心
     * [华为云数据安全中心](https://support.huaweicloud.com/dsc/index.html)
     * [腾讯云数据安全中心](https://cloud.tencent.com/product/dsgc)
