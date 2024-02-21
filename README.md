@@ -126,7 +126,7 @@
   * [43 GPA 关于儿童数字权利的决议](https://globalprivacyassembly.org/wp-content/uploads/2021/10/20211025-GPA-Resolution-Childrens-Digital-Rights-Final-Adopted.pdf)
 
   #### 算法人工智能相关
-  * [欧洲《人工智能法案》EU AI Art- 2022/05](https://artificialintelligenceact.eu/) | [timeline](https://www.accessnow.org/the-eu-ai-act-proposal-a-timeline/)
+  * [欧洲《人工智能法案》EU AI Act- 2022/05](https://artificialintelligenceact.eu/) | [timeline](https://www.accessnow.org/the-eu-ai-act-proposal-a-timeline/)
   * [《互联网信息服务算法推荐管理规定》 - 2022/03/01](http://www.cac.gov.cn/2022-01/04/c_1642894606364259.htm) | [官方解读](https://mp.weixin.qq.com/s/z6lPpeZ5RJXAeMjo7l2NGA)
   * [《互联网信息服务深度合成管理规定》 - 2022/12/11](https://mp.weixin.qq.com/s/smtBcuXZzC6K1QYp90lCCA) | [官方答记者问](https://mp.weixin.qq.com/s/qFWNV52YoiVYqQSecOEyCQ)
 
