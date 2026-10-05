@@ -423,6 +423,7 @@
     * [gihub policy](https://github.com/github/site-policy)  - github开源了所有的政策包
     * [Medium's Policies and Guidelines](https://github.com/Medium/medium-policy)  - 中小型的隐私政策包
     * [Employee IP](https://github.com/github/balanced-employee-ip-agreement/blob/main/Employee_IP_Laws.md)  - 员工IP和知识产权相关的法规
+    * [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ## 隐私新技术
 
