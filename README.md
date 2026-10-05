@@ -548,6 +548,7 @@
     * [Awesome-Federated-Machine-Learning](https://github.com/innovation-cat/Awesome-Federated-Machine-Learning/blob/master/README.md) - 联邦学习相关
     * [awesome-zk](https://github.com/ventali/awesome-zk) - 零知识证明英文资料
     * [Awesome Trustworthy Deep Learning](https://github.com/MinghuiChen43/awesome-trustworthy-deep-learning) - 可信深度学习相关文献列表
+    * [dengbao-checklist](https://github.com/djbhnds/dengbao-checklist) - 等保 2.0（GB/T 22239-2019）二级/三级自查清单，198 条面向非技术读者的自查问题（标准通用要求抽取版），附整改建议与预算区间，JSON/CSV 机读格式
 * 政府相关
     * [新加坡 pdpc](https://www.pdpc.gov.sg/) - 新加坡个人数据保护组织
     * [人民数保](https://pdc.peopleyun.cn/home) - 人民网提供的二次数据上链和确权、共享的平台，目前非常初期。 | [PDC白皮书](https://pdc.peopleyun.cn/dataSourceCentre?tabIndex=1)
