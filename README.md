@@ -499,6 +499,7 @@
     * [guide to basic anonymisation](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Advisory-Guidelines/Guide-to-Basic-Anonymisation-31-March-2022.ashx) - 2022 新加坡官方的脱敏指南
 * 中文书籍
     * [联邦学习](https://book.douban.com/subject/35062813/)
+    * [《Tor 解剖》(Anatomia di Tor / Onion Routing Anatomy)](https://github.com/aleff-github/onion-routing-anatomy/tree/main/book/zh-Hans) - 免费开源的 Tor 协议技术书籍，包含 20 个 Python 和 Docker 实验；中文版由 AI 翻译，尚未经母语者审校。
 * 英文视频
     * [TED - Why Privacy Matters](https://www.ted.com/talks/glenn_greenwald_why_privacy_matters) - by Glenn Greenwald
     * [TED - Online Privacy Doesn't Exist](https://www.youtube.com/watch?v=LgWrD3EJ1Do) - 数据导致的意想不到的危险，作者：Denelle Dixon
